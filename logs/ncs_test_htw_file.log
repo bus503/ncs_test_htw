@@ -1,0 +1,2124 @@
+[TRACE] [2020-02-14 18:03:15] setUpBeforeClass()
+[TRACE] [2020-02-14 18:03:15] setUp()
+[TRACE] [2020-02-14 18:03:15] test01SelectTitleByNo()
+[TRACE] [2020-02-14 18:03:16] SQL ==> select no, titlename from title where no=3
+[TRACE] [2020-02-14 18:03:16] Title [titleNo=3, titleName=°úÀå]
+[TRACE] [2020-02-14 18:03:16] tearDown()
+[TRACE] [2020-02-14 18:03:16] setUp()
+[TRACE] [2020-02-14 18:03:16] test02SelectTitleByAll()
+[TRACE] [2020-02-14 18:03:16] Title [titleNo=1, titleName=»çÀå]
+[TRACE] [2020-02-14 18:03:16] Title [titleNo=2, titleName=ºÎÀå]
+[TRACE] [2020-02-14 18:03:16] Title [titleNo=3, titleName=°úÀå]
+[TRACE] [2020-02-14 18:03:16] Title [titleNo=4, titleName=´ë¸®]
+[TRACE] [2020-02-14 18:03:16] Title [titleNo=5, titleName=»ç¿ø]
+[TRACE] [2020-02-14 18:03:16] tearDown()
+[TRACE] [2020-02-14 18:03:16] setUp()
+[TRACE] [2020-02-14 18:03:16] test03InsertTitle()
+[TRACE] [2020-02-14 18:03:16] Title [titleNo=6, titleName=?Œˆ?ž¥]
+[TRACE] [2020-02-14 18:03:16] tearDown()
+[TRACE] [2020-02-14 18:03:16] setUp()
+[TRACE] [2020-02-14 18:03:16] test04UpdateTitle()
+[TRACE] [2020-02-14 18:03:16] Title [titleNo=6, titleName=?‹¤?ž¥]
+[TRACE] [2020-02-14 18:03:16] tearDown()
+[TRACE] [2020-02-14 18:03:16] setUp()
+[TRACE] [2020-02-14 18:03:16] test05DeleteTitle()
+[TRACE] [2020-02-14 18:03:16] Title [titleNo=6, titleName=null]
+[TRACE] [2020-02-14 18:03:16] tearDown()
+[TRACE] [2020-02-14 18:03:16] tearDownAfterClass()
+[TRACE] [2020-02-14 18:03:16] setUpBeforeClass()
+[TRACE] [2020-02-14 18:03:16] setUp()
+[TRACE] [2020-02-14 18:03:16] testGetConnection()
+[TRACE] [2020-02-14 18:03:16] HikariProxyConnection@608677794 wrapping com.mysql.jdbc.JDBC4Connection@fe7bc71
+[TRACE] [2020-02-14 18:03:16] tearDown()
+[TRACE] [2020-02-14 18:03:16] tearDownAfterClass()
+[TRACE] [2020-02-14 18:03:53] setUpBeforeClass()
+[TRACE] [2020-02-14 18:03:53] setUp()
+[TRACE] [2020-02-14 18:03:53] test01SelectTitleByNo()
+[TRACE] [2020-02-14 18:03:53] SQL ==> select no, titlename from title where no=3
+[TRACE] [2020-02-14 18:03:53] Title [titleNo=3, titleName=°úÀå]
+[TRACE] [2020-02-14 18:03:53] tearDown()
+[TRACE] [2020-02-14 18:03:53] setUp()
+[TRACE] [2020-02-14 18:03:53] test02SelectTitleByAll()
+[TRACE] [2020-02-14 18:03:53] Title [titleNo=1, titleName=»çÀå]
+[TRACE] [2020-02-14 18:03:53] Title [titleNo=2, titleName=ºÎÀå]
+[TRACE] [2020-02-14 18:03:53] Title [titleNo=3, titleName=°úÀå]
+[TRACE] [2020-02-14 18:03:53] Title [titleNo=4, titleName=´ë¸®]
+[TRACE] [2020-02-14 18:03:53] Title [titleNo=5, titleName=»ç¿ø]
+[TRACE] [2020-02-14 18:03:53] tearDown()
+[TRACE] [2020-02-14 18:03:53] setUp()
+[TRACE] [2020-02-14 18:03:53] test03InsertTitle()
+[TRACE] [2020-02-14 18:03:53] Title [titleNo=6, titleName=?Œˆ?ž¥]
+[TRACE] [2020-02-14 18:03:53] tearDown()
+[TRACE] [2020-02-14 18:03:53] setUp()
+[TRACE] [2020-02-14 18:03:53] test04UpdateTitle()
+[TRACE] [2020-02-14 18:03:53] tearDown()
+[TRACE] [2020-02-14 18:03:53] setUp()
+[TRACE] [2020-02-14 18:03:53] test05DeleteTitle()
+[TRACE] [2020-02-14 18:03:53] tearDown()
+[TRACE] [2020-02-14 18:03:53] tearDownAfterClass()
+[TRACE] [2020-02-14 18:03:53] setUpBeforeClass()
+[TRACE] [2020-02-14 18:03:53] setUp()
+[TRACE] [2020-02-14 18:03:53] testGetConnection()
+[TRACE] [2020-02-14 18:03:53] HikariProxyConnection@671465163 wrapping com.mysql.jdbc.JDBC4Connection@1646860a
+[TRACE] [2020-02-14 18:03:53] tearDown()
+[TRACE] [2020-02-14 18:03:53] tearDownAfterClass()
+[TRACE] [2020-02-14 18:32:59] setUpBeforeClass()
+[TRACE] [2020-02-14 18:32:59] setUp()
+[TRACE] [2020-02-14 18:32:59] test01SelectTitleByNo()
+[TRACE] [2020-02-14 18:33:00] tearDown()
+[TRACE] [2020-02-14 18:33:00] setUp()
+[TRACE] [2020-02-14 18:33:00] test02SelectTitleByAll()
+[TRACE] [2020-02-14 18:33:00] tearDown()
+[TRACE] [2020-02-14 18:33:00] setUp()
+[TRACE] [2020-02-14 18:33:00] test03InsertTitle()
+[TRACE] [2020-02-14 18:33:00] tearDown()
+[TRACE] [2020-02-14 18:33:00] setUp()
+[TRACE] [2020-02-14 18:33:00] test04UpdateTitle()
+[TRACE] [2020-02-14 18:33:00] tearDown()
+[TRACE] [2020-02-14 18:33:00] setUp()
+[TRACE] [2020-02-14 18:33:00] test05DeleteTitle()
+[TRACE] [2020-02-14 18:33:00] tearDown()
+[TRACE] [2020-02-14 18:33:00] tearDownAfterClass()
+[TRACE] [2020-02-14 18:33:00] setUpBeforeClass()
+[TRACE] [2020-02-14 18:33:00] setUp()
+[TRACE] [2020-02-14 18:33:00] testGetConnection()
+[TRACE] [2020-02-14 18:33:00] tearDown()
+[TRACE] [2020-02-14 18:33:00] tearDownAfterClass()
+[TRACE] [2020-02-14 18:34:02] setUpBeforeClass()
+[TRACE] [2020-02-14 18:34:02] setUp()
+[TRACE] [2020-02-14 18:34:02] test01SelectTitleByNo()
+[TRACE] [2020-02-14 18:34:03] SQL ==> select no, titlename from title where no=3
+[TRACE] [2020-02-14 18:34:03] Title [titleNo=3, titleName=°úÀå]
+[TRACE] [2020-02-14 18:34:03] tearDown()
+[TRACE] [2020-02-14 18:34:03] setUp()
+[TRACE] [2020-02-14 18:34:03] test02SelectTitleByAll()
+[TRACE] [2020-02-14 18:34:03] Title [titleNo=1, titleName=»çÀå]
+[TRACE] [2020-02-14 18:34:03] Title [titleNo=2, titleName=ºÎÀå]
+[TRACE] [2020-02-14 18:34:03] Title [titleNo=3, titleName=°úÀå]
+[TRACE] [2020-02-14 18:34:03] Title [titleNo=4, titleName=´ë¸®]
+[TRACE] [2020-02-14 18:34:03] Title [titleNo=5, titleName=»ç¿ø]
+[TRACE] [2020-02-14 18:34:03] tearDown()
+[TRACE] [2020-02-14 18:34:03] setUp()
+[TRACE] [2020-02-14 18:34:03] test03InsertTitle()
+[TRACE] [2020-02-14 18:34:03] Title [titleNo=6, titleName=?Œˆ?ž¥]
+[TRACE] [2020-02-14 18:34:03] tearDown()
+[TRACE] [2020-02-14 18:34:03] setUp()
+[TRACE] [2020-02-14 18:34:03] test04UpdateTitle()
+[TRACE] [2020-02-14 18:34:03] tearDown()
+[TRACE] [2020-02-14 18:34:03] setUp()
+[TRACE] [2020-02-14 18:34:03] test05DeleteTitle()
+[TRACE] [2020-02-14 18:34:03] tearDown()
+[TRACE] [2020-02-14 18:34:03] tearDownAfterClass()
+[TRACE] [2020-02-14 18:34:03] setUpBeforeClass()
+[TRACE] [2020-02-14 18:34:03] setUp()
+[TRACE] [2020-02-14 18:34:03] testGetConnection()
+[TRACE] [2020-02-14 18:34:03] HikariProxyConnection@671465163 wrapping com.mysql.jdbc.JDBC4Connection@1646860a
+[TRACE] [2020-02-14 18:34:03] tearDown()
+[TRACE] [2020-02-14 18:34:03] tearDownAfterClass()
+[TRACE] [2020-02-14 18:34:48] setUpBeforeClass()
+[TRACE] [2020-02-14 18:34:48] setUp()
+[TRACE] [2020-02-14 18:34:48] test01SelectTitleByNo()
+[TRACE] [2020-02-14 18:34:48] SQL ==> select no, titlename from title where no=3
+[TRACE] [2020-02-14 18:34:48] Title [titleNo=3, titleName=°úÀå]
+[TRACE] [2020-02-14 18:34:48] tearDown()
+[TRACE] [2020-02-14 18:34:48] setUp()
+[TRACE] [2020-02-14 18:34:48] test02SelectTitleByAll()
+[TRACE] [2020-02-14 18:34:48] Title [titleNo=1, titleName=»çÀå]
+[TRACE] [2020-02-14 18:34:48] Title [titleNo=2, titleName=ºÎÀå]
+[TRACE] [2020-02-14 18:34:48] Title [titleNo=3, titleName=°úÀå]
+[TRACE] [2020-02-14 18:34:48] Title [titleNo=4, titleName=´ë¸®]
+[TRACE] [2020-02-14 18:34:48] Title [titleNo=5, titleName=»ç¿ø]
+[TRACE] [2020-02-14 18:34:48] tearDown()
+[TRACE] [2020-02-14 18:34:48] setUp()
+[TRACE] [2020-02-14 18:34:48] test03InsertTitle()
+[TRACE] [2020-02-14 18:34:48] Title [titleNo=6, titleName=?Œˆ?ž¥]
+[TRACE] [2020-02-14 18:34:48] tearDown()
+[TRACE] [2020-02-14 18:34:48] setUp()
+[TRACE] [2020-02-14 18:34:48] test04UpdateTitle()
+[TRACE] [2020-02-14 18:34:48] tearDown()
+[TRACE] [2020-02-14 18:34:48] setUp()
+[TRACE] [2020-02-14 18:34:48] test05DeleteTitle()
+[TRACE] [2020-02-14 18:34:48] tearDown()
+[TRACE] [2020-02-14 18:34:48] tearDownAfterClass()
+[TRACE] [2020-02-14 18:34:48] setUpBeforeClass()
+[TRACE] [2020-02-14 18:34:48] setUp()
+[TRACE] [2020-02-14 18:34:48] testGetConnection()
+[TRACE] [2020-02-14 18:34:48] HikariProxyConnection@1848554127 wrapping com.mysql.jdbc.JDBC4Connection@453a6c7f
+[TRACE] [2020-02-14 18:34:48] tearDown()
+[TRACE] [2020-02-14 18:34:48] tearDownAfterClass()
+[TRACE] [2020-02-14 18:35:57] setUpBeforeClass()
+[TRACE] [2020-02-14 18:35:57] setUp()
+[TRACE] [2020-02-14 18:35:57] test01SelectTitleByNo()
+[TRACE] [2020-02-14 18:35:58] SQL ==> select no, titlename from title where no=3
+[TRACE] [2020-02-14 18:35:58] Title [titleNo=3, titleName=°úÀå]
+[TRACE] [2020-02-14 18:35:58] tearDown()
+[TRACE] [2020-02-14 18:35:58] setUp()
+[TRACE] [2020-02-14 18:35:58] test02SelectTitleByAll()
+[TRACE] [2020-02-14 18:35:58] Title [titleNo=1, titleName=»çÀå]
+[TRACE] [2020-02-14 18:35:58] Title [titleNo=2, titleName=ºÎÀå]
+[TRACE] [2020-02-14 18:35:58] Title [titleNo=3, titleName=°úÀå]
+[TRACE] [2020-02-14 18:35:58] Title [titleNo=4, titleName=´ë¸®]
+[TRACE] [2020-02-14 18:35:58] Title [titleNo=5, titleName=»ç¿ø]
+[TRACE] [2020-02-14 18:35:58] tearDown()
+[TRACE] [2020-02-14 18:35:58] setUp()
+[TRACE] [2020-02-14 18:35:58] test03InsertTitle()
+[TRACE] [2020-02-14 18:35:58] Title [titleNo=6, titleName=?Œˆ?ž¥]
+[TRACE] [2020-02-14 18:35:58] tearDown()
+[TRACE] [2020-02-14 18:35:58] setUp()
+[TRACE] [2020-02-14 18:35:58] test04UpdateTitle()
+[TRACE] [2020-02-14 18:35:58] tearDown()
+[TRACE] [2020-02-14 18:35:58] setUp()
+[TRACE] [2020-02-14 18:35:58] test05DeleteTitle()
+[TRACE] [2020-02-14 18:35:58] tearDown()
+[TRACE] [2020-02-14 18:35:58] tearDownAfterClass()
+[TRACE] [2020-02-14 18:35:58] setUpBeforeClass()
+[TRACE] [2020-02-14 18:35:58] setUp()
+[TRACE] [2020-02-14 18:35:58] testGetConnection()
+[TRACE] [2020-02-14 18:35:58] HikariProxyConnection@671465163 wrapping com.mysql.jdbc.JDBC4Connection@1646860a
+[TRACE] [2020-02-14 18:35:58] tearDown()
+[TRACE] [2020-02-14 18:35:58] tearDownAfterClass()
+[TRACE] [2020-02-14 18:37:33] setUpBeforeClass()
+[TRACE] [2020-02-14 18:37:33] setUp()
+[TRACE] [2020-02-14 18:37:33] test01SelectTitleByNo()
+[TRACE] [2020-02-14 18:37:33] SQL ==> select no, titlename from title where no=3
+[TRACE] [2020-02-14 18:37:33] Title [titleNo=3, titleName=°úÀå]
+[TRACE] [2020-02-14 18:37:33] tearDown()
+[TRACE] [2020-02-14 18:37:33] setUp()
+[TRACE] [2020-02-14 18:37:33] test02SelectTitleByAll()
+[TRACE] [2020-02-14 18:37:33] Title [titleNo=1, titleName=»çÀå]
+[TRACE] [2020-02-14 18:37:33] Title [titleNo=2, titleName=ºÎÀå]
+[TRACE] [2020-02-14 18:37:33] Title [titleNo=3, titleName=°úÀå]
+[TRACE] [2020-02-14 18:37:33] Title [titleNo=4, titleName=´ë¸®]
+[TRACE] [2020-02-14 18:37:33] Title [titleNo=5, titleName=»ç¿ø]
+[TRACE] [2020-02-14 18:37:33] tearDown()
+[TRACE] [2020-02-14 18:37:33] setUp()
+[TRACE] [2020-02-14 18:37:33] test03InsertTitle()
+[TRACE] [2020-02-14 18:37:33] Title [titleNo=6, titleName=?Œˆ?ž¥]
+[TRACE] [2020-02-14 18:37:33] tearDown()
+[TRACE] [2020-02-14 18:37:33] setUp()
+[TRACE] [2020-02-14 18:37:33] test04UpdateTitle()
+[TRACE] [2020-02-14 18:37:33] tearDown()
+[TRACE] [2020-02-14 18:37:33] setUp()
+[TRACE] [2020-02-14 18:37:33] test05DeleteTitle()
+[TRACE] [2020-02-14 18:37:33] tearDown()
+[TRACE] [2020-02-14 18:37:33] tearDownAfterClass()
+[TRACE] [2020-02-14 18:37:33] setUpBeforeClass()
+[TRACE] [2020-02-14 18:37:33] setUp()
+[TRACE] [2020-02-14 18:37:33] testGetConnection()
+[TRACE] [2020-02-14 18:37:33] HikariProxyConnection@671465163 wrapping com.mysql.jdbc.JDBC4Connection@1646860a
+[TRACE] [2020-02-14 18:37:33] tearDown()
+[TRACE] [2020-02-14 18:37:33] tearDownAfterClass()
+[TRACE] [2020-02-14 18:54:15] setUpBeforeClass()
+[TRACE] [2020-02-14 18:54:15] setUp()
+[TRACE] [2020-02-14 18:54:15] test01SelectTitleByNo()
+[TRACE] [2020-02-14 18:54:15] SQL ==> select no, titlename from title where no=3
+[TRACE] [2020-02-14 18:54:15] Title [titleNo=3, titleName=°úÀå]
+[TRACE] [2020-02-14 18:54:15] tearDown()
+[TRACE] [2020-02-14 18:54:15] setUp()
+[TRACE] [2020-02-14 18:54:15] test02SelectTitleByAll()
+[TRACE] [2020-02-14 18:54:15] Title [titleNo=1, titleName=»çÀå]
+[TRACE] [2020-02-14 18:54:15] Title [titleNo=2, titleName=ºÎÀå]
+[TRACE] [2020-02-14 18:54:15] Title [titleNo=3, titleName=°úÀå]
+[TRACE] [2020-02-14 18:54:15] Title [titleNo=4, titleName=´ë¸®]
+[TRACE] [2020-02-14 18:54:15] Title [titleNo=5, titleName=»ç¿ø]
+[TRACE] [2020-02-14 18:54:15] tearDown()
+[TRACE] [2020-02-14 18:54:15] setUp()
+[TRACE] [2020-02-14 18:54:15] test03InsertTitle()
+[TRACE] [2020-02-14 18:54:15] Title [titleNo=6, titleName=½ÓÀå]
+[TRACE] [2020-02-14 18:54:15] tearDown()
+[TRACE] [2020-02-14 18:54:15] setUp()
+[TRACE] [2020-02-14 18:54:15] test04UpdateTitle()
+[TRACE] [2020-02-14 18:54:15] Title [titleNo=6, titleName=½ÇÀå]
+[TRACE] [2020-02-14 18:54:15] tearDown()
+[TRACE] [2020-02-14 18:54:15] setUp()
+[TRACE] [2020-02-14 18:54:15] test05DeleteTitle()
+[TRACE] [2020-02-14 18:54:15] Title [titleNo=6, titleName=null]
+[TRACE] [2020-02-14 18:54:15] tearDown()
+[TRACE] [2020-02-14 18:54:15] tearDownAfterClass()
+[TRACE] [2020-02-14 18:54:15] setUpBeforeClass()
+[TRACE] [2020-02-14 18:54:15] setUp()
+[TRACE] [2020-02-14 18:54:15] testGetConnection()
+[TRACE] [2020-02-14 18:54:15] HikariProxyConnection@1418913035 wrapping com.mysql.jdbc.JDBC4Connection@49f481d1
+[TRACE] [2020-02-14 18:54:15] tearDown()
+[TRACE] [2020-02-14 18:54:15] tearDownAfterClass()
+[TRACE] [2020-02-14 18:54:50] setUpBeforeClass()
+[TRACE] [2020-02-14 18:54:50] setUp()
+[TRACE] [2020-02-14 18:54:50] test01SelectTitleByNo()
+[TRACE] [2020-02-14 18:54:50] SQL ==> select no, titlename from title where no=3
+[TRACE] [2020-02-14 18:54:50] Title [titleNo=3, titleName=°úÀå]
+[TRACE] [2020-02-14 18:54:50] tearDown()
+[TRACE] [2020-02-14 18:54:50] setUp()
+[TRACE] [2020-02-14 18:54:50] test02SelectTitleByAll()
+[TRACE] [2020-02-14 18:54:50] Title [titleNo=1, titleName=»çÀå]
+[TRACE] [2020-02-14 18:54:50] Title [titleNo=2, titleName=ºÎÀå]
+[TRACE] [2020-02-14 18:54:50] Title [titleNo=3, titleName=°úÀå]
+[TRACE] [2020-02-14 18:54:50] Title [titleNo=4, titleName=´ë¸®]
+[TRACE] [2020-02-14 18:54:50] Title [titleNo=5, titleName=»ç¿ø]
+[TRACE] [2020-02-14 18:54:50] tearDown()
+[TRACE] [2020-02-14 18:54:50] setUp()
+[TRACE] [2020-02-14 18:54:50] test03InsertTitle()
+[TRACE] [2020-02-14 18:54:50] Title [titleNo=6, titleName=½ÓÀå]
+[TRACE] [2020-02-14 18:54:50] tearDown()
+[TRACE] [2020-02-14 18:54:50] setUp()
+[TRACE] [2020-02-14 18:54:50] test04UpdateTitle()
+[TRACE] [2020-02-14 18:54:50] Title [titleNo=6, titleName=½ÇÀå]
+[TRACE] [2020-02-14 18:54:50] tearDown()
+[TRACE] [2020-02-14 18:54:50] setUp()
+[TRACE] [2020-02-14 18:54:50] tearDown()
+[TRACE] [2020-02-14 18:54:50] tearDownAfterClass()
+[TRACE] [2020-02-14 18:54:50] setUpBeforeClass()
+[TRACE] [2020-02-14 18:54:50] setUp()
+[TRACE] [2020-02-14 18:54:50] testGetConnection()
+[TRACE] [2020-02-14 18:54:50] HikariProxyConnection@1161456767 wrapping com.mysql.jdbc.JDBC4Connection@5492e50b
+[TRACE] [2020-02-14 18:54:50] tearDown()
+[TRACE] [2020-02-14 18:54:50] tearDownAfterClass()
+[TRACE] [2020-02-14 19:10:39] setUpBeforeClass()
+[TRACE] [2020-02-14 19:10:39] setUp()
+[TRACE] [2020-02-14 19:10:39] test01SelectTitleByNo()
+[TRACE] [2020-02-14 19:10:39] SQL ==> select no, titlename from title where no=3
+[TRACE] [2020-02-14 19:10:39] Title [titleNo=3, titleName=°úÀå]
+[TRACE] [2020-02-14 19:10:39] tearDown()
+[TRACE] [2020-02-14 19:10:39] setUp()
+[TRACE] [2020-02-14 19:10:39] test02SelectTitleByAll()
+[TRACE] [2020-02-14 19:10:39] Title [titleNo=1, titleName=»çÀå]
+[TRACE] [2020-02-14 19:10:39] Title [titleNo=2, titleName=ºÎÀå]
+[TRACE] [2020-02-14 19:10:39] Title [titleNo=3, titleName=°úÀå]
+[TRACE] [2020-02-14 19:10:39] Title [titleNo=4, titleName=´ë¸®]
+[TRACE] [2020-02-14 19:10:39] Title [titleNo=5, titleName=»ç¿ø]
+[TRACE] [2020-02-14 19:10:39] tearDown()
+[TRACE] [2020-02-14 19:10:39] setUp()
+[TRACE] [2020-02-14 19:10:39] test03InsertTitle()
+[TRACE] [2020-02-14 19:10:39] Title [titleNo=6, titleName=½ÓÀå]
+[TRACE] [2020-02-14 19:10:39] tearDown()
+[TRACE] [2020-02-14 19:10:39] setUp()
+[TRACE] [2020-02-14 19:10:39] test04UpdateTitle()
+[TRACE] [2020-02-14 19:10:39] Title [titleNo=6, titleName=½ÇÀå]
+[TRACE] [2020-02-14 19:10:39] tearDown()
+[TRACE] [2020-02-14 19:10:39] setUp()
+[TRACE] [2020-02-14 19:10:39] test05DeleteTitle()
+[TRACE] [2020-02-14 19:10:39] Title [titleNo=6, titleName=null]
+[TRACE] [2020-02-14 19:10:39] tearDown()
+[TRACE] [2020-02-14 19:10:39] tearDownAfterClass()
+[TRACE] [2020-02-14 19:10:39] setUpBeforeClass()
+[TRACE] [2020-02-14 19:10:39] setUp()
+[TRACE] [2020-02-14 19:10:39] testGetConnection()
+[TRACE] [2020-02-14 19:10:39] HikariProxyConnection@608677794 wrapping com.mysql.jdbc.JDBC4Connection@fe7bc71
+[TRACE] [2020-02-14 19:10:39] tearDown()
+[TRACE] [2020-02-14 19:10:39] tearDownAfterClass()
+[TRACE] [2020-02-14 20:03:02] setUpBeforeClass()
+[TRACE] [2020-02-14 20:03:02] test01SelectDepartmentByDno()
+[TRACE] [2020-02-14 20:03:02] test02SelectDepartmentByAll()
+[TRACE] [2020-02-14 20:03:03] Department [deptNo=1, deptName=¿µ¾÷, floor=8]
+[TRACE] [2020-02-14 20:03:03] Department [deptNo=2, deptName=±âÈ¹, floor=10]
+[TRACE] [2020-02-14 20:03:03] Department [deptNo=3, deptName=°³¹ß, floor=9]
+[TRACE] [2020-02-14 20:03:03] Department [deptNo=4, deptName=ÃÑ¹«, floor=7]
+[TRACE] [2020-02-14 20:03:03] test03InsertDepartment()
+[TRACE] [2020-02-14 20:03:03] test04UpdateDepartment()
+[TRACE] [2020-02-14 20:03:03] test05DeleteDepartment()
+[TRACE] [2020-02-14 20:03:03] tearDownAfterClass()
+[TRACE] [2020-02-14 20:03:03] setUpBeforeClass()
+[TRACE] [2020-02-14 20:03:03] test01SelectEmployeeByENo()
+[TRACE] [2020-02-14 20:03:03] test02SelectTitleByAll()
+[TRACE] [2020-02-14 20:03:03] test03InsertEmployee()
+[TRACE] [2020-02-14 20:03:03] test04UpdateEmployee()
+[TRACE] [2020-02-14 20:03:03] test05DeleteEmployee()
+[TRACE] [2020-02-14 20:03:03] tearDownAfterClass()
+[TRACE] [2020-02-14 20:03:03] setUpBeforeClass()
+[TRACE] [2020-02-14 20:03:03] test01SelectTitleByNo()
+[TRACE] [2020-02-14 20:03:03] SQL ==> select no, titlename from title where no=3
+[TRACE] [2020-02-14 20:03:03] Title [titleNo=3, titleName=°úÀå]
+[TRACE] [2020-02-14 20:03:03] test02SelectTitleByAll()
+[TRACE] [2020-02-14 20:03:03] Title [titleNo=1, titleName=»çÀå]
+[TRACE] [2020-02-14 20:03:03] Title [titleNo=2, titleName=ºÎÀå]
+[TRACE] [2020-02-14 20:03:03] Title [titleNo=3, titleName=°úÀå]
+[TRACE] [2020-02-14 20:03:03] Title [titleNo=4, titleName=´ë¸®]
+[TRACE] [2020-02-14 20:03:03] Title [titleNo=5, titleName=»ç¿ø]
+[TRACE] [2020-02-14 20:03:03] test03InsertTitle()
+[TRACE] [2020-02-14 20:03:03] Title [titleNo=6, titleName=½ÓÀå]
+[TRACE] [2020-02-14 20:03:03] test04UpdateTitle()
+[TRACE] [2020-02-14 20:03:03] Title [titleNo=6, titleName=½ÇÀå]
+[TRACE] [2020-02-14 20:03:03] test05DeleteTitle()
+[TRACE] [2020-02-14 20:03:03] Title [titleNo=6, titleName=null]
+[TRACE] [2020-02-14 20:03:03] tearDownAfterClass()
+[TRACE] [2020-02-14 20:03:03] setUpBeforeClass()
+[TRACE] [2020-02-14 20:03:03] setUp()
+[TRACE] [2020-02-14 20:03:03] testGetConnection()
+[TRACE] [2020-02-14 20:03:03] HikariProxyConnection@126442949 wrapping com.mysql.jdbc.JDBC4Connection@198d8457
+[TRACE] [2020-02-14 20:03:03] tearDown()
+[TRACE] [2020-02-14 20:03:03] tearDownAfterClass()
+[TRACE] [2020-02-14 20:12:42] setUpBeforeClass()
+[TRACE] [2020-02-14 20:12:42] test01SelectDepartmentByDno()
+[TRACE] [2020-02-14 20:12:43] Department [deptNo=3, deptName=°³¹ß, floor=9]
+[TRACE] [2020-02-14 20:12:43] test02SelectDepartmentByAll()
+[TRACE] [2020-02-14 20:12:43] Department [deptNo=1, deptName=¿µ¾÷, floor=8]
+[TRACE] [2020-02-14 20:12:43] Department [deptNo=2, deptName=±âÈ¹, floor=10]
+[TRACE] [2020-02-14 20:12:43] Department [deptNo=3, deptName=°³¹ß, floor=9]
+[TRACE] [2020-02-14 20:12:43] Department [deptNo=4, deptName=ÃÑ¹«, floor=7]
+[TRACE] [2020-02-14 20:12:43] test03InsertDepartment()
+[TRACE] [2020-02-14 20:12:43] test04UpdateDepartment()
+[TRACE] [2020-02-14 20:12:43] test05DeleteDepartment()
+[TRACE] [2020-02-14 20:12:43] tearDownAfterClass()
+[TRACE] [2020-02-14 20:12:43] setUpBeforeClass()
+[TRACE] [2020-02-14 20:12:43] test01SelectEmployeeByENo()
+[TRACE] [2020-02-14 20:12:43] test02SelectTitleByAll()
+[TRACE] [2020-02-14 20:12:43] test03InsertEmployee()
+[TRACE] [2020-02-14 20:12:43] test04UpdateEmployee()
+[TRACE] [2020-02-14 20:12:43] test05DeleteEmployee()
+[TRACE] [2020-02-14 20:12:43] tearDownAfterClass()
+[TRACE] [2020-02-14 20:12:43] setUpBeforeClass()
+[TRACE] [2020-02-14 20:12:43] test01SelectTitleByNo()
+[TRACE] [2020-02-14 20:12:43] SQL ==> select no, titlename from title where no=3
+[TRACE] [2020-02-14 20:12:43] Title [titleNo=3, titleName=°úÀå]
+[TRACE] [2020-02-14 20:12:43] test02SelectTitleByAll()
+[TRACE] [2020-02-14 20:12:43] Title [titleNo=1, titleName=»çÀå]
+[TRACE] [2020-02-14 20:12:43] Title [titleNo=2, titleName=ºÎÀå]
+[TRACE] [2020-02-14 20:12:43] Title [titleNo=3, titleName=°úÀå]
+[TRACE] [2020-02-14 20:12:43] Title [titleNo=4, titleName=´ë¸®]
+[TRACE] [2020-02-14 20:12:43] Title [titleNo=5, titleName=»ç¿ø]
+[TRACE] [2020-02-14 20:12:43] test03InsertTitle()
+[TRACE] [2020-02-14 20:12:43] Title [titleNo=6, titleName=½ÓÀå]
+[TRACE] [2020-02-14 20:12:43] test04UpdateTitle()
+[TRACE] [2020-02-14 20:12:43] Title [titleNo=6, titleName=½ÇÀå]
+[TRACE] [2020-02-14 20:12:43] test05DeleteTitle()
+[TRACE] [2020-02-14 20:12:43] Title [titleNo=6, titleName=null]
+[TRACE] [2020-02-14 20:12:43] tearDownAfterClass()
+[TRACE] [2020-02-14 20:12:43] setUpBeforeClass()
+[TRACE] [2020-02-14 20:12:43] setUp()
+[TRACE] [2020-02-14 20:12:43] testGetConnection()
+[TRACE] [2020-02-14 20:12:43] HikariProxyConnection@205903975 wrapping com.mysql.jdbc.JDBC4Connection@79d0000f
+[TRACE] [2020-02-14 20:12:43] tearDown()
+[TRACE] [2020-02-14 20:12:43] tearDownAfterClass()
+[TRACE] [2020-02-14 20:18:07] setUpBeforeClass()
+[TRACE] [2020-02-14 20:18:07] test01SelectDepartmentByDno()
+[TRACE] [2020-02-14 20:18:07] Department [deptNo=3, deptName=°³¹ß, floor=9]
+[TRACE] [2020-02-14 20:18:07] test02SelectDepartmentByAll()
+[TRACE] [2020-02-14 20:18:07] Department [deptNo=1, deptName=¿µ¾÷, floor=8]
+[TRACE] [2020-02-14 20:18:07] Department [deptNo=2, deptName=±âÈ¹, floor=10]
+[TRACE] [2020-02-14 20:18:07] Department [deptNo=3, deptName=°³¹ß, floor=9]
+[TRACE] [2020-02-14 20:18:07] Department [deptNo=4, deptName=ÃÑ¹«, floor=7]
+[TRACE] [2020-02-14 20:18:07] test03InsertDepartment()
+[TRACE] [2020-02-14 20:18:07] Department [deptNo=5, deptName=±èÀå, floor=6]
+[TRACE] [2020-02-14 20:18:07] test04UpdateDepartment()
+[TRACE] [2020-02-14 20:18:07] test05DeleteDepartment()
+[TRACE] [2020-02-14 20:18:07] tearDownAfterClass()
+[TRACE] [2020-02-14 20:18:07] setUpBeforeClass()
+[TRACE] [2020-02-14 20:18:07] test01SelectEmployeeByENo()
+[TRACE] [2020-02-14 20:18:07] test02SelectTitleByAll()
+[TRACE] [2020-02-14 20:18:07] test03InsertEmployee()
+[TRACE] [2020-02-14 20:18:07] test04UpdateEmployee()
+[TRACE] [2020-02-14 20:18:07] test05DeleteEmployee()
+[TRACE] [2020-02-14 20:18:07] tearDownAfterClass()
+[TRACE] [2020-02-14 20:18:07] setUpBeforeClass()
+[TRACE] [2020-02-14 20:18:07] test01SelectTitleByNo()
+[TRACE] [2020-02-14 20:18:07] SQL ==> select no, titlename from title where no=3
+[TRACE] [2020-02-14 20:18:07] Title [titleNo=3, titleName=°úÀå]
+[TRACE] [2020-02-14 20:18:07] test02SelectTitleByAll()
+[TRACE] [2020-02-14 20:18:07] Title [titleNo=1, titleName=»çÀå]
+[TRACE] [2020-02-14 20:18:07] Title [titleNo=2, titleName=ºÎÀå]
+[TRACE] [2020-02-14 20:18:07] Title [titleNo=3, titleName=°úÀå]
+[TRACE] [2020-02-14 20:18:07] Title [titleNo=4, titleName=´ë¸®]
+[TRACE] [2020-02-14 20:18:07] Title [titleNo=5, titleName=»ç¿ø]
+[TRACE] [2020-02-14 20:18:07] test03InsertTitle()
+[TRACE] [2020-02-14 20:18:07] Title [titleNo=6, titleName=½ÓÀå]
+[TRACE] [2020-02-14 20:18:07] test04UpdateTitle()
+[TRACE] [2020-02-14 20:18:07] Title [titleNo=6, titleName=½ÇÀå]
+[TRACE] [2020-02-14 20:18:07] test05DeleteTitle()
+[TRACE] [2020-02-14 20:18:07] Title [titleNo=6, titleName=null]
+[TRACE] [2020-02-14 20:18:07] tearDownAfterClass()
+[TRACE] [2020-02-14 20:18:07] setUpBeforeClass()
+[TRACE] [2020-02-14 20:18:07] setUp()
+[TRACE] [2020-02-14 20:18:07] testGetConnection()
+[TRACE] [2020-02-14 20:18:07] HikariProxyConnection@1623733519 wrapping com.mysql.jdbc.JDBC4Connection@4b8674a2
+[TRACE] [2020-02-14 20:18:07] tearDown()
+[TRACE] [2020-02-14 20:18:07] tearDownAfterClass()
+[TRACE] [2020-02-14 20:25:16] setUpBeforeClass()
+[TRACE] [2020-02-14 20:25:16] test01SelectDepartmentByDno()
+[TRACE] [2020-02-14 20:25:17] Department [deptNo=3, deptName=°³¹ß, floor=9]
+[TRACE] [2020-02-14 20:25:17] test02SelectDepartmentByAll()
+[TRACE] [2020-02-14 20:25:17] Department [deptNo=1, deptName=¿µ¾÷, floor=8]
+[TRACE] [2020-02-14 20:25:17] Department [deptNo=2, deptName=±âÈ¹, floor=10]
+[TRACE] [2020-02-14 20:25:17] Department [deptNo=3, deptName=°³¹ß, floor=9]
+[TRACE] [2020-02-14 20:25:17] Department [deptNo=4, deptName=ÃÑ¹«, floor=7]
+[TRACE] [2020-02-14 20:25:17] Department [deptNo=5, deptName=±èÀå, floor=6]
+[TRACE] [2020-02-14 20:25:17] test03InsertDepartment()
+[TRACE] [2020-02-14 20:25:17] test04UpdateDepartment()
+[TRACE] [2020-02-14 20:25:17] test05DeleteDepartment()
+[TRACE] [2020-02-14 20:25:17] tearDownAfterClass()
+[TRACE] [2020-02-14 20:25:17] setUpBeforeClass()
+[TRACE] [2020-02-14 20:25:17] test01SelectEmployeeByENo()
+[TRACE] [2020-02-14 20:25:17] test02SelectTitleByAll()
+[TRACE] [2020-02-14 20:25:17] test03InsertEmployee()
+[TRACE] [2020-02-14 20:25:17] test04UpdateEmployee()
+[TRACE] [2020-02-14 20:25:17] test05DeleteEmployee()
+[TRACE] [2020-02-14 20:25:17] tearDownAfterClass()
+[TRACE] [2020-02-14 20:25:17] setUpBeforeClass()
+[TRACE] [2020-02-14 20:25:17] test01SelectTitleByNo()
+[TRACE] [2020-02-14 20:25:17] SQL ==> select no, titlename from title where no=3
+[TRACE] [2020-02-14 20:25:17] Title [titleNo=3, titleName=°úÀå]
+[TRACE] [2020-02-14 20:25:17] test02SelectTitleByAll()
+[TRACE] [2020-02-14 20:25:17] Title [titleNo=1, titleName=»çÀå]
+[TRACE] [2020-02-14 20:25:17] Title [titleNo=2, titleName=ºÎÀå]
+[TRACE] [2020-02-14 20:25:17] Title [titleNo=3, titleName=°úÀå]
+[TRACE] [2020-02-14 20:25:17] Title [titleNo=4, titleName=´ë¸®]
+[TRACE] [2020-02-14 20:25:17] Title [titleNo=5, titleName=»ç¿ø]
+[TRACE] [2020-02-14 20:25:17] test03InsertTitle()
+[TRACE] [2020-02-14 20:25:17] Title [titleNo=6, titleName=½ÓÀå]
+[TRACE] [2020-02-14 20:25:17] test04UpdateTitle()
+[TRACE] [2020-02-14 20:25:17] Title [titleNo=6, titleName=½ÇÀå]
+[TRACE] [2020-02-14 20:25:17] test05DeleteTitle()
+[TRACE] [2020-02-14 20:25:17] Title [titleNo=6, titleName=null]
+[TRACE] [2020-02-14 20:25:17] tearDownAfterClass()
+[TRACE] [2020-02-14 20:25:17] setUpBeforeClass()
+[TRACE] [2020-02-14 20:25:17] setUp()
+[TRACE] [2020-02-14 20:25:17] testGetConnection()
+[TRACE] [2020-02-14 20:25:17] HikariProxyConnection@1688252871 wrapping com.mysql.jdbc.JDBC4Connection@5366a2ad
+[TRACE] [2020-02-14 20:25:17] tearDown()
+[TRACE] [2020-02-14 20:25:17] tearDownAfterClass()
+[TRACE] [2020-02-14 20:25:56] setUpBeforeClass()
+[TRACE] [2020-02-14 20:25:56] test01SelectDepartmentByDno()
+[TRACE] [2020-02-14 20:25:57] Department [deptNo=3, deptName=°³¹ß, floor=9]
+[TRACE] [2020-02-14 20:25:57] test02SelectDepartmentByAll()
+[TRACE] [2020-02-14 20:25:57] Department [deptNo=1, deptName=¿µ¾÷, floor=8]
+[TRACE] [2020-02-14 20:25:57] Department [deptNo=2, deptName=±âÈ¹, floor=10]
+[TRACE] [2020-02-14 20:25:57] Department [deptNo=3, deptName=°³¹ß, floor=9]
+[TRACE] [2020-02-14 20:25:57] Department [deptNo=4, deptName=ÃÑ¹«, floor=7]
+[TRACE] [2020-02-14 20:25:57] test03InsertDepartment()
+[TRACE] [2020-02-14 20:25:57] Department [deptNo=5, deptName=±èÀå, floor=6]
+[TRACE] [2020-02-14 20:25:57] test04UpdateDepartment()
+[TRACE] [2020-02-14 20:25:57] test05DeleteDepartment()
+[TRACE] [2020-02-14 20:25:57] tearDownAfterClass()
+[TRACE] [2020-02-14 20:25:57] setUpBeforeClass()
+[TRACE] [2020-02-14 20:25:57] test01SelectEmployeeByENo()
+[TRACE] [2020-02-14 20:25:57] test02SelectTitleByAll()
+[TRACE] [2020-02-14 20:25:57] test03InsertEmployee()
+[TRACE] [2020-02-14 20:25:57] test04UpdateEmployee()
+[TRACE] [2020-02-14 20:25:57] test05DeleteEmployee()
+[TRACE] [2020-02-14 20:25:57] tearDownAfterClass()
+[TRACE] [2020-02-14 20:25:57] setUpBeforeClass()
+[TRACE] [2020-02-14 20:25:57] test01SelectTitleByNo()
+[TRACE] [2020-02-14 20:25:57] SQL ==> select no, titlename from title where no=3
+[TRACE] [2020-02-14 20:25:57] Title [titleNo=3, titleName=°úÀå]
+[TRACE] [2020-02-14 20:25:57] test02SelectTitleByAll()
+[TRACE] [2020-02-14 20:25:57] Title [titleNo=1, titleName=»çÀå]
+[TRACE] [2020-02-14 20:25:57] Title [titleNo=2, titleName=ºÎÀå]
+[TRACE] [2020-02-14 20:25:57] Title [titleNo=3, titleName=°úÀå]
+[TRACE] [2020-02-14 20:25:57] Title [titleNo=4, titleName=´ë¸®]
+[TRACE] [2020-02-14 20:25:57] Title [titleNo=5, titleName=»ç¿ø]
+[TRACE] [2020-02-14 20:25:57] test03InsertTitle()
+[TRACE] [2020-02-14 20:25:57] Title [titleNo=6, titleName=½ÓÀå]
+[TRACE] [2020-02-14 20:25:57] test04UpdateTitle()
+[TRACE] [2020-02-14 20:25:57] Title [titleNo=6, titleName=½ÇÀå]
+[TRACE] [2020-02-14 20:25:57] test05DeleteTitle()
+[TRACE] [2020-02-14 20:25:57] Title [titleNo=6, titleName=null]
+[TRACE] [2020-02-14 20:25:57] tearDownAfterClass()
+[TRACE] [2020-02-14 20:25:57] setUpBeforeClass()
+[TRACE] [2020-02-14 20:25:57] setUp()
+[TRACE] [2020-02-14 20:25:57] testGetConnection()
+[TRACE] [2020-02-14 20:25:57] HikariProxyConnection@443178561 wrapping com.mysql.jdbc.JDBC4Connection@39f4ce26
+[TRACE] [2020-02-14 20:25:57] tearDown()
+[TRACE] [2020-02-14 20:25:57] tearDownAfterClass()
+[TRACE] [2020-02-14 20:26:01] setUpBeforeClass()
+[TRACE] [2020-02-14 20:26:01] test01SelectDepartmentByDno()
+[TRACE] [2020-02-14 20:26:02] Department [deptNo=3, deptName=°³¹ß, floor=9]
+[TRACE] [2020-02-14 20:26:02] test02SelectDepartmentByAll()
+[TRACE] [2020-02-14 20:26:02] Department [deptNo=1, deptName=¿µ¾÷, floor=8]
+[TRACE] [2020-02-14 20:26:02] Department [deptNo=2, deptName=±âÈ¹, floor=10]
+[TRACE] [2020-02-14 20:26:02] Department [deptNo=3, deptName=°³¹ß, floor=9]
+[TRACE] [2020-02-14 20:26:02] Department [deptNo=4, deptName=ÃÑ¹«, floor=7]
+[TRACE] [2020-02-14 20:26:02] Department [deptNo=5, deptName=±èÀå, floor=6]
+[TRACE] [2020-02-14 20:26:02] test03InsertDepartment()
+[TRACE] [2020-02-14 20:26:02] test04UpdateDepartment()
+[TRACE] [2020-02-14 20:26:02] test05DeleteDepartment()
+[TRACE] [2020-02-14 20:26:02] tearDownAfterClass()
+[TRACE] [2020-02-14 20:26:02] setUpBeforeClass()
+[TRACE] [2020-02-14 20:26:02] test01SelectEmployeeByENo()
+[TRACE] [2020-02-14 20:26:02] test02SelectTitleByAll()
+[TRACE] [2020-02-14 20:26:02] test03InsertEmployee()
+[TRACE] [2020-02-14 20:26:02] test04UpdateEmployee()
+[TRACE] [2020-02-14 20:26:02] test05DeleteEmployee()
+[TRACE] [2020-02-14 20:26:02] tearDownAfterClass()
+[TRACE] [2020-02-14 20:26:02] setUpBeforeClass()
+[TRACE] [2020-02-14 20:26:02] test01SelectTitleByNo()
+[TRACE] [2020-02-14 20:26:02] SQL ==> select no, titlename from title where no=3
+[TRACE] [2020-02-14 20:26:02] Title [titleNo=3, titleName=°úÀå]
+[TRACE] [2020-02-14 20:26:02] test02SelectTitleByAll()
+[TRACE] [2020-02-14 20:26:02] Title [titleNo=1, titleName=»çÀå]
+[TRACE] [2020-02-14 20:26:02] Title [titleNo=2, titleName=ºÎÀå]
+[TRACE] [2020-02-14 20:26:02] Title [titleNo=3, titleName=°úÀå]
+[TRACE] [2020-02-14 20:26:02] Title [titleNo=4, titleName=´ë¸®]
+[TRACE] [2020-02-14 20:26:02] Title [titleNo=5, titleName=»ç¿ø]
+[TRACE] [2020-02-14 20:26:02] test03InsertTitle()
+[TRACE] [2020-02-14 20:26:02] Title [titleNo=6, titleName=½ÓÀå]
+[TRACE] [2020-02-14 20:26:02] test04UpdateTitle()
+[TRACE] [2020-02-14 20:26:02] Title [titleNo=6, titleName=½ÇÀå]
+[TRACE] [2020-02-14 20:26:02] test05DeleteTitle()
+[TRACE] [2020-02-14 20:26:02] Title [titleNo=6, titleName=null]
+[TRACE] [2020-02-14 20:26:02] tearDownAfterClass()
+[TRACE] [2020-02-14 20:26:02] setUpBeforeClass()
+[TRACE] [2020-02-14 20:26:02] setUp()
+[TRACE] [2020-02-14 20:26:02] testGetConnection()
+[TRACE] [2020-02-14 20:26:02] HikariProxyConnection@1688252871 wrapping com.mysql.jdbc.JDBC4Connection@5366a2ad
+[TRACE] [2020-02-14 20:26:02] tearDown()
+[TRACE] [2020-02-14 20:26:02] tearDownAfterClass()
+[TRACE] [2020-02-14 20:27:25] setUpBeforeClass()
+[TRACE] [2020-02-14 20:27:25] test01SelectDepartmentByDno()
+[TRACE] [2020-02-14 20:27:25] Department [deptNo=3, deptName=°³¹ß, floor=9]
+[TRACE] [2020-02-14 20:27:25] test02SelectDepartmentByAll()
+[TRACE] [2020-02-14 20:27:25] Department [deptNo=1, deptName=¿µ¾÷, floor=8]
+[TRACE] [2020-02-14 20:27:25] Department [deptNo=2, deptName=±âÈ¹, floor=10]
+[TRACE] [2020-02-14 20:27:25] Department [deptNo=3, deptName=°³¹ß, floor=9]
+[TRACE] [2020-02-14 20:27:25] Department [deptNo=4, deptName=ÃÑ¹«, floor=7]
+[TRACE] [2020-02-14 20:27:25] test03InsertDepartment()
+[TRACE] [2020-02-14 20:27:25] Department [deptNo=5, deptName=±èÀå, floor=6]
+[TRACE] [2020-02-14 20:27:25] test04UpdateDepartment()
+[TRACE] [2020-02-14 20:27:25] Department [deptNo=5, deptName=¹ý¹«, floor=7]
+[TRACE] [2020-02-14 20:27:25] test05DeleteDepartment()
+[TRACE] [2020-02-14 20:27:25] tearDownAfterClass()
+[TRACE] [2020-02-14 20:27:25] setUpBeforeClass()
+[TRACE] [2020-02-14 20:27:25] test01SelectEmployeeByENo()
+[TRACE] [2020-02-14 20:27:25] test02SelectTitleByAll()
+[TRACE] [2020-02-14 20:27:25] test03InsertEmployee()
+[TRACE] [2020-02-14 20:27:25] test04UpdateEmployee()
+[TRACE] [2020-02-14 20:27:25] test05DeleteEmployee()
+[TRACE] [2020-02-14 20:27:25] tearDownAfterClass()
+[TRACE] [2020-02-14 20:27:25] setUpBeforeClass()
+[TRACE] [2020-02-14 20:27:25] test01SelectTitleByNo()
+[TRACE] [2020-02-14 20:27:25] SQL ==> select no, titlename from title where no=3
+[TRACE] [2020-02-14 20:27:25] Title [titleNo=3, titleName=°úÀå]
+[TRACE] [2020-02-14 20:27:25] test02SelectTitleByAll()
+[TRACE] [2020-02-14 20:27:25] Title [titleNo=1, titleName=»çÀå]
+[TRACE] [2020-02-14 20:27:25] Title [titleNo=2, titleName=ºÎÀå]
+[TRACE] [2020-02-14 20:27:25] Title [titleNo=3, titleName=°úÀå]
+[TRACE] [2020-02-14 20:27:25] Title [titleNo=4, titleName=´ë¸®]
+[TRACE] [2020-02-14 20:27:25] Title [titleNo=5, titleName=»ç¿ø]
+[TRACE] [2020-02-14 20:27:25] test03InsertTitle()
+[TRACE] [2020-02-14 20:27:25] Title [titleNo=6, titleName=½ÓÀå]
+[TRACE] [2020-02-14 20:27:25] test04UpdateTitle()
+[TRACE] [2020-02-14 20:27:25] Title [titleNo=6, titleName=½ÇÀå]
+[TRACE] [2020-02-14 20:27:25] test05DeleteTitle()
+[TRACE] [2020-02-14 20:27:25] Title [titleNo=6, titleName=null]
+[TRACE] [2020-02-14 20:27:25] tearDownAfterClass()
+[TRACE] [2020-02-14 20:27:25] setUpBeforeClass()
+[TRACE] [2020-02-14 20:27:25] setUp()
+[TRACE] [2020-02-14 20:27:25] testGetConnection()
+[TRACE] [2020-02-14 20:27:25] HikariProxyConnection@1267102882 wrapping com.mysql.jdbc.JDBC4Connection@6ac7f62
+[TRACE] [2020-02-14 20:27:25] tearDown()
+[TRACE] [2020-02-14 20:27:25] tearDownAfterClass()
+[TRACE] [2020-02-14 20:30:10] setUpBeforeClass()
+[TRACE] [2020-02-14 20:30:10] test01SelectEmployeeByENo()
+[TRACE] [2020-02-14 20:30:10] test02SelectTitleByAll()
+[TRACE] [2020-02-14 20:30:10] test03InsertEmployee()
+[TRACE] [2020-02-14 20:30:10] test04UpdateEmployee()
+[TRACE] [2020-02-14 20:30:10] test05DeleteEmployee()
+[TRACE] [2020-02-14 20:30:10] tearDownAfterClass()
+[TRACE] [2020-02-14 20:30:10] setUpBeforeClass()
+[TRACE] [2020-02-14 20:30:10] test01SelectDepartmentByDno()
+[TRACE] [2020-02-14 20:30:10] Department [deptNo=3, deptName=°³¹ß, floor=9]
+[TRACE] [2020-02-14 20:30:10] test02SelectDepartmentByAll()
+[TRACE] [2020-02-14 20:30:10] Department [deptNo=1, deptName=¿µ¾÷, floor=8]
+[TRACE] [2020-02-14 20:30:10] Department [deptNo=2, deptName=±âÈ¹, floor=10]
+[TRACE] [2020-02-14 20:30:10] Department [deptNo=3, deptName=°³¹ß, floor=9]
+[TRACE] [2020-02-14 20:30:10] Department [deptNo=4, deptName=ÃÑ¹«, floor=7]
+[TRACE] [2020-02-14 20:30:10] Department [deptNo=5, deptName=¹ý¹«, floor=7]
+[TRACE] [2020-02-14 20:30:10] test03InsertDepartment()
+[TRACE] [2020-02-14 20:30:10] test04UpdateDepartment()
+[TRACE] [2020-02-14 20:30:10] Department [deptNo=5, deptName=¹ý¹«, floor=7]
+[TRACE] [2020-02-14 20:30:10] test05DeleteDepartment()
+[TRACE] [2020-02-14 20:30:10] tearDownAfterClass()
+[TRACE] [2020-02-14 20:30:10] setUpBeforeClass()
+[TRACE] [2020-02-14 20:30:10] test01SelectTitleByNo()
+[TRACE] [2020-02-14 20:30:10] SQL ==> select no, titlename from title where no=3
+[TRACE] [2020-02-14 20:30:10] Title [titleNo=3, titleName=°úÀå]
+[TRACE] [2020-02-14 20:30:10] test02SelectTitleByAll()
+[TRACE] [2020-02-14 20:30:10] Title [titleNo=1, titleName=»çÀå]
+[TRACE] [2020-02-14 20:30:10] Title [titleNo=2, titleName=ºÎÀå]
+[TRACE] [2020-02-14 20:30:10] Title [titleNo=3, titleName=°úÀå]
+[TRACE] [2020-02-14 20:30:10] Title [titleNo=4, titleName=´ë¸®]
+[TRACE] [2020-02-14 20:30:10] Title [titleNo=5, titleName=»ç¿ø]
+[TRACE] [2020-02-14 20:30:10] test03InsertTitle()
+[TRACE] [2020-02-14 20:30:10] Title [titleNo=6, titleName=½ÓÀå]
+[TRACE] [2020-02-14 20:30:10] test04UpdateTitle()
+[TRACE] [2020-02-14 20:30:10] Title [titleNo=6, titleName=½ÇÀå]
+[TRACE] [2020-02-14 20:30:10] test05DeleteTitle()
+[TRACE] [2020-02-14 20:30:10] Title [titleNo=6, titleName=null]
+[TRACE] [2020-02-14 20:30:10] tearDownAfterClass()
+[TRACE] [2020-02-14 20:30:10] setUpBeforeClass()
+[TRACE] [2020-02-14 20:30:10] setUp()
+[TRACE] [2020-02-14 20:30:10] testGetConnection()
+[TRACE] [2020-02-14 20:30:10] HikariProxyConnection@1399235245 wrapping com.mysql.jdbc.JDBC4Connection@1bb666d6
+[TRACE] [2020-02-14 20:30:10] tearDown()
+[TRACE] [2020-02-14 20:30:10] tearDownAfterClass()
+[TRACE] [2020-02-14 20:30:32] setUpBeforeClass()
+[TRACE] [2020-02-14 20:30:32] test01SelectDepartmentByDno()
+[TRACE] [2020-02-14 20:30:32] Department [deptNo=3, deptName=°³¹ß, floor=9]
+[TRACE] [2020-02-14 20:30:32] test02SelectDepartmentByAll()
+[TRACE] [2020-02-14 20:30:32] Department [deptNo=1, deptName=¿µ¾÷, floor=8]
+[TRACE] [2020-02-14 20:30:32] Department [deptNo=2, deptName=±âÈ¹, floor=10]
+[TRACE] [2020-02-14 20:30:32] Department [deptNo=3, deptName=°³¹ß, floor=9]
+[TRACE] [2020-02-14 20:30:32] Department [deptNo=4, deptName=ÃÑ¹«, floor=7]
+[TRACE] [2020-02-14 20:30:32] Department [deptNo=5, deptName=¹ý¹«, floor=7]
+[TRACE] [2020-02-14 20:30:32] test03InsertDepartment()
+[TRACE] [2020-02-14 20:30:32] test04UpdateDepartment()
+[TRACE] [2020-02-14 20:30:32] Department [deptNo=5, deptName=¹ý¹«, floor=7]
+[TRACE] [2020-02-14 20:30:32] test05DeleteDepartment()
+[TRACE] [2020-02-14 20:30:32] Department [deptNo=5, deptName=null, floor=0]
+[TRACE] [2020-02-14 20:30:32] tearDownAfterClass()
+[TRACE] [2020-02-14 20:30:32] setUpBeforeClass()
+[TRACE] [2020-02-14 20:30:32] test01SelectEmployeeByENo()
+[TRACE] [2020-02-14 20:30:32] test02SelectTitleByAll()
+[TRACE] [2020-02-14 20:30:32] test03InsertEmployee()
+[TRACE] [2020-02-14 20:30:32] test04UpdateEmployee()
+[TRACE] [2020-02-14 20:30:32] test05DeleteEmployee()
+[TRACE] [2020-02-14 20:30:32] tearDownAfterClass()
+[TRACE] [2020-02-14 20:30:32] setUpBeforeClass()
+[TRACE] [2020-02-14 20:30:32] test01SelectTitleByNo()
+[TRACE] [2020-02-14 20:30:32] SQL ==> select no, titlename from title where no=3
+[TRACE] [2020-02-14 20:30:32] Title [titleNo=3, titleName=°úÀå]
+[TRACE] [2020-02-14 20:30:32] test02SelectTitleByAll()
+[TRACE] [2020-02-14 20:30:32] Title [titleNo=1, titleName=»çÀå]
+[TRACE] [2020-02-14 20:30:32] Title [titleNo=2, titleName=ºÎÀå]
+[TRACE] [2020-02-14 20:30:32] Title [titleNo=3, titleName=°úÀå]
+[TRACE] [2020-02-14 20:30:32] Title [titleNo=4, titleName=´ë¸®]
+[TRACE] [2020-02-14 20:30:32] Title [titleNo=5, titleName=»ç¿ø]
+[TRACE] [2020-02-14 20:30:32] test03InsertTitle()
+[TRACE] [2020-02-14 20:30:32] Title [titleNo=6, titleName=½ÓÀå]
+[TRACE] [2020-02-14 20:30:32] test04UpdateTitle()
+[TRACE] [2020-02-14 20:30:32] Title [titleNo=6, titleName=½ÇÀå]
+[TRACE] [2020-02-14 20:30:32] test05DeleteTitle()
+[TRACE] [2020-02-14 20:30:32] Title [titleNo=6, titleName=null]
+[TRACE] [2020-02-14 20:30:32] tearDownAfterClass()
+[TRACE] [2020-02-14 20:30:32] setUpBeforeClass()
+[TRACE] [2020-02-14 20:30:32] setUp()
+[TRACE] [2020-02-14 20:30:32] testGetConnection()
+[TRACE] [2020-02-14 20:30:32] HikariProxyConnection@1272247552 wrapping com.mysql.jdbc.JDBC4Connection@543a3247
+[TRACE] [2020-02-14 20:30:32] tearDown()
+[TRACE] [2020-02-14 20:30:32] tearDownAfterClass()
+[TRACE] [2020-02-14 20:30:52] setUpBeforeClass()
+[TRACE] [2020-02-14 20:30:52] test01SelectDepartmentByDno()
+[TRACE] [2020-02-14 20:30:52] Department [deptNo=3, deptName=°³¹ß, floor=9]
+[TRACE] [2020-02-14 20:30:52] test02SelectDepartmentByAll()
+[TRACE] [2020-02-14 20:30:52] Department [deptNo=1, deptName=¿µ¾÷, floor=8]
+[TRACE] [2020-02-14 20:30:52] Department [deptNo=2, deptName=±âÈ¹, floor=10]
+[TRACE] [2020-02-14 20:30:52] Department [deptNo=3, deptName=°³¹ß, floor=9]
+[TRACE] [2020-02-14 20:30:52] Department [deptNo=4, deptName=ÃÑ¹«, floor=7]
+[TRACE] [2020-02-14 20:30:52] test03InsertDepartment()
+[TRACE] [2020-02-14 20:30:52] Department [deptNo=5, deptName=±èÀå, floor=6]
+[TRACE] [2020-02-14 20:30:52] test04UpdateDepartment()
+[TRACE] [2020-02-14 20:30:52] Department [deptNo=5, deptName=¹ý¹«, floor=7]
+[TRACE] [2020-02-14 20:30:52] test05DeleteDepartment()
+[TRACE] [2020-02-14 20:30:52] Department [deptNo=5, deptName=null, floor=0]
+[TRACE] [2020-02-14 20:30:52] tearDownAfterClass()
+[TRACE] [2020-02-14 20:30:52] setUpBeforeClass()
+[TRACE] [2020-02-14 20:30:52] test01SelectEmployeeByENo()
+[TRACE] [2020-02-14 20:30:52] test02SelectTitleByAll()
+[TRACE] [2020-02-14 20:30:52] test03InsertEmployee()
+[TRACE] [2020-02-14 20:30:52] test04UpdateEmployee()
+[TRACE] [2020-02-14 20:30:52] test05DeleteEmployee()
+[TRACE] [2020-02-14 20:30:52] tearDownAfterClass()
+[TRACE] [2020-02-14 20:30:52] setUpBeforeClass()
+[TRACE] [2020-02-14 20:30:52] test01SelectTitleByNo()
+[TRACE] [2020-02-14 20:30:52] SQL ==> select no, titlename from title where no=3
+[TRACE] [2020-02-14 20:30:52] Title [titleNo=3, titleName=°úÀå]
+[TRACE] [2020-02-14 20:30:52] test02SelectTitleByAll()
+[TRACE] [2020-02-14 20:30:52] Title [titleNo=1, titleName=»çÀå]
+[TRACE] [2020-02-14 20:30:52] Title [titleNo=2, titleName=ºÎÀå]
+[TRACE] [2020-02-14 20:30:52] Title [titleNo=3, titleName=°úÀå]
+[TRACE] [2020-02-14 20:30:52] Title [titleNo=4, titleName=´ë¸®]
+[TRACE] [2020-02-14 20:30:52] Title [titleNo=5, titleName=»ç¿ø]
+[TRACE] [2020-02-14 20:30:52] test03InsertTitle()
+[TRACE] [2020-02-14 20:30:52] Title [titleNo=6, titleName=½ÓÀå]
+[TRACE] [2020-02-14 20:30:52] test04UpdateTitle()
+[TRACE] [2020-02-14 20:30:52] Title [titleNo=6, titleName=½ÇÀå]
+[TRACE] [2020-02-14 20:30:52] test05DeleteTitle()
+[TRACE] [2020-02-14 20:30:52] Title [titleNo=6, titleName=null]
+[TRACE] [2020-02-14 20:30:52] tearDownAfterClass()
+[TRACE] [2020-02-14 20:30:52] setUpBeforeClass()
+[TRACE] [2020-02-14 20:30:52] setUp()
+[TRACE] [2020-02-14 20:30:52] testGetConnection()
+[TRACE] [2020-02-14 20:30:52] HikariProxyConnection@111968098 wrapping com.mysql.jdbc.JDBC4Connection@73f6fcdc
+[TRACE] [2020-02-14 20:30:52] tearDown()
+[TRACE] [2020-02-14 20:30:52] tearDownAfterClass()
+[TRACE] [2020-02-15 16:30:44] setUpBeforeClass()
+[TRACE] [2020-02-15 16:30:44] test01SelectEmployeeByENo()
+[TRACE] [2020-02-15 16:30:44] test02SelectTitleByAll()
+[TRACE] [2020-02-15 16:30:45] test03InsertEmployee()
+[TRACE] [2020-02-15 16:30:45] test04UpdateEmployee()
+[TRACE] [2020-02-15 16:30:45] test05DeleteEmployee()
+[TRACE] [2020-02-15 16:30:45] tearDownAfterClass()
+[TRACE] [2020-02-15 16:30:45] setUpBeforeClass()
+[TRACE] [2020-02-15 16:30:45] test01SelectDepartmentByDno()
+[TRACE] [2020-02-15 16:30:45] Department [deptNo=3, deptName=°³¹ß, floor=9]
+[TRACE] [2020-02-15 16:30:45] test02SelectDepartmentByAll()
+[TRACE] [2020-02-15 16:30:45] Department [deptNo=1, deptName=¿µ¾÷, floor=8]
+[TRACE] [2020-02-15 16:30:45] Department [deptNo=2, deptName=±âÈ¹, floor=10]
+[TRACE] [2020-02-15 16:30:45] Department [deptNo=3, deptName=°³¹ß, floor=9]
+[TRACE] [2020-02-15 16:30:45] Department [deptNo=4, deptName=ÃÑ¹«, floor=7]
+[TRACE] [2020-02-15 16:30:45] test03InsertDepartment()
+[TRACE] [2020-02-15 16:30:45] Department [deptNo=5, deptName=±èÀå, floor=6]
+[TRACE] [2020-02-15 16:30:45] test04UpdateDepartment()
+[TRACE] [2020-02-15 16:30:45] Department [deptNo=5, deptName=¹ý¹«, floor=7]
+[TRACE] [2020-02-15 16:30:45] test05DeleteDepartment()
+[TRACE] [2020-02-15 16:30:45] Department [deptNo=5, deptName=null, floor=0]
+[TRACE] [2020-02-15 16:30:45] tearDownAfterClass()
+[TRACE] [2020-02-15 16:30:45] setUpBeforeClass()
+[TRACE] [2020-02-15 16:30:45] test01SelectTitleByNo()
+[TRACE] [2020-02-15 16:30:45] SQL ==> select no, titlename from title where no=3
+[TRACE] [2020-02-15 16:30:45] Title [titleNo=3, titleName=°úÀå]
+[TRACE] [2020-02-15 16:30:45] test02SelectTitleByAll()
+[TRACE] [2020-02-15 16:30:45] Title [titleNo=1, titleName=»çÀå]
+[TRACE] [2020-02-15 16:30:45] Title [titleNo=2, titleName=ºÎÀå]
+[TRACE] [2020-02-15 16:30:45] Title [titleNo=3, titleName=°úÀå]
+[TRACE] [2020-02-15 16:30:45] Title [titleNo=4, titleName=´ë¸®]
+[TRACE] [2020-02-15 16:30:45] Title [titleNo=5, titleName=»ç¿ø]
+[TRACE] [2020-02-15 16:30:45] test03InsertTitle()
+[TRACE] [2020-02-15 16:30:45] Title [titleNo=6, titleName=½ÓÀå]
+[TRACE] [2020-02-15 16:30:45] test04UpdateTitle()
+[TRACE] [2020-02-15 16:30:45] Title [titleNo=6, titleName=½ÇÀå]
+[TRACE] [2020-02-15 16:30:45] test05DeleteTitle()
+[TRACE] [2020-02-15 16:30:45] Title [titleNo=6, titleName=null]
+[TRACE] [2020-02-15 16:30:45] tearDownAfterClass()
+[TRACE] [2020-02-15 16:30:45] setUpBeforeClass()
+[TRACE] [2020-02-15 16:30:45] setUp()
+[TRACE] [2020-02-15 16:30:45] testGetConnection()
+[TRACE] [2020-02-15 16:30:45] HikariProxyConnection@1945566428 wrapping com.mysql.jdbc.JDBC4Connection@52b7dfe0
+[TRACE] [2020-02-15 16:30:45] tearDown()
+[TRACE] [2020-02-15 16:30:45] tearDownAfterClass()
+[TRACE] [2020-02-15 16:30:49] setUpBeforeClass()
+[TRACE] [2020-02-15 16:30:49] test01SelectEmployeeByENo()
+[TRACE] [2020-02-15 16:30:49] test02SelectTitleByAll()
+[TRACE] [2020-02-15 16:30:49] test03InsertEmployee()
+[TRACE] [2020-02-15 16:30:49] test04UpdateEmployee()
+[TRACE] [2020-02-15 16:30:49] test05DeleteEmployee()
+[TRACE] [2020-02-15 16:30:49] tearDownAfterClass()
+[TRACE] [2020-02-15 16:30:49] setUpBeforeClass()
+[TRACE] [2020-02-15 16:30:49] test01SelectDepartmentByDno()
+[TRACE] [2020-02-15 16:30:49] Department [deptNo=3, deptName=°³¹ß, floor=9]
+[TRACE] [2020-02-15 16:30:49] test02SelectDepartmentByAll()
+[TRACE] [2020-02-15 16:30:49] Department [deptNo=1, deptName=¿µ¾÷, floor=8]
+[TRACE] [2020-02-15 16:30:49] Department [deptNo=2, deptName=±âÈ¹, floor=10]
+[TRACE] [2020-02-15 16:30:49] Department [deptNo=3, deptName=°³¹ß, floor=9]
+[TRACE] [2020-02-15 16:30:49] Department [deptNo=4, deptName=ÃÑ¹«, floor=7]
+[TRACE] [2020-02-15 16:30:49] test03InsertDepartment()
+[TRACE] [2020-02-15 16:30:49] Department [deptNo=5, deptName=±èÀå, floor=6]
+[TRACE] [2020-02-15 16:30:49] test04UpdateDepartment()
+[TRACE] [2020-02-15 16:30:49] Department [deptNo=5, deptName=¹ý¹«, floor=7]
+[TRACE] [2020-02-15 16:30:49] test05DeleteDepartment()
+[TRACE] [2020-02-15 16:30:49] Department [deptNo=5, deptName=null, floor=0]
+[TRACE] [2020-02-15 16:30:49] tearDownAfterClass()
+[TRACE] [2020-02-15 16:30:49] setUpBeforeClass()
+[TRACE] [2020-02-15 16:30:49] test01SelectTitleByNo()
+[TRACE] [2020-02-15 16:30:49] SQL ==> select no, titlename from title where no=3
+[TRACE] [2020-02-15 16:30:49] Title [titleNo=3, titleName=°úÀå]
+[TRACE] [2020-02-15 16:30:49] test02SelectTitleByAll()
+[TRACE] [2020-02-15 16:30:49] Title [titleNo=1, titleName=»çÀå]
+[TRACE] [2020-02-15 16:30:49] Title [titleNo=2, titleName=ºÎÀå]
+[TRACE] [2020-02-15 16:30:49] Title [titleNo=3, titleName=°úÀå]
+[TRACE] [2020-02-15 16:30:49] Title [titleNo=4, titleName=´ë¸®]
+[TRACE] [2020-02-15 16:30:49] Title [titleNo=5, titleName=»ç¿ø]
+[TRACE] [2020-02-15 16:30:49] test03InsertTitle()
+[TRACE] [2020-02-15 16:30:49] Title [titleNo=6, titleName=½ÓÀå]
+[TRACE] [2020-02-15 16:30:49] test04UpdateTitle()
+[TRACE] [2020-02-15 16:30:49] Title [titleNo=6, titleName=½ÇÀå]
+[TRACE] [2020-02-15 16:30:49] test05DeleteTitle()
+[TRACE] [2020-02-15 16:30:49] Title [titleNo=6, titleName=null]
+[TRACE] [2020-02-15 16:30:49] tearDownAfterClass()
+[TRACE] [2020-02-15 16:30:49] setUpBeforeClass()
+[TRACE] [2020-02-15 16:30:49] setUp()
+[TRACE] [2020-02-15 16:30:49] testGetConnection()
+[TRACE] [2020-02-15 16:30:49] HikariProxyConnection@1945566428 wrapping com.mysql.jdbc.JDBC4Connection@52b7dfe0
+[TRACE] [2020-02-15 16:30:49] tearDown()
+[TRACE] [2020-02-15 16:30:49] tearDownAfterClass()
+[TRACE] [2020-02-15 16:31:59] setUpBeforeClass()
+[TRACE] [2020-02-15 16:31:59] test01SelectEmployeeByENo()
+[TRACE] [2020-02-15 16:31:59] test02SelectEmployeeByAll()
+[TRACE] [2020-02-15 16:31:59] test03InsertEmployee()
+[TRACE] [2020-02-15 16:31:59] test04UpdateEmployee()
+[TRACE] [2020-02-15 16:31:59] test05DeleteEmployee()
+[TRACE] [2020-02-15 16:31:59] tearDownAfterClass()
+[TRACE] [2020-02-15 16:31:59] setUpBeforeClass()
+[TRACE] [2020-02-15 16:31:59] test01SelectDepartmentByDno()
+[TRACE] [2020-02-15 16:31:59] Department [deptNo=3, deptName=°³¹ß, floor=9]
+[TRACE] [2020-02-15 16:31:59] test02SelectDepartmentByAll()
+[TRACE] [2020-02-15 16:31:59] Department [deptNo=1, deptName=¿µ¾÷, floor=8]
+[TRACE] [2020-02-15 16:31:59] Department [deptNo=2, deptName=±âÈ¹, floor=10]
+[TRACE] [2020-02-15 16:31:59] Department [deptNo=3, deptName=°³¹ß, floor=9]
+[TRACE] [2020-02-15 16:31:59] Department [deptNo=4, deptName=ÃÑ¹«, floor=7]
+[TRACE] [2020-02-15 16:31:59] test03InsertDepartment()
+[TRACE] [2020-02-15 16:31:59] Department [deptNo=5, deptName=±èÀå, floor=6]
+[TRACE] [2020-02-15 16:31:59] test04UpdateDepartment()
+[TRACE] [2020-02-15 16:31:59] Department [deptNo=5, deptName=¹ý¹«, floor=7]
+[TRACE] [2020-02-15 16:31:59] test05DeleteDepartment()
+[TRACE] [2020-02-15 16:31:59] Department [deptNo=5, deptName=null, floor=0]
+[TRACE] [2020-02-15 16:31:59] tearDownAfterClass()
+[TRACE] [2020-02-15 16:31:59] setUpBeforeClass()
+[TRACE] [2020-02-15 16:31:59] test01SelectTitleByNo()
+[TRACE] [2020-02-15 16:31:59] SQL ==> select no, titlename from title where no=3
+[TRACE] [2020-02-15 16:31:59] Title [titleNo=3, titleName=°úÀå]
+[TRACE] [2020-02-15 16:31:59] test02SelectTitleByAll()
+[TRACE] [2020-02-15 16:31:59] Title [titleNo=1, titleName=»çÀå]
+[TRACE] [2020-02-15 16:31:59] Title [titleNo=2, titleName=ºÎÀå]
+[TRACE] [2020-02-15 16:31:59] Title [titleNo=3, titleName=°úÀå]
+[TRACE] [2020-02-15 16:31:59] Title [titleNo=4, titleName=´ë¸®]
+[TRACE] [2020-02-15 16:31:59] Title [titleNo=5, titleName=»ç¿ø]
+[TRACE] [2020-02-15 16:31:59] test03InsertTitle()
+[TRACE] [2020-02-15 16:31:59] Title [titleNo=6, titleName=½ÓÀå]
+[TRACE] [2020-02-15 16:31:59] test04UpdateTitle()
+[TRACE] [2020-02-15 16:31:59] Title [titleNo=6, titleName=½ÇÀå]
+[TRACE] [2020-02-15 16:31:59] test05DeleteTitle()
+[TRACE] [2020-02-15 16:31:59] Title [titleNo=6, titleName=null]
+[TRACE] [2020-02-15 16:31:59] tearDownAfterClass()
+[TRACE] [2020-02-15 16:31:59] setUpBeforeClass()
+[TRACE] [2020-02-15 16:31:59] setUp()
+[TRACE] [2020-02-15 16:31:59] testGetConnection()
+[TRACE] [2020-02-15 16:31:59] HikariProxyConnection@276764092 wrapping com.mysql.jdbc.JDBC4Connection@6956afc4
+[TRACE] [2020-02-15 16:31:59] tearDown()
+[TRACE] [2020-02-15 16:31:59] tearDownAfterClass()
+[TRACE] [2020-02-15 16:38:24] setUpBeforeClass()
+[TRACE] [2020-02-15 16:38:24] test01SelectEmployeeByENo()
+[TRACE] [2020-02-15 16:38:24] test02SelectEmployeeByAll()
+[TRACE] [2020-02-15 16:38:24] SQL ==> select empno, empname, title, salary, gender, hiredate, dno from employee
+[TRACE] [2020-02-15 16:38:24] test03InsertEmployee()
+[TRACE] [2020-02-15 16:38:24] test04UpdateEmployee()
+[TRACE] [2020-02-15 16:38:24] test05DeleteEmployee()
+[TRACE] [2020-02-15 16:38:24] tearDownAfterClass()
+[TRACE] [2020-02-15 16:38:24] setUpBeforeClass()
+[TRACE] [2020-02-15 16:38:24] test01SelectDepartmentByDno()
+[TRACE] [2020-02-15 16:38:24] Department [deptNo=3, deptName=°³¹ß, floor=9]
+[TRACE] [2020-02-15 16:38:24] test02SelectDepartmentByAll()
+[TRACE] [2020-02-15 16:38:24] Department [deptNo=1, deptName=¿µ¾÷, floor=8]
+[TRACE] [2020-02-15 16:38:24] Department [deptNo=2, deptName=±âÈ¹, floor=10]
+[TRACE] [2020-02-15 16:38:24] Department [deptNo=3, deptName=°³¹ß, floor=9]
+[TRACE] [2020-02-15 16:38:24] Department [deptNo=4, deptName=ÃÑ¹«, floor=7]
+[TRACE] [2020-02-15 16:38:24] test03InsertDepartment()
+[TRACE] [2020-02-15 16:38:24] Department [deptNo=5, deptName=±èÀå, floor=6]
+[TRACE] [2020-02-15 16:38:24] test04UpdateDepartment()
+[TRACE] [2020-02-15 16:38:24] Department [deptNo=5, deptName=¹ý¹«, floor=7]
+[TRACE] [2020-02-15 16:38:24] test05DeleteDepartment()
+[TRACE] [2020-02-15 16:38:24] Department [deptNo=5, deptName=null, floor=0]
+[TRACE] [2020-02-15 16:38:24] tearDownAfterClass()
+[TRACE] [2020-02-15 16:38:24] setUpBeforeClass()
+[TRACE] [2020-02-15 16:38:24] test01SelectTitleByNo()
+[TRACE] [2020-02-15 16:38:24] SQL ==> select no, titlename from title where no=3
+[TRACE] [2020-02-15 16:38:24] Title [titleNo=3, titleName=°úÀå]
+[TRACE] [2020-02-15 16:38:24] test02SelectTitleByAll()
+[TRACE] [2020-02-15 16:38:24] Title [titleNo=1, titleName=»çÀå]
+[TRACE] [2020-02-15 16:38:24] Title [titleNo=2, titleName=ºÎÀå]
+[TRACE] [2020-02-15 16:38:24] Title [titleNo=3, titleName=°úÀå]
+[TRACE] [2020-02-15 16:38:24] Title [titleNo=4, titleName=´ë¸®]
+[TRACE] [2020-02-15 16:38:24] Title [titleNo=5, titleName=»ç¿ø]
+[TRACE] [2020-02-15 16:38:24] test03InsertTitle()
+[TRACE] [2020-02-15 16:38:24] Title [titleNo=6, titleName=½ÓÀå]
+[TRACE] [2020-02-15 16:38:24] test04UpdateTitle()
+[TRACE] [2020-02-15 16:38:24] Title [titleNo=6, titleName=½ÇÀå]
+[TRACE] [2020-02-15 16:38:24] test05DeleteTitle()
+[TRACE] [2020-02-15 16:38:24] Title [titleNo=6, titleName=null]
+[TRACE] [2020-02-15 16:38:24] tearDownAfterClass()
+[TRACE] [2020-02-15 16:38:24] setUpBeforeClass()
+[TRACE] [2020-02-15 16:38:24] setUp()
+[TRACE] [2020-02-15 16:38:24] testGetConnection()
+[TRACE] [2020-02-15 16:38:24] HikariProxyConnection@711758448 wrapping com.mysql.jdbc.JDBC4Connection@4fdebf30
+[TRACE] [2020-02-15 16:38:24] tearDown()
+[TRACE] [2020-02-15 16:38:24] tearDownAfterClass()
+[TRACE] [2020-02-15 16:39:35] setUpBeforeClass()
+[TRACE] [2020-02-15 16:39:35] test01SelectEmployeeByENo()
+[TRACE] [2020-02-15 16:39:35] test02SelectEmployeeByAll()
+[TRACE] [2020-02-15 16:39:35] SQL ==> select empno, empname, title, salary, gender, hiredate, dno from employee
+[TRACE] [2020-02-15 16:39:35] test03InsertEmployee()
+[TRACE] [2020-02-15 16:39:35] test04UpdateEmployee()
+[TRACE] [2020-02-15 16:39:35] test05DeleteEmployee()
+[TRACE] [2020-02-15 16:39:35] tearDownAfterClass()
+[TRACE] [2020-02-15 16:39:35] setUpBeforeClass()
+[TRACE] [2020-02-15 16:39:35] test01SelectDepartmentByDno()
+[TRACE] [2020-02-15 16:39:35] Department [deptNo=3, deptName=°³¹ß, floor=9]
+[TRACE] [2020-02-15 16:39:35] test02SelectDepartmentByAll()
+[TRACE] [2020-02-15 16:39:35] Department [deptNo=1, deptName=¿µ¾÷, floor=8]
+[TRACE] [2020-02-15 16:39:35] Department [deptNo=2, deptName=±âÈ¹, floor=10]
+[TRACE] [2020-02-15 16:39:35] Department [deptNo=3, deptName=°³¹ß, floor=9]
+[TRACE] [2020-02-15 16:39:35] Department [deptNo=4, deptName=ÃÑ¹«, floor=7]
+[TRACE] [2020-02-15 16:39:35] test03InsertDepartment()
+[TRACE] [2020-02-15 16:39:35] Department [deptNo=5, deptName=±èÀå, floor=6]
+[TRACE] [2020-02-15 16:39:35] test04UpdateDepartment()
+[TRACE] [2020-02-15 16:39:35] Department [deptNo=5, deptName=¹ý¹«, floor=7]
+[TRACE] [2020-02-15 16:39:35] test05DeleteDepartment()
+[TRACE] [2020-02-15 16:39:35] Department [deptNo=5, deptName=null, floor=0]
+[TRACE] [2020-02-15 16:39:35] tearDownAfterClass()
+[TRACE] [2020-02-15 16:39:35] setUpBeforeClass()
+[TRACE] [2020-02-15 16:39:35] test01SelectTitleByNo()
+[TRACE] [2020-02-15 16:39:35] SQL ==> select no, titlename from title where no=3
+[TRACE] [2020-02-15 16:39:35] Title [titleNo=3, titleName=°úÀå]
+[TRACE] [2020-02-15 16:39:35] test02SelectTitleByAll()
+[TRACE] [2020-02-15 16:39:35] Title [titleNo=1, titleName=»çÀå]
+[TRACE] [2020-02-15 16:39:35] Title [titleNo=2, titleName=ºÎÀå]
+[TRACE] [2020-02-15 16:39:35] Title [titleNo=3, titleName=°úÀå]
+[TRACE] [2020-02-15 16:39:35] Title [titleNo=4, titleName=´ë¸®]
+[TRACE] [2020-02-15 16:39:35] Title [titleNo=5, titleName=»ç¿ø]
+[TRACE] [2020-02-15 16:39:35] test03InsertTitle()
+[TRACE] [2020-02-15 16:39:35] Title [titleNo=6, titleName=½ÓÀå]
+[TRACE] [2020-02-15 16:39:35] test04UpdateTitle()
+[TRACE] [2020-02-15 16:39:35] Title [titleNo=6, titleName=½ÇÀå]
+[TRACE] [2020-02-15 16:39:35] test05DeleteTitle()
+[TRACE] [2020-02-15 16:39:35] Title [titleNo=6, titleName=null]
+[TRACE] [2020-02-15 16:39:35] tearDownAfterClass()
+[TRACE] [2020-02-15 16:39:35] setUpBeforeClass()
+[TRACE] [2020-02-15 16:39:35] setUp()
+[TRACE] [2020-02-15 16:39:35] testGetConnection()
+[TRACE] [2020-02-15 16:39:35] HikariProxyConnection@585379399 wrapping com.mysql.jdbc.JDBC4Connection@4b7dbf1e
+[TRACE] [2020-02-15 16:39:35] tearDown()
+[TRACE] [2020-02-15 16:39:35] tearDownAfterClass()
+[TRACE] [2020-02-15 16:40:22] setUpBeforeClass()
+[TRACE] [2020-02-15 16:40:22] test01SelectEmployeeByENo()
+[TRACE] [2020-02-15 16:40:23] test02SelectEmployeeByAll()
+[TRACE] [2020-02-15 16:40:23] SQL ==> select empno, empname, title, salary, gender, hiredate, dno from employee
+[TRACE] [2020-02-15 16:40:23] test03InsertEmployee()
+[TRACE] [2020-02-15 16:40:23] test04UpdateEmployee()
+[TRACE] [2020-02-15 16:40:23] test05DeleteEmployee()
+[TRACE] [2020-02-15 16:40:23] tearDownAfterClass()
+[TRACE] [2020-02-15 16:40:23] setUpBeforeClass()
+[TRACE] [2020-02-15 16:40:23] test01SelectDepartmentByDno()
+[TRACE] [2020-02-15 16:40:23] Department [deptNo=3, deptName=°³¹ß, floor=9]
+[TRACE] [2020-02-15 16:40:23] test02SelectDepartmentByAll()
+[TRACE] [2020-02-15 16:40:23] Department [deptNo=1, deptName=¿µ¾÷, floor=8]
+[TRACE] [2020-02-15 16:40:23] Department [deptNo=2, deptName=±âÈ¹, floor=10]
+[TRACE] [2020-02-15 16:40:23] Department [deptNo=3, deptName=°³¹ß, floor=9]
+[TRACE] [2020-02-15 16:40:23] Department [deptNo=4, deptName=ÃÑ¹«, floor=7]
+[TRACE] [2020-02-15 16:40:23] test03InsertDepartment()
+[TRACE] [2020-02-15 16:40:23] Department [deptNo=5, deptName=±èÀå, floor=6]
+[TRACE] [2020-02-15 16:40:23] test04UpdateDepartment()
+[TRACE] [2020-02-15 16:40:23] Department [deptNo=5, deptName=¹ý¹«, floor=7]
+[TRACE] [2020-02-15 16:40:23] test05DeleteDepartment()
+[TRACE] [2020-02-15 16:40:23] Department [deptNo=5, deptName=null, floor=0]
+[TRACE] [2020-02-15 16:40:23] tearDownAfterClass()
+[TRACE] [2020-02-15 16:40:23] setUpBeforeClass()
+[TRACE] [2020-02-15 16:40:23] test01SelectTitleByNo()
+[TRACE] [2020-02-15 16:40:23] SQL ==> select no, titlename from title where no=3
+[TRACE] [2020-02-15 16:40:23] Title [titleNo=3, titleName=°úÀå]
+[TRACE] [2020-02-15 16:40:23] test02SelectTitleByAll()
+[TRACE] [2020-02-15 16:40:23] Title [titleNo=1, titleName=»çÀå]
+[TRACE] [2020-02-15 16:40:23] Title [titleNo=2, titleName=ºÎÀå]
+[TRACE] [2020-02-15 16:40:23] Title [titleNo=3, titleName=°úÀå]
+[TRACE] [2020-02-15 16:40:23] Title [titleNo=4, titleName=´ë¸®]
+[TRACE] [2020-02-15 16:40:23] Title [titleNo=5, titleName=»ç¿ø]
+[TRACE] [2020-02-15 16:40:23] test03InsertTitle()
+[TRACE] [2020-02-15 16:40:23] Title [titleNo=6, titleName=½ÓÀå]
+[TRACE] [2020-02-15 16:40:23] test04UpdateTitle()
+[TRACE] [2020-02-15 16:40:23] Title [titleNo=6, titleName=½ÇÀå]
+[TRACE] [2020-02-15 16:40:23] test05DeleteTitle()
+[TRACE] [2020-02-15 16:40:23] Title [titleNo=6, titleName=null]
+[TRACE] [2020-02-15 16:40:23] tearDownAfterClass()
+[TRACE] [2020-02-15 16:40:23] setUpBeforeClass()
+[TRACE] [2020-02-15 16:40:23] setUp()
+[TRACE] [2020-02-15 16:40:23] testGetConnection()
+[TRACE] [2020-02-15 16:40:23] HikariProxyConnection@585379399 wrapping com.mysql.jdbc.JDBC4Connection@4b7dbf1e
+[TRACE] [2020-02-15 16:40:23] tearDown()
+[TRACE] [2020-02-15 16:40:23] tearDownAfterClass()
+[TRACE] [2020-02-15 16:44:27] setUpBeforeClass()
+[TRACE] [2020-02-15 16:44:27] test01SelectEmployeeByENo()
+[TRACE] [2020-02-15 16:44:27] test02SelectEmployeeByAll()
+[TRACE] [2020-02-15 16:44:27] SQL ==> select empno, empname, title, salary, gender, hiredate, dno from employee
+[TRACE] [2020-02-15 16:44:27] test03InsertEmployee()
+[TRACE] [2020-02-15 16:44:27] test04UpdateEmployee()
+[TRACE] [2020-02-15 16:44:27] test05DeleteEmployee()
+[TRACE] [2020-02-15 16:44:27] tearDownAfterClass()
+[TRACE] [2020-02-15 16:44:27] setUpBeforeClass()
+[TRACE] [2020-02-15 16:44:27] test01SelectDepartmentByDno()
+[TRACE] [2020-02-15 16:44:27] Department [deptNo=3, deptName=°³¹ß, floor=9]
+[TRACE] [2020-02-15 16:44:27] test02SelectDepartmentByAll()
+[TRACE] [2020-02-15 16:44:27] Department [deptNo=1, deptName=¿µ¾÷, floor=8]
+[TRACE] [2020-02-15 16:44:27] Department [deptNo=2, deptName=±âÈ¹, floor=10]
+[TRACE] [2020-02-15 16:44:27] Department [deptNo=3, deptName=°³¹ß, floor=9]
+[TRACE] [2020-02-15 16:44:27] Department [deptNo=4, deptName=ÃÑ¹«, floor=7]
+[TRACE] [2020-02-15 16:44:27] test03InsertDepartment()
+[TRACE] [2020-02-15 16:44:27] Department [deptNo=5, deptName=±èÀå, floor=6]
+[TRACE] [2020-02-15 16:44:27] test04UpdateDepartment()
+[TRACE] [2020-02-15 16:44:27] Department [deptNo=5, deptName=¹ý¹«, floor=7]
+[TRACE] [2020-02-15 16:44:27] test05DeleteDepartment()
+[TRACE] [2020-02-15 16:44:27] Department [deptNo=5, deptName=null, floor=0]
+[TRACE] [2020-02-15 16:44:27] tearDownAfterClass()
+[TRACE] [2020-02-15 16:44:27] setUpBeforeClass()
+[TRACE] [2020-02-15 16:44:27] test01SelectTitleByNo()
+[TRACE] [2020-02-15 16:44:27] SQL ==> select no, titlename from title where no=3
+[TRACE] [2020-02-15 16:44:27] Title [titleNo=3, titleName=°úÀå]
+[TRACE] [2020-02-15 16:44:27] test02SelectTitleByAll()
+[TRACE] [2020-02-15 16:44:27] Title [titleNo=1, titleName=»çÀå]
+[TRACE] [2020-02-15 16:44:27] Title [titleNo=2, titleName=ºÎÀå]
+[TRACE] [2020-02-15 16:44:27] Title [titleNo=3, titleName=°úÀå]
+[TRACE] [2020-02-15 16:44:27] Title [titleNo=4, titleName=´ë¸®]
+[TRACE] [2020-02-15 16:44:27] Title [titleNo=5, titleName=»ç¿ø]
+[TRACE] [2020-02-15 16:44:27] test03InsertTitle()
+[TRACE] [2020-02-15 16:44:27] Title [titleNo=6, titleName=½ÓÀå]
+[TRACE] [2020-02-15 16:44:27] test04UpdateTitle()
+[TRACE] [2020-02-15 16:44:27] Title [titleNo=6, titleName=½ÇÀå]
+[TRACE] [2020-02-15 16:44:27] test05DeleteTitle()
+[TRACE] [2020-02-15 16:44:27] Title [titleNo=6, titleName=null]
+[TRACE] [2020-02-15 16:44:27] tearDownAfterClass()
+[TRACE] [2020-02-15 16:44:27] setUpBeforeClass()
+[TRACE] [2020-02-15 16:44:27] setUp()
+[TRACE] [2020-02-15 16:44:27] testGetConnection()
+[TRACE] [2020-02-15 16:44:27] HikariProxyConnection@711758448 wrapping com.mysql.jdbc.JDBC4Connection@4fdebf30
+[TRACE] [2020-02-15 16:44:27] tearDown()
+[TRACE] [2020-02-15 16:44:27] tearDownAfterClass()
+[TRACE] [2020-02-15 16:45:34] setUpBeforeClass()
+[TRACE] [2020-02-15 16:45:34] test01SelectEmployeeByENo()
+[TRACE] [2020-02-15 16:45:34] test02SelectEmployeeByAll()
+[TRACE] [2020-02-15 16:45:35] SQL ==> select empno, empname, title, salary, gender, hiredate, dno from employee
+[TRACE] [2020-02-15 16:45:35] Employee [empNo=1003, empName=Á¶¹ÎÈñ, title=Title [titleNo=3, titleName=null], salary=3000000, gender=1, hiredate=2005-07-01 00:00:00.0, dno=Department [deptNo=3, deptName=null, floor=0]]
+[TRACE] [2020-02-15 16:45:35] Employee [empNo=2106, empName=±èÃ¢¼·, title=Title [titleNo=4, titleName=null], salary=2500000, gender=0, hiredate=2010-12-01 00:00:00.0, dno=Department [deptNo=2, deptName=null, floor=0]]
+[TRACE] [2020-02-15 16:45:35] Employee [empNo=3011, empName=ÀÌ¼ö¹Î, title=Title [titleNo=2, titleName=null], salary=4000000, gender=1, hiredate=2007-07-01 00:00:00.0, dno=Department [deptNo=3, deptName=null, floor=0]]
+[TRACE] [2020-02-15 16:45:35] Employee [empNo=3426, empName=¹Ú¿µ±Ç, title=Title [titleNo=3, titleName=null], salary=3000000, gender=0, hiredate=2000-07-01 00:00:00.0, dno=Department [deptNo=1, deptName=null, floor=0]]
+[TRACE] [2020-02-15 16:45:35] Employee [empNo=3427, empName=ÃÖÁ¾Ã¶, title=Title [titleNo=5, titleName=null], salary=1500000, gender=0, hiredate=2010-12-01 00:00:00.0, dno=Department [deptNo=3, deptName=null, floor=0]]
+[TRACE] [2020-02-15 16:45:35] Employee [empNo=4377, empName=ÀÌ¼º·¡, title=Title [titleNo=1, titleName=null], salary=5000000, gender=0, hiredate=2000-03-01 00:00:00.0, dno=Department [deptNo=2, deptName=null, floor=0]]
+[TRACE] [2020-02-15 16:45:35] test03InsertEmployee()
+[TRACE] [2020-02-15 16:45:35] test04UpdateEmployee()
+[TRACE] [2020-02-15 16:45:35] test05DeleteEmployee()
+[TRACE] [2020-02-15 16:45:35] tearDownAfterClass()
+[TRACE] [2020-02-15 16:45:35] setUpBeforeClass()
+[TRACE] [2020-02-15 16:45:35] test01SelectDepartmentByDno()
+[TRACE] [2020-02-15 16:45:35] Department [deptNo=3, deptName=°³¹ß, floor=9]
+[TRACE] [2020-02-15 16:45:35] test02SelectDepartmentByAll()
+[TRACE] [2020-02-15 16:45:35] Department [deptNo=1, deptName=¿µ¾÷, floor=8]
+[TRACE] [2020-02-15 16:45:35] Department [deptNo=2, deptName=±âÈ¹, floor=10]
+[TRACE] [2020-02-15 16:45:35] Department [deptNo=3, deptName=°³¹ß, floor=9]
+[TRACE] [2020-02-15 16:45:35] Department [deptNo=4, deptName=ÃÑ¹«, floor=7]
+[TRACE] [2020-02-15 16:45:35] test03InsertDepartment()
+[TRACE] [2020-02-15 16:45:35] Department [deptNo=5, deptName=±èÀå, floor=6]
+[TRACE] [2020-02-15 16:45:35] test04UpdateDepartment()
+[TRACE] [2020-02-15 16:45:35] Department [deptNo=5, deptName=¹ý¹«, floor=7]
+[TRACE] [2020-02-15 16:45:35] test05DeleteDepartment()
+[TRACE] [2020-02-15 16:45:35] Department [deptNo=5, deptName=null, floor=0]
+[TRACE] [2020-02-15 16:45:35] tearDownAfterClass()
+[TRACE] [2020-02-15 16:45:35] setUpBeforeClass()
+[TRACE] [2020-02-15 16:45:35] test01SelectTitleByNo()
+[TRACE] [2020-02-15 16:45:35] SQL ==> select no, titlename from title where no=3
+[TRACE] [2020-02-15 16:45:35] Title [titleNo=3, titleName=°úÀå]
+[TRACE] [2020-02-15 16:45:35] test02SelectTitleByAll()
+[TRACE] [2020-02-15 16:45:35] Title [titleNo=1, titleName=»çÀå]
+[TRACE] [2020-02-15 16:45:35] Title [titleNo=2, titleName=ºÎÀå]
+[TRACE] [2020-02-15 16:45:35] Title [titleNo=3, titleName=°úÀå]
+[TRACE] [2020-02-15 16:45:35] Title [titleNo=4, titleName=´ë¸®]
+[TRACE] [2020-02-15 16:45:35] Title [titleNo=5, titleName=»ç¿ø]
+[TRACE] [2020-02-15 16:45:35] test03InsertTitle()
+[TRACE] [2020-02-15 16:45:35] Title [titleNo=6, titleName=½ÓÀå]
+[TRACE] [2020-02-15 16:45:35] test04UpdateTitle()
+[TRACE] [2020-02-15 16:45:35] Title [titleNo=6, titleName=½ÇÀå]
+[TRACE] [2020-02-15 16:45:35] test05DeleteTitle()
+[TRACE] [2020-02-15 16:45:35] Title [titleNo=6, titleName=null]
+[TRACE] [2020-02-15 16:45:35] tearDownAfterClass()
+[TRACE] [2020-02-15 16:45:35] setUpBeforeClass()
+[TRACE] [2020-02-15 16:45:35] setUp()
+[TRACE] [2020-02-15 16:45:35] testGetConnection()
+[TRACE] [2020-02-15 16:45:35] HikariProxyConnection@711758448 wrapping com.mysql.jdbc.JDBC4Connection@4fdebf30
+[TRACE] [2020-02-15 16:45:35] tearDown()
+[TRACE] [2020-02-15 16:45:35] tearDownAfterClass()
+[TRACE] [2020-02-15 17:09:40] setUpBeforeClass()
+[TRACE] [2020-02-15 17:09:40] test01SelectEmployeeByENo()
+[TRACE] [2020-02-15 17:09:40] SQL ==> select empno, empname, title, salary, gender, hiredate, dno from employee where empno = 1003
+[TRACE] [2020-02-15 17:09:40] Employee [empNo=1003, empName=Á¶¹ÎÈñ, title=Title [titleNo=3, titleName=null], salary=3000000, gender=1, hiredate=2005-07-01 00:00:00.0, dno=Department [deptNo=3, deptName=null, floor=0]]
+[TRACE] [2020-02-15 17:09:40] Employee [empNo=1003, empName=Á¶¹ÎÈñ, title=Title [titleNo=3, titleName=null], salary=3000000, gender=1, hiredate=2005-07-01 00:00:00.0, dno=Department [deptNo=3, deptName=null, floor=0]]
+[TRACE] [2020-02-15 17:09:40] test02SelectEmployeeByAll()
+[TRACE] [2020-02-15 17:09:40] SQL ==> select empno, empname, title, salary, gender, hiredate, dno from employee
+[TRACE] [2020-02-15 17:09:40] Employee [empNo=1003, empName=Á¶¹ÎÈñ, title=Title [titleNo=3, titleName=null], salary=3000000, gender=1, hiredate=2005-07-01 00:00:00.0, dno=Department [deptNo=3, deptName=null, floor=0]]
+[TRACE] [2020-02-15 17:09:40] Employee [empNo=2106, empName=±èÃ¢¼·, title=Title [titleNo=4, titleName=null], salary=2500000, gender=0, hiredate=2010-12-01 00:00:00.0, dno=Department [deptNo=2, deptName=null, floor=0]]
+[TRACE] [2020-02-15 17:09:40] Employee [empNo=3011, empName=ÀÌ¼ö¹Î, title=Title [titleNo=2, titleName=null], salary=4000000, gender=1, hiredate=2007-07-01 00:00:00.0, dno=Department [deptNo=3, deptName=null, floor=0]]
+[TRACE] [2020-02-15 17:09:40] Employee [empNo=3426, empName=¹Ú¿µ±Ç, title=Title [titleNo=3, titleName=null], salary=3000000, gender=0, hiredate=2000-07-01 00:00:00.0, dno=Department [deptNo=1, deptName=null, floor=0]]
+[TRACE] [2020-02-15 17:09:40] Employee [empNo=3427, empName=ÃÖÁ¾Ã¶, title=Title [titleNo=5, titleName=null], salary=1500000, gender=0, hiredate=2010-12-01 00:00:00.0, dno=Department [deptNo=3, deptName=null, floor=0]]
+[TRACE] [2020-02-15 17:09:40] Employee [empNo=4377, empName=ÀÌ¼º·¡, title=Title [titleNo=1, titleName=null], salary=5000000, gender=0, hiredate=2000-03-01 00:00:00.0, dno=Department [deptNo=2, deptName=null, floor=0]]
+[TRACE] [2020-02-15 17:09:40] test03InsertEmployee()
+[TRACE] [2020-02-15 17:09:40] test04UpdateEmployee()
+[TRACE] [2020-02-15 17:09:40] test05DeleteEmployee()
+[TRACE] [2020-02-15 17:09:40] tearDownAfterClass()
+[TRACE] [2020-02-15 17:09:40] setUpBeforeClass()
+[TRACE] [2020-02-15 17:09:40] test01SelectDepartmentByDno()
+[TRACE] [2020-02-15 17:09:40] Department [deptNo=3, deptName=°³¹ß, floor=9]
+[TRACE] [2020-02-15 17:09:40] test02SelectDepartmentByAll()
+[TRACE] [2020-02-15 17:09:40] Department [deptNo=1, deptName=¿µ¾÷, floor=8]
+[TRACE] [2020-02-15 17:09:40] Department [deptNo=2, deptName=±âÈ¹, floor=10]
+[TRACE] [2020-02-15 17:09:40] Department [deptNo=3, deptName=°³¹ß, floor=9]
+[TRACE] [2020-02-15 17:09:40] Department [deptNo=4, deptName=ÃÑ¹«, floor=7]
+[TRACE] [2020-02-15 17:09:40] test03InsertDepartment()
+[TRACE] [2020-02-15 17:09:40] Department [deptNo=5, deptName=±èÀå, floor=6]
+[TRACE] [2020-02-15 17:09:40] test04UpdateDepartment()
+[TRACE] [2020-02-15 17:09:40] Department [deptNo=5, deptName=¹ý¹«, floor=7]
+[TRACE] [2020-02-15 17:09:40] test05DeleteDepartment()
+[TRACE] [2020-02-15 17:09:40] Department [deptNo=5, deptName=null, floor=0]
+[TRACE] [2020-02-15 17:09:40] tearDownAfterClass()
+[TRACE] [2020-02-15 17:09:40] setUpBeforeClass()
+[TRACE] [2020-02-15 17:09:40] test01SelectTitleByNo()
+[TRACE] [2020-02-15 17:09:40] SQL ==> select no, titlename from title where no=3
+[TRACE] [2020-02-15 17:09:40] Title [titleNo=3, titleName=°úÀå]
+[TRACE] [2020-02-15 17:09:40] test02SelectTitleByAll()
+[TRACE] [2020-02-15 17:09:40] Title [titleNo=1, titleName=»çÀå]
+[TRACE] [2020-02-15 17:09:40] Title [titleNo=2, titleName=ºÎÀå]
+[TRACE] [2020-02-15 17:09:40] Title [titleNo=3, titleName=°úÀå]
+[TRACE] [2020-02-15 17:09:40] Title [titleNo=4, titleName=´ë¸®]
+[TRACE] [2020-02-15 17:09:40] Title [titleNo=5, titleName=»ç¿ø]
+[TRACE] [2020-02-15 17:09:40] test03InsertTitle()
+[TRACE] [2020-02-15 17:09:40] Title [titleNo=6, titleName=½ÓÀå]
+[TRACE] [2020-02-15 17:09:40] test04UpdateTitle()
+[TRACE] [2020-02-15 17:09:40] Title [titleNo=6, titleName=½ÇÀå]
+[TRACE] [2020-02-15 17:09:40] test05DeleteTitle()
+[TRACE] [2020-02-15 17:09:40] Title [titleNo=6, titleName=null]
+[TRACE] [2020-02-15 17:09:40] tearDownAfterClass()
+[TRACE] [2020-02-15 17:09:40] setUpBeforeClass()
+[TRACE] [2020-02-15 17:09:40] setUp()
+[TRACE] [2020-02-15 17:09:40] testGetConnection()
+[TRACE] [2020-02-15 17:09:40] HikariProxyConnection@1739471957 wrapping com.mysql.jdbc.JDBC4Connection@299fddc2
+[TRACE] [2020-02-15 17:09:40] tearDown()
+[TRACE] [2020-02-15 17:09:40] tearDownAfterClass()
+[TRACE] [2020-02-15 17:10:07] setUpBeforeClass()
+[TRACE] [2020-02-15 17:10:07] test01SelectEmployeeByENo()
+[TRACE] [2020-02-15 17:10:07] Employee [empNo=1003, empName=Á¶¹ÎÈñ, title=Title [titleNo=3, titleName=null], salary=3000000, gender=1, hiredate=2005-07-01 00:00:00.0, dno=Department [deptNo=3, deptName=null, floor=0]]
+[TRACE] [2020-02-15 17:10:07] Employee [empNo=1003, empName=Á¶¹ÎÈñ, title=Title [titleNo=3, titleName=null], salary=3000000, gender=1, hiredate=2005-07-01 00:00:00.0, dno=Department [deptNo=3, deptName=null, floor=0]]
+[TRACE] [2020-02-15 17:10:07] test02SelectEmployeeByAll()
+[TRACE] [2020-02-15 17:10:07] SQL ==> select empno, empname, title, salary, gender, hiredate, dno from employee
+[TRACE] [2020-02-15 17:10:07] Employee [empNo=1003, empName=Á¶¹ÎÈñ, title=Title [titleNo=3, titleName=null], salary=3000000, gender=1, hiredate=2005-07-01 00:00:00.0, dno=Department [deptNo=3, deptName=null, floor=0]]
+[TRACE] [2020-02-15 17:10:07] Employee [empNo=2106, empName=±èÃ¢¼·, title=Title [titleNo=4, titleName=null], salary=2500000, gender=0, hiredate=2010-12-01 00:00:00.0, dno=Department [deptNo=2, deptName=null, floor=0]]
+[TRACE] [2020-02-15 17:10:07] Employee [empNo=3011, empName=ÀÌ¼ö¹Î, title=Title [titleNo=2, titleName=null], salary=4000000, gender=1, hiredate=2007-07-01 00:00:00.0, dno=Department [deptNo=3, deptName=null, floor=0]]
+[TRACE] [2020-02-15 17:10:07] Employee [empNo=3426, empName=¹Ú¿µ±Ç, title=Title [titleNo=3, titleName=null], salary=3000000, gender=0, hiredate=2000-07-01 00:00:00.0, dno=Department [deptNo=1, deptName=null, floor=0]]
+[TRACE] [2020-02-15 17:10:07] Employee [empNo=3427, empName=ÃÖÁ¾Ã¶, title=Title [titleNo=5, titleName=null], salary=1500000, gender=0, hiredate=2010-12-01 00:00:00.0, dno=Department [deptNo=3, deptName=null, floor=0]]
+[TRACE] [2020-02-15 17:10:07] Employee [empNo=4377, empName=ÀÌ¼º·¡, title=Title [titleNo=1, titleName=null], salary=5000000, gender=0, hiredate=2000-03-01 00:00:00.0, dno=Department [deptNo=2, deptName=null, floor=0]]
+[TRACE] [2020-02-15 17:10:07] test03InsertEmployee()
+[TRACE] [2020-02-15 17:10:07] test04UpdateEmployee()
+[TRACE] [2020-02-15 17:10:07] test05DeleteEmployee()
+[TRACE] [2020-02-15 17:10:07] tearDownAfterClass()
+[TRACE] [2020-02-15 17:10:07] setUpBeforeClass()
+[TRACE] [2020-02-15 17:10:07] test01SelectDepartmentByDno()
+[TRACE] [2020-02-15 17:10:07] Department [deptNo=3, deptName=°³¹ß, floor=9]
+[TRACE] [2020-02-15 17:10:07] test02SelectDepartmentByAll()
+[TRACE] [2020-02-15 17:10:07] Department [deptNo=1, deptName=¿µ¾÷, floor=8]
+[TRACE] [2020-02-15 17:10:07] Department [deptNo=2, deptName=±âÈ¹, floor=10]
+[TRACE] [2020-02-15 17:10:07] Department [deptNo=3, deptName=°³¹ß, floor=9]
+[TRACE] [2020-02-15 17:10:07] Department [deptNo=4, deptName=ÃÑ¹«, floor=7]
+[TRACE] [2020-02-15 17:10:07] test03InsertDepartment()
+[TRACE] [2020-02-15 17:10:07] Department [deptNo=5, deptName=±èÀå, floor=6]
+[TRACE] [2020-02-15 17:10:07] test04UpdateDepartment()
+[TRACE] [2020-02-15 17:10:07] Department [deptNo=5, deptName=¹ý¹«, floor=7]
+[TRACE] [2020-02-15 17:10:07] test05DeleteDepartment()
+[TRACE] [2020-02-15 17:10:07] Department [deptNo=5, deptName=null, floor=0]
+[TRACE] [2020-02-15 17:10:07] tearDownAfterClass()
+[TRACE] [2020-02-15 17:10:07] setUpBeforeClass()
+[TRACE] [2020-02-15 17:10:07] test01SelectTitleByNo()
+[TRACE] [2020-02-15 17:10:07] SQL ==> select no, titlename from title where no=3
+[TRACE] [2020-02-15 17:10:07] Title [titleNo=3, titleName=°úÀå]
+[TRACE] [2020-02-15 17:10:07] test02SelectTitleByAll()
+[TRACE] [2020-02-15 17:10:07] Title [titleNo=1, titleName=»çÀå]
+[TRACE] [2020-02-15 17:10:07] Title [titleNo=2, titleName=ºÎÀå]
+[TRACE] [2020-02-15 17:10:07] Title [titleNo=3, titleName=°úÀå]
+[TRACE] [2020-02-15 17:10:07] Title [titleNo=4, titleName=´ë¸®]
+[TRACE] [2020-02-15 17:10:07] Title [titleNo=5, titleName=»ç¿ø]
+[TRACE] [2020-02-15 17:10:07] test03InsertTitle()
+[TRACE] [2020-02-15 17:10:07] Title [titleNo=6, titleName=½ÓÀå]
+[TRACE] [2020-02-15 17:10:07] test04UpdateTitle()
+[TRACE] [2020-02-15 17:10:07] Title [titleNo=6, titleName=½ÇÀå]
+[TRACE] [2020-02-15 17:10:07] test05DeleteTitle()
+[TRACE] [2020-02-15 17:10:07] Title [titleNo=6, titleName=null]
+[TRACE] [2020-02-15 17:10:07] tearDownAfterClass()
+[TRACE] [2020-02-15 17:10:07] setUpBeforeClass()
+[TRACE] [2020-02-15 17:10:07] setUp()
+[TRACE] [2020-02-15 17:10:07] testGetConnection()
+[TRACE] [2020-02-15 17:10:07] HikariProxyConnection@1339998000 wrapping com.mysql.jdbc.JDBC4Connection@b0aba0b
+[TRACE] [2020-02-15 17:10:07] tearDown()
+[TRACE] [2020-02-15 17:10:07] tearDownAfterClass()
+[TRACE] [2020-02-15 17:11:00] setUpBeforeClass()
+[TRACE] [2020-02-15 17:11:00] test01SelectEmployeeByENo()
+[TRACE] [2020-02-15 17:11:00] Employee [empNo=1003, empName=Á¶¹ÎÈñ, title=Title [titleNo=3, titleName=null], salary=3000000, gender=1, hiredate=2005-07-01 00:00:00.0, dno=Department [deptNo=3, deptName=null, floor=0]]
+[TRACE] [2020-02-15 17:11:00] test02SelectEmployeeByAll()
+[TRACE] [2020-02-15 17:11:00] SQL ==> select empno, empname, title, salary, gender, hiredate, dno from employee
+[TRACE] [2020-02-15 17:11:00] Employee [empNo=1003, empName=Á¶¹ÎÈñ, title=Title [titleNo=3, titleName=null], salary=3000000, gender=1, hiredate=2005-07-01 00:00:00.0, dno=Department [deptNo=3, deptName=null, floor=0]]
+[TRACE] [2020-02-15 17:11:00] Employee [empNo=2106, empName=±èÃ¢¼·, title=Title [titleNo=4, titleName=null], salary=2500000, gender=0, hiredate=2010-12-01 00:00:00.0, dno=Department [deptNo=2, deptName=null, floor=0]]
+[TRACE] [2020-02-15 17:11:00] Employee [empNo=3011, empName=ÀÌ¼ö¹Î, title=Title [titleNo=2, titleName=null], salary=4000000, gender=1, hiredate=2007-07-01 00:00:00.0, dno=Department [deptNo=3, deptName=null, floor=0]]
+[TRACE] [2020-02-15 17:11:00] Employee [empNo=3426, empName=¹Ú¿µ±Ç, title=Title [titleNo=3, titleName=null], salary=3000000, gender=0, hiredate=2000-07-01 00:00:00.0, dno=Department [deptNo=1, deptName=null, floor=0]]
+[TRACE] [2020-02-15 17:11:00] Employee [empNo=3427, empName=ÃÖÁ¾Ã¶, title=Title [titleNo=5, titleName=null], salary=1500000, gender=0, hiredate=2010-12-01 00:00:00.0, dno=Department [deptNo=3, deptName=null, floor=0]]
+[TRACE] [2020-02-15 17:11:00] Employee [empNo=4377, empName=ÀÌ¼º·¡, title=Title [titleNo=1, titleName=null], salary=5000000, gender=0, hiredate=2000-03-01 00:00:00.0, dno=Department [deptNo=2, deptName=null, floor=0]]
+[TRACE] [2020-02-15 17:11:00] test03InsertEmployee()
+[TRACE] [2020-02-15 17:11:00] test04UpdateEmployee()
+[TRACE] [2020-02-15 17:11:00] test05DeleteEmployee()
+[TRACE] [2020-02-15 17:11:00] tearDownAfterClass()
+[TRACE] [2020-02-15 17:11:00] setUpBeforeClass()
+[TRACE] [2020-02-15 17:11:00] test01SelectDepartmentByDno()
+[TRACE] [2020-02-15 17:11:00] Department [deptNo=3, deptName=°³¹ß, floor=9]
+[TRACE] [2020-02-15 17:11:00] test02SelectDepartmentByAll()
+[TRACE] [2020-02-15 17:11:00] Department [deptNo=1, deptName=¿µ¾÷, floor=8]
+[TRACE] [2020-02-15 17:11:00] Department [deptNo=2, deptName=±âÈ¹, floor=10]
+[TRACE] [2020-02-15 17:11:00] Department [deptNo=3, deptName=°³¹ß, floor=9]
+[TRACE] [2020-02-15 17:11:00] Department [deptNo=4, deptName=ÃÑ¹«, floor=7]
+[TRACE] [2020-02-15 17:11:00] test03InsertDepartment()
+[TRACE] [2020-02-15 17:11:00] Department [deptNo=5, deptName=±èÀå, floor=6]
+[TRACE] [2020-02-15 17:11:00] test04UpdateDepartment()
+[TRACE] [2020-02-15 17:11:00] Department [deptNo=5, deptName=¹ý¹«, floor=7]
+[TRACE] [2020-02-15 17:11:00] test05DeleteDepartment()
+[TRACE] [2020-02-15 17:11:00] Department [deptNo=5, deptName=null, floor=0]
+[TRACE] [2020-02-15 17:11:00] tearDownAfterClass()
+[TRACE] [2020-02-15 17:11:00] setUpBeforeClass()
+[TRACE] [2020-02-15 17:11:00] test01SelectTitleByNo()
+[TRACE] [2020-02-15 17:11:00] SQL ==> select no, titlename from title where no=3
+[TRACE] [2020-02-15 17:11:00] Title [titleNo=3, titleName=°úÀå]
+[TRACE] [2020-02-15 17:11:00] test02SelectTitleByAll()
+[TRACE] [2020-02-15 17:11:00] Title [titleNo=1, titleName=»çÀå]
+[TRACE] [2020-02-15 17:11:00] Title [titleNo=2, titleName=ºÎÀå]
+[TRACE] [2020-02-15 17:11:00] Title [titleNo=3, titleName=°úÀå]
+[TRACE] [2020-02-15 17:11:00] Title [titleNo=4, titleName=´ë¸®]
+[TRACE] [2020-02-15 17:11:00] Title [titleNo=5, titleName=»ç¿ø]
+[TRACE] [2020-02-15 17:11:00] test03InsertTitle()
+[TRACE] [2020-02-15 17:11:00] Title [titleNo=6, titleName=½ÓÀå]
+[TRACE] [2020-02-15 17:11:00] test04UpdateTitle()
+[TRACE] [2020-02-15 17:11:00] Title [titleNo=6, titleName=½ÇÀå]
+[TRACE] [2020-02-15 17:11:00] test05DeleteTitle()
+[TRACE] [2020-02-15 17:11:00] Title [titleNo=6, titleName=null]
+[TRACE] [2020-02-15 17:11:00] tearDownAfterClass()
+[TRACE] [2020-02-15 17:11:00] setUpBeforeClass()
+[TRACE] [2020-02-15 17:11:00] setUp()
+[TRACE] [2020-02-15 17:11:00] testGetConnection()
+[TRACE] [2020-02-15 17:11:00] HikariProxyConnection@1339998000 wrapping com.mysql.jdbc.JDBC4Connection@b0aba0b
+[TRACE] [2020-02-15 17:11:00] tearDown()
+[TRACE] [2020-02-15 17:11:00] tearDownAfterClass()
+[TRACE] [2020-02-15 17:12:13] setUpBeforeClass()
+[TRACE] [2020-02-15 17:12:13] test01SelectEmployeeByENo()
+[TRACE] [2020-02-15 17:12:13] Employee [empNo=1003, empName=Á¶¹ÎÈñ, title=Title [titleNo=3, titleName=null], salary=3000000, gender=1, hiredate=2005-07-01 00:00:00.0, dno=Department [deptNo=3, deptName=null, floor=0]]
+[TRACE] [2020-02-15 17:12:13] 2005-07-01 - 00:00:00 2005³â 07¿ù 01ÀÏ 00½Ã 00ºÐ 00ÃÊ 
+[TRACE] [2020-02-15 17:12:13] test02SelectEmployeeByAll()
+[TRACE] [2020-02-15 17:12:13] SQL ==> select empno, empname, title, salary, gender, hiredate, dno from employee
+[TRACE] [2020-02-15 17:12:13] Employee [empNo=1003, empName=Á¶¹ÎÈñ, title=Title [titleNo=3, titleName=null], salary=3000000, gender=1, hiredate=2005-07-01 00:00:00.0, dno=Department [deptNo=3, deptName=null, floor=0]]
+[TRACE] [2020-02-15 17:12:13] Employee [empNo=2106, empName=±èÃ¢¼·, title=Title [titleNo=4, titleName=null], salary=2500000, gender=0, hiredate=2010-12-01 00:00:00.0, dno=Department [deptNo=2, deptName=null, floor=0]]
+[TRACE] [2020-02-15 17:12:13] Employee [empNo=3011, empName=ÀÌ¼ö¹Î, title=Title [titleNo=2, titleName=null], salary=4000000, gender=1, hiredate=2007-07-01 00:00:00.0, dno=Department [deptNo=3, deptName=null, floor=0]]
+[TRACE] [2020-02-15 17:12:13] Employee [empNo=3426, empName=¹Ú¿µ±Ç, title=Title [titleNo=3, titleName=null], salary=3000000, gender=0, hiredate=2000-07-01 00:00:00.0, dno=Department [deptNo=1, deptName=null, floor=0]]
+[TRACE] [2020-02-15 17:12:13] Employee [empNo=3427, empName=ÃÖÁ¾Ã¶, title=Title [titleNo=5, titleName=null], salary=1500000, gender=0, hiredate=2010-12-01 00:00:00.0, dno=Department [deptNo=3, deptName=null, floor=0]]
+[TRACE] [2020-02-15 17:12:13] Employee [empNo=4377, empName=ÀÌ¼º·¡, title=Title [titleNo=1, titleName=null], salary=5000000, gender=0, hiredate=2000-03-01 00:00:00.0, dno=Department [deptNo=2, deptName=null, floor=0]]
+[TRACE] [2020-02-15 17:12:13] test03InsertEmployee()
+[TRACE] [2020-02-15 17:12:13] test04UpdateEmployee()
+[TRACE] [2020-02-15 17:12:13] test05DeleteEmployee()
+[TRACE] [2020-02-15 17:12:13] tearDownAfterClass()
+[TRACE] [2020-02-15 17:12:13] setUpBeforeClass()
+[TRACE] [2020-02-15 17:12:13] test01SelectDepartmentByDno()
+[TRACE] [2020-02-15 17:12:13] Department [deptNo=3, deptName=°³¹ß, floor=9]
+[TRACE] [2020-02-15 17:12:13] test02SelectDepartmentByAll()
+[TRACE] [2020-02-15 17:12:13] Department [deptNo=1, deptName=¿µ¾÷, floor=8]
+[TRACE] [2020-02-15 17:12:13] Department [deptNo=2, deptName=±âÈ¹, floor=10]
+[TRACE] [2020-02-15 17:12:13] Department [deptNo=3, deptName=°³¹ß, floor=9]
+[TRACE] [2020-02-15 17:12:13] Department [deptNo=4, deptName=ÃÑ¹«, floor=7]
+[TRACE] [2020-02-15 17:12:13] test03InsertDepartment()
+[TRACE] [2020-02-15 17:12:13] Department [deptNo=5, deptName=±èÀå, floor=6]
+[TRACE] [2020-02-15 17:12:13] test04UpdateDepartment()
+[TRACE] [2020-02-15 17:12:13] Department [deptNo=5, deptName=¹ý¹«, floor=7]
+[TRACE] [2020-02-15 17:12:13] test05DeleteDepartment()
+[TRACE] [2020-02-15 17:12:13] Department [deptNo=5, deptName=null, floor=0]
+[TRACE] [2020-02-15 17:12:13] tearDownAfterClass()
+[TRACE] [2020-02-15 17:12:13] setUpBeforeClass()
+[TRACE] [2020-02-15 17:12:13] test01SelectTitleByNo()
+[TRACE] [2020-02-15 17:12:13] SQL ==> select no, titlename from title where no=3
+[TRACE] [2020-02-15 17:12:13] Title [titleNo=3, titleName=°úÀå]
+[TRACE] [2020-02-15 17:12:13] test02SelectTitleByAll()
+[TRACE] [2020-02-15 17:12:13] Title [titleNo=1, titleName=»çÀå]
+[TRACE] [2020-02-15 17:12:13] Title [titleNo=2, titleName=ºÎÀå]
+[TRACE] [2020-02-15 17:12:13] Title [titleNo=3, titleName=°úÀå]
+[TRACE] [2020-02-15 17:12:13] Title [titleNo=4, titleName=´ë¸®]
+[TRACE] [2020-02-15 17:12:13] Title [titleNo=5, titleName=»ç¿ø]
+[TRACE] [2020-02-15 17:12:13] test03InsertTitle()
+[TRACE] [2020-02-15 17:12:13] Title [titleNo=6, titleName=½ÓÀå]
+[TRACE] [2020-02-15 17:12:13] test04UpdateTitle()
+[TRACE] [2020-02-15 17:12:13] Title [titleNo=6, titleName=½ÇÀå]
+[TRACE] [2020-02-15 17:12:13] test05DeleteTitle()
+[TRACE] [2020-02-15 17:12:13] Title [titleNo=6, titleName=null]
+[TRACE] [2020-02-15 17:12:13] tearDownAfterClass()
+[TRACE] [2020-02-15 17:12:13] setUpBeforeClass()
+[TRACE] [2020-02-15 17:12:13] setUp()
+[TRACE] [2020-02-15 17:12:13] testGetConnection()
+[TRACE] [2020-02-15 17:12:13] HikariProxyConnection@1339998000 wrapping com.mysql.jdbc.JDBC4Connection@b0aba0b
+[TRACE] [2020-02-15 17:12:13] tearDown()
+[TRACE] [2020-02-15 17:12:13] tearDownAfterClass()
+[TRACE] [2020-02-15 17:14:41] setUpBeforeClass()
+[TRACE] [2020-02-15 17:14:41] test01SelectEmployeeByENo()
+[TRACE] [2020-02-15 17:14:41] Employee [empNo=1003, empName=Á¶¹ÎÈñ, title=Title [titleNo=3, titleName=null], salary=3000000, gender=1, hiredate=2005-07-01 00:00:00.0, dno=Department [deptNo=3, deptName=null, floor=0]]
+[TRACE] [2020-02-15 17:14:41] 2005-07-01 - 00:00:00 2005³â 07¿ù 01ÀÏ 00½Ã 00ºÐ 00ÃÊ 
+[TRACE] [2020-02-15 17:14:41] test02SelectEmployeeByAll()
+[TRACE] [2020-02-15 17:14:41] SQL ==> select empno, empname, title, salary, gender, hiredate, dno from employee
+[TRACE] [2020-02-15 17:14:41] Employee [empNo=1003, empName=Á¶¹ÎÈñ, title=Title [titleNo=3, titleName=null], salary=3000000, gender=1, hiredate=2005-07-01 00:00:00.0, dno=Department [deptNo=3, deptName=null, floor=0]]
+[TRACE] [2020-02-15 17:14:41] Employee [empNo=2106, empName=±èÃ¢¼·, title=Title [titleNo=4, titleName=null], salary=2500000, gender=0, hiredate=2010-12-01 00:00:00.0, dno=Department [deptNo=2, deptName=null, floor=0]]
+[TRACE] [2020-02-15 17:14:41] Employee [empNo=3011, empName=ÀÌ¼ö¹Î, title=Title [titleNo=2, titleName=null], salary=4000000, gender=1, hiredate=2007-07-01 00:00:00.0, dno=Department [deptNo=3, deptName=null, floor=0]]
+[TRACE] [2020-02-15 17:14:41] Employee [empNo=3426, empName=¹Ú¿µ±Ç, title=Title [titleNo=3, titleName=null], salary=3000000, gender=0, hiredate=2000-07-01 00:00:00.0, dno=Department [deptNo=1, deptName=null, floor=0]]
+[TRACE] [2020-02-15 17:14:41] Employee [empNo=3427, empName=ÃÖÁ¾Ã¶, title=Title [titleNo=5, titleName=null], salary=1500000, gender=0, hiredate=2010-12-01 00:00:00.0, dno=Department [deptNo=3, deptName=null, floor=0]]
+[TRACE] [2020-02-15 17:14:41] Employee [empNo=4377, empName=ÀÌ¼º·¡, title=Title [titleNo=1, titleName=null], salary=5000000, gender=0, hiredate=2000-03-01 00:00:00.0, dno=Department [deptNo=2, deptName=null, floor=0]]
+[TRACE] [2020-02-15 17:14:41] test03InsertEmployee()
+[TRACE] [2020-02-15 17:14:41] test04UpdateEmployee()
+[TRACE] [2020-02-15 17:14:41] test05DeleteEmployee()
+[TRACE] [2020-02-15 17:14:41] tearDownAfterClass()
+[TRACE] [2020-02-15 17:14:41] setUpBeforeClass()
+[TRACE] [2020-02-15 17:14:41] test01SelectDepartmentByDno()
+[TRACE] [2020-02-15 17:14:41] Department [deptNo=3, deptName=°³¹ß, floor=9]
+[TRACE] [2020-02-15 17:14:41] test02SelectDepartmentByAll()
+[TRACE] [2020-02-15 17:14:41] Department [deptNo=1, deptName=¿µ¾÷, floor=8]
+[TRACE] [2020-02-15 17:14:41] Department [deptNo=2, deptName=±âÈ¹, floor=10]
+[TRACE] [2020-02-15 17:14:41] Department [deptNo=3, deptName=°³¹ß, floor=9]
+[TRACE] [2020-02-15 17:14:41] Department [deptNo=4, deptName=ÃÑ¹«, floor=7]
+[TRACE] [2020-02-15 17:14:41] test03InsertDepartment()
+[TRACE] [2020-02-15 17:14:41] Department [deptNo=5, deptName=±èÀå, floor=6]
+[TRACE] [2020-02-15 17:14:41] test04UpdateDepartment()
+[TRACE] [2020-02-15 17:14:41] Department [deptNo=5, deptName=¹ý¹«, floor=7]
+[TRACE] [2020-02-15 17:14:41] test05DeleteDepartment()
+[TRACE] [2020-02-15 17:14:41] Department [deptNo=5, deptName=null, floor=0]
+[TRACE] [2020-02-15 17:14:41] tearDownAfterClass()
+[TRACE] [2020-02-15 17:14:41] setUpBeforeClass()
+[TRACE] [2020-02-15 17:14:41] test01SelectTitleByNo()
+[TRACE] [2020-02-15 17:14:41] SQL ==> select no, titlename from title where no=3
+[TRACE] [2020-02-15 17:14:41] Title [titleNo=3, titleName=°úÀå]
+[TRACE] [2020-02-15 17:14:41] test02SelectTitleByAll()
+[TRACE] [2020-02-15 17:14:41] Title [titleNo=1, titleName=»çÀå]
+[TRACE] [2020-02-15 17:14:41] Title [titleNo=2, titleName=ºÎÀå]
+[TRACE] [2020-02-15 17:14:41] Title [titleNo=3, titleName=°úÀå]
+[TRACE] [2020-02-15 17:14:41] Title [titleNo=4, titleName=´ë¸®]
+[TRACE] [2020-02-15 17:14:41] Title [titleNo=5, titleName=»ç¿ø]
+[TRACE] [2020-02-15 17:14:41] test03InsertTitle()
+[TRACE] [2020-02-15 17:14:41] Title [titleNo=6, titleName=½ÓÀå]
+[TRACE] [2020-02-15 17:14:41] test04UpdateTitle()
+[TRACE] [2020-02-15 17:14:41] Title [titleNo=6, titleName=½ÇÀå]
+[TRACE] [2020-02-15 17:14:41] test05DeleteTitle()
+[TRACE] [2020-02-15 17:14:41] Title [titleNo=6, titleName=null]
+[TRACE] [2020-02-15 17:14:41] tearDownAfterClass()
+[TRACE] [2020-02-15 17:14:41] setUpBeforeClass()
+[TRACE] [2020-02-15 17:14:41] setUp()
+[TRACE] [2020-02-15 17:14:41] testGetConnection()
+[TRACE] [2020-02-15 17:14:41] HikariProxyConnection@1339998000 wrapping com.mysql.jdbc.JDBC4Connection@b0aba0b
+[TRACE] [2020-02-15 17:14:41] tearDown()
+[TRACE] [2020-02-15 17:14:41] tearDownAfterClass()
+[TRACE] [2020-02-15 17:15:14] setUpBeforeClass()
+[TRACE] [2020-02-15 17:15:14] test01SelectEmployeeByENo()
+[TRACE] [2020-02-15 17:15:15] Employee [empNo=1003, empName=Á¶¹ÎÈñ, title=Title [titleNo=3, titleName=null], salary=3000000, gender=1, hiredate=2005-07-01 00:00:00.0, dno=Department [deptNo=3, deptName=null, floor=0]]
+[TRACE] [2020-02-15 17:15:15] 2005-07-01 - 00:00:00 2005³â 07¿ù 01ÀÏ 00½Ã 00ºÐ 00ÃÊ 
+[TRACE] [2020-02-15 17:15:15] 2005 ³â
+[TRACE] [2020-02-15 17:15:15] 7 ¿ù
+[TRACE] [2020-02-15 17:15:15] 1 ÀÏ
+[TRACE] [2020-02-15 17:15:15] 0½Ã 0ºÐ 0ÃÊ
+[TRACE] [2020-02-15 17:15:15] test02SelectEmployeeByAll()
+[TRACE] [2020-02-15 17:15:15] SQL ==> select empno, empname, title, salary, gender, hiredate, dno from employee
+[TRACE] [2020-02-15 17:15:15] Employee [empNo=1003, empName=Á¶¹ÎÈñ, title=Title [titleNo=3, titleName=null], salary=3000000, gender=1, hiredate=2005-07-01 00:00:00.0, dno=Department [deptNo=3, deptName=null, floor=0]]
+[TRACE] [2020-02-15 17:15:15] Employee [empNo=2106, empName=±èÃ¢¼·, title=Title [titleNo=4, titleName=null], salary=2500000, gender=0, hiredate=2010-12-01 00:00:00.0, dno=Department [deptNo=2, deptName=null, floor=0]]
+[TRACE] [2020-02-15 17:15:15] Employee [empNo=3011, empName=ÀÌ¼ö¹Î, title=Title [titleNo=2, titleName=null], salary=4000000, gender=1, hiredate=2007-07-01 00:00:00.0, dno=Department [deptNo=3, deptName=null, floor=0]]
+[TRACE] [2020-02-15 17:15:15] Employee [empNo=3426, empName=¹Ú¿µ±Ç, title=Title [titleNo=3, titleName=null], salary=3000000, gender=0, hiredate=2000-07-01 00:00:00.0, dno=Department [deptNo=1, deptName=null, floor=0]]
+[TRACE] [2020-02-15 17:15:15] Employee [empNo=3427, empName=ÃÖÁ¾Ã¶, title=Title [titleNo=5, titleName=null], salary=1500000, gender=0, hiredate=2010-12-01 00:00:00.0, dno=Department [deptNo=3, deptName=null, floor=0]]
+[TRACE] [2020-02-15 17:15:15] Employee [empNo=4377, empName=ÀÌ¼º·¡, title=Title [titleNo=1, titleName=null], salary=5000000, gender=0, hiredate=2000-03-01 00:00:00.0, dno=Department [deptNo=2, deptName=null, floor=0]]
+[TRACE] [2020-02-15 17:15:15] test03InsertEmployee()
+[TRACE] [2020-02-15 17:15:15] test04UpdateEmployee()
+[TRACE] [2020-02-15 17:15:15] test05DeleteEmployee()
+[TRACE] [2020-02-15 17:15:15] tearDownAfterClass()
+[TRACE] [2020-02-15 17:15:15] setUpBeforeClass()
+[TRACE] [2020-02-15 17:15:15] test01SelectDepartmentByDno()
+[TRACE] [2020-02-15 17:15:15] Department [deptNo=3, deptName=°³¹ß, floor=9]
+[TRACE] [2020-02-15 17:15:15] test02SelectDepartmentByAll()
+[TRACE] [2020-02-15 17:15:15] Department [deptNo=1, deptName=¿µ¾÷, floor=8]
+[TRACE] [2020-02-15 17:15:15] Department [deptNo=2, deptName=±âÈ¹, floor=10]
+[TRACE] [2020-02-15 17:15:15] Department [deptNo=3, deptName=°³¹ß, floor=9]
+[TRACE] [2020-02-15 17:15:15] Department [deptNo=4, deptName=ÃÑ¹«, floor=7]
+[TRACE] [2020-02-15 17:15:15] test03InsertDepartment()
+[TRACE] [2020-02-15 17:15:15] Department [deptNo=5, deptName=±èÀå, floor=6]
+[TRACE] [2020-02-15 17:15:15] test04UpdateDepartment()
+[TRACE] [2020-02-15 17:15:15] Department [deptNo=5, deptName=¹ý¹«, floor=7]
+[TRACE] [2020-02-15 17:15:15] test05DeleteDepartment()
+[TRACE] [2020-02-15 17:15:15] Department [deptNo=5, deptName=null, floor=0]
+[TRACE] [2020-02-15 17:15:15] tearDownAfterClass()
+[TRACE] [2020-02-15 17:15:15] setUpBeforeClass()
+[TRACE] [2020-02-15 17:15:15] test01SelectTitleByNo()
+[TRACE] [2020-02-15 17:15:15] SQL ==> select no, titlename from title where no=3
+[TRACE] [2020-02-15 17:15:15] Title [titleNo=3, titleName=°úÀå]
+[TRACE] [2020-02-15 17:15:15] test02SelectTitleByAll()
+[TRACE] [2020-02-15 17:15:15] Title [titleNo=1, titleName=»çÀå]
+[TRACE] [2020-02-15 17:15:15] Title [titleNo=2, titleName=ºÎÀå]
+[TRACE] [2020-02-15 17:15:15] Title [titleNo=3, titleName=°úÀå]
+[TRACE] [2020-02-15 17:15:15] Title [titleNo=4, titleName=´ë¸®]
+[TRACE] [2020-02-15 17:15:15] Title [titleNo=5, titleName=»ç¿ø]
+[TRACE] [2020-02-15 17:15:15] test03InsertTitle()
+[TRACE] [2020-02-15 17:15:15] Title [titleNo=6, titleName=½ÓÀå]
+[TRACE] [2020-02-15 17:15:15] test04UpdateTitle()
+[TRACE] [2020-02-15 17:15:15] Title [titleNo=6, titleName=½ÇÀå]
+[TRACE] [2020-02-15 17:15:15] test05DeleteTitle()
+[TRACE] [2020-02-15 17:15:15] Title [titleNo=6, titleName=null]
+[TRACE] [2020-02-15 17:15:15] tearDownAfterClass()
+[TRACE] [2020-02-15 17:15:15] setUpBeforeClass()
+[TRACE] [2020-02-15 17:15:15] setUp()
+[TRACE] [2020-02-15 17:15:15] testGetConnection()
+[TRACE] [2020-02-15 17:15:15] HikariProxyConnection@1339998000 wrapping com.mysql.jdbc.JDBC4Connection@b0aba0b
+[TRACE] [2020-02-15 17:15:15] tearDown()
+[TRACE] [2020-02-15 17:15:15] tearDownAfterClass()
+[TRACE] [2020-02-15 17:31:01] setUpBeforeClass()
+[TRACE] [2020-02-15 17:31:01] test01SelectEmployeeByENo()
+[TRACE] [2020-02-15 17:31:01] Employee [empNo=1003, empName=Á¶¹ÎÈñ, title=Title [titleNo=3, titleName=null], salary=3000000, gender=1, hiredate=2005-07-01 00:00:00.0, dno=Department [deptNo=3, deptName=null, floor=0]]
+[TRACE] [2020-02-15 17:31:01] 2005-07-01 - 00:00:00 2005³â 07¿ù 01ÀÏ 00½Ã 00ºÐ 00ÃÊ 
+[TRACE] [2020-02-15 17:31:01] 2005 ³â
+[TRACE] [2020-02-15 17:31:01] 7 ¿ù
+[TRACE] [2020-02-15 17:31:01] 1 ÀÏ
+[TRACE] [2020-02-15 17:31:01] 0½Ã 0ºÐ 0ÃÊ
+[TRACE] [2020-02-15 17:31:01] test02SelectEmployeeByAll()
+[TRACE] [2020-02-15 17:31:01] SQL ==> select empno, empname, title, salary, gender, hiredate, dno from employee
+[TRACE] [2020-02-15 17:31:01] Employee [empNo=1003, empName=Á¶¹ÎÈñ, title=Title [titleNo=3, titleName=null], salary=3000000, gender=1, hiredate=2005-07-01 00:00:00.0, dno=Department [deptNo=3, deptName=null, floor=0]]
+[TRACE] [2020-02-15 17:31:01] Employee [empNo=2106, empName=±èÃ¢¼·, title=Title [titleNo=4, titleName=null], salary=2500000, gender=0, hiredate=2010-12-01 00:00:00.0, dno=Department [deptNo=2, deptName=null, floor=0]]
+[TRACE] [2020-02-15 17:31:01] Employee [empNo=3011, empName=ÀÌ¼ö¹Î, title=Title [titleNo=2, titleName=null], salary=4000000, gender=1, hiredate=2007-07-01 00:00:00.0, dno=Department [deptNo=3, deptName=null, floor=0]]
+[TRACE] [2020-02-15 17:31:01] Employee [empNo=3426, empName=¹Ú¿µ±Ç, title=Title [titleNo=3, titleName=null], salary=3000000, gender=0, hiredate=2000-07-01 00:00:00.0, dno=Department [deptNo=1, deptName=null, floor=0]]
+[TRACE] [2020-02-15 17:31:01] Employee [empNo=3427, empName=ÃÖÁ¾Ã¶, title=Title [titleNo=5, titleName=null], salary=1500000, gender=0, hiredate=2010-12-01 00:00:00.0, dno=Department [deptNo=3, deptName=null, floor=0]]
+[TRACE] [2020-02-15 17:31:01] Employee [empNo=4377, empName=ÀÌ¼º·¡, title=Title [titleNo=1, titleName=null], salary=5000000, gender=0, hiredate=2000-03-01 00:00:00.0, dno=Department [deptNo=2, deptName=null, floor=0]]
+[TRACE] [2020-02-15 17:31:01] test03InsertEmployee()
+[TRACE] [2020-02-15 17:31:01] Employee [empNo=1004, empName=ÀÌÀ¯¿µ, title=Title [titleNo=2, titleName=null], salary=2000000, gender=1, hiredate=Sat Feb 15 17:31:01 KST 2020, dno=Department [deptNo=2, deptName=null, floor=0]]
+[TRACE] [2020-02-15 17:31:01] SQL ==> insert into employee values (1004, 'ÀÌÀ¯¿µ', 2, 2000000, 1,'2020-02-15 17:31:01.525' ,2)
+[TRACE] [2020-02-15 17:31:01] test04UpdateEmployee()
+[TRACE] [2020-02-15 17:31:01] test05DeleteEmployee()
+[TRACE] [2020-02-15 17:31:01] tearDownAfterClass()
+[TRACE] [2020-02-15 17:31:01] setUpBeforeClass()
+[TRACE] [2020-02-15 17:31:01] test01SelectDepartmentByDno()
+[TRACE] [2020-02-15 17:31:01] Department [deptNo=3, deptName=°³¹ß, floor=9]
+[TRACE] [2020-02-15 17:31:01] test02SelectDepartmentByAll()
+[TRACE] [2020-02-15 17:31:01] Department [deptNo=1, deptName=¿µ¾÷, floor=8]
+[TRACE] [2020-02-15 17:31:01] Department [deptNo=2, deptName=±âÈ¹, floor=10]
+[TRACE] [2020-02-15 17:31:01] Department [deptNo=3, deptName=°³¹ß, floor=9]
+[TRACE] [2020-02-15 17:31:01] Department [deptNo=4, deptName=ÃÑ¹«, floor=7]
+[TRACE] [2020-02-15 17:31:01] test03InsertDepartment()
+[TRACE] [2020-02-15 17:31:01] Department [deptNo=5, deptName=±èÀå, floor=6]
+[TRACE] [2020-02-15 17:31:01] test04UpdateDepartment()
+[TRACE] [2020-02-15 17:31:01] Department [deptNo=5, deptName=¹ý¹«, floor=7]
+[TRACE] [2020-02-15 17:31:01] test05DeleteDepartment()
+[TRACE] [2020-02-15 17:31:01] Department [deptNo=5, deptName=null, floor=0]
+[TRACE] [2020-02-15 17:31:01] tearDownAfterClass()
+[TRACE] [2020-02-15 17:31:01] setUpBeforeClass()
+[TRACE] [2020-02-15 17:31:01] test01SelectTitleByNo()
+[TRACE] [2020-02-15 17:31:01] SQL ==> select no, titlename from title where no=3
+[TRACE] [2020-02-15 17:31:01] Title [titleNo=3, titleName=°úÀå]
+[TRACE] [2020-02-15 17:31:01] test02SelectTitleByAll()
+[TRACE] [2020-02-15 17:31:01] Title [titleNo=1, titleName=»çÀå]
+[TRACE] [2020-02-15 17:31:01] Title [titleNo=2, titleName=ºÎÀå]
+[TRACE] [2020-02-15 17:31:01] Title [titleNo=3, titleName=°úÀå]
+[TRACE] [2020-02-15 17:31:01] Title [titleNo=4, titleName=´ë¸®]
+[TRACE] [2020-02-15 17:31:01] Title [titleNo=5, titleName=»ç¿ø]
+[TRACE] [2020-02-15 17:31:01] test03InsertTitle()
+[TRACE] [2020-02-15 17:31:01] Title [titleNo=6, titleName=½ÓÀå]
+[TRACE] [2020-02-15 17:31:01] test04UpdateTitle()
+[TRACE] [2020-02-15 17:31:01] Title [titleNo=6, titleName=½ÇÀå]
+[TRACE] [2020-02-15 17:31:01] test05DeleteTitle()
+[TRACE] [2020-02-15 17:31:01] Title [titleNo=6, titleName=null]
+[TRACE] [2020-02-15 17:31:01] tearDownAfterClass()
+[TRACE] [2020-02-15 17:31:01] setUpBeforeClass()
+[TRACE] [2020-02-15 17:31:01] setUp()
+[TRACE] [2020-02-15 17:31:01] testGetConnection()
+[TRACE] [2020-02-15 17:31:01] HikariProxyConnection@318951678 wrapping com.mysql.jdbc.JDBC4Connection@4d06ea77
+[TRACE] [2020-02-15 17:31:01] tearDown()
+[TRACE] [2020-02-15 17:31:01] tearDownAfterClass()
+[TRACE] [2020-02-15 17:57:31] setUpBeforeClass()
+[TRACE] [2020-02-15 17:57:32] test01SelectEmployeeByENo()
+[TRACE] [2020-02-15 17:57:32] Employee [empNo=1003, empName=Á¶¹ÎÈñ, title=Title [titleNo=3, titleName=null], salary=3000000, gender=1, hiredate=2005-07-01 00:00:00.0, dno=Department [deptNo=3, deptName=null, floor=0]]
+[TRACE] [2020-02-15 17:57:32] 2005-07-01 - 00:00:00 2005³â 07¿ù 01ÀÏ 00½Ã 00ºÐ 00ÃÊ 
+[TRACE] [2020-02-15 17:57:32] 2005 ³â
+[TRACE] [2020-02-15 17:57:32] 7 ¿ù
+[TRACE] [2020-02-15 17:57:32] 1 ÀÏ
+[TRACE] [2020-02-15 17:57:32] 0½Ã 0ºÐ 0ÃÊ
+[TRACE] [2020-02-15 17:57:32] test02SelectEmployeeByAll()
+[TRACE] [2020-02-15 17:57:32] SQL ==> select empno, empname, title, salary, gender, hiredate, dno from employee
+[TRACE] [2020-02-15 17:57:32] Employee [empNo=1003, empName=Á¶¹ÎÈñ, title=Title [titleNo=3, titleName=null], salary=3000000, gender=1, hiredate=2005-07-01 00:00:00.0, dno=Department [deptNo=3, deptName=null, floor=0]]
+[TRACE] [2020-02-15 17:57:32] Employee [empNo=2106, empName=±èÃ¢¼·, title=Title [titleNo=4, titleName=null], salary=2500000, gender=0, hiredate=2010-12-01 00:00:00.0, dno=Department [deptNo=2, deptName=null, floor=0]]
+[TRACE] [2020-02-15 17:57:32] Employee [empNo=3011, empName=ÀÌ¼ö¹Î, title=Title [titleNo=2, titleName=null], salary=4000000, gender=1, hiredate=2007-07-01 00:00:00.0, dno=Department [deptNo=3, deptName=null, floor=0]]
+[TRACE] [2020-02-15 17:57:32] Employee [empNo=3426, empName=¹Ú¿µ±Ç, title=Title [titleNo=3, titleName=null], salary=3000000, gender=0, hiredate=2000-07-01 00:00:00.0, dno=Department [deptNo=1, deptName=null, floor=0]]
+[TRACE] [2020-02-15 17:57:32] Employee [empNo=3427, empName=ÃÖÁ¾Ã¶, title=Title [titleNo=5, titleName=null], salary=1500000, gender=0, hiredate=2010-12-01 00:00:00.0, dno=Department [deptNo=3, deptName=null, floor=0]]
+[TRACE] [2020-02-15 17:57:32] Employee [empNo=4377, empName=ÀÌ¼º·¡, title=Title [titleNo=1, titleName=null], salary=5000000, gender=0, hiredate=2000-03-01 00:00:00.0, dno=Department [deptNo=2, deptName=null, floor=0]]
+[TRACE] [2020-02-15 17:57:32] test03InsertEmployee()
+[TRACE] [2020-02-15 17:57:32] Employee [empNo=1004, empName=ÀÌÀ¯¿µ, title=Title [titleNo=2, titleName=null], salary=2000000, gender=1, hiredate=Sat Feb 15 17:57:32 KST 2020, dno=Department [deptNo=2, deptName=null, floor=0]]
+[TRACE] [2020-02-15 17:57:32] SQL ==> insert into employee values (1004, 'ÀÌÀ¯¿µ', 2, 2000000, 1, '2020-02-15 17:57:32.275' ,2)
+[TRACE] [2020-02-15 17:57:32] test04UpdateEmployee()
+[TRACE] [2020-02-15 17:57:32] SQL ==> update employee set empname = '¼öÁö', title=3 ,salary = 2500000, gender=0,hiredate ='2020-02-15 17:57:32.285',dno=3 where empno =1004
+[TRACE] [2020-02-15 17:57:32] 1
+[TRACE] [2020-02-15 17:57:32] test05DeleteEmployee()
+[TRACE] [2020-02-15 17:57:32] tearDownAfterClass()
+[TRACE] [2020-02-15 17:57:32] setUpBeforeClass()
+[TRACE] [2020-02-15 17:57:32] test01SelectDepartmentByDno()
+[TRACE] [2020-02-15 17:57:32] Department [deptNo=3, deptName=°³¹ß, floor=9]
+[TRACE] [2020-02-15 17:57:32] test02SelectDepartmentByAll()
+[TRACE] [2020-02-15 17:57:32] Department [deptNo=1, deptName=¿µ¾÷, floor=8]
+[TRACE] [2020-02-15 17:57:32] Department [deptNo=2, deptName=±âÈ¹, floor=10]
+[TRACE] [2020-02-15 17:57:32] Department [deptNo=3, deptName=°³¹ß, floor=9]
+[TRACE] [2020-02-15 17:57:32] Department [deptNo=4, deptName=ÃÑ¹«, floor=7]
+[TRACE] [2020-02-15 17:57:32] test03InsertDepartment()
+[TRACE] [2020-02-15 17:57:32] Department [deptNo=5, deptName=±èÀå, floor=6]
+[TRACE] [2020-02-15 17:57:32] test04UpdateDepartment()
+[TRACE] [2020-02-15 17:57:32] Department [deptNo=5, deptName=¹ý¹«, floor=7]
+[TRACE] [2020-02-15 17:57:32] test05DeleteDepartment()
+[TRACE] [2020-02-15 17:57:32] Department [deptNo=5, deptName=null, floor=0]
+[TRACE] [2020-02-15 17:57:32] tearDownAfterClass()
+[TRACE] [2020-02-15 17:57:32] setUpBeforeClass()
+[TRACE] [2020-02-15 17:57:32] test01SelectTitleByNo()
+[TRACE] [2020-02-15 17:57:32] SQL ==> select no, titlename from title where no=3
+[TRACE] [2020-02-15 17:57:32] Title [titleNo=3, titleName=°úÀå]
+[TRACE] [2020-02-15 17:57:32] test02SelectTitleByAll()
+[TRACE] [2020-02-15 17:57:32] Title [titleNo=1, titleName=»çÀå]
+[TRACE] [2020-02-15 17:57:32] Title [titleNo=2, titleName=ºÎÀå]
+[TRACE] [2020-02-15 17:57:32] Title [titleNo=3, titleName=°úÀå]
+[TRACE] [2020-02-15 17:57:32] Title [titleNo=4, titleName=´ë¸®]
+[TRACE] [2020-02-15 17:57:32] Title [titleNo=5, titleName=»ç¿ø]
+[TRACE] [2020-02-15 17:57:32] test03InsertTitle()
+[TRACE] [2020-02-15 17:57:32] Title [titleNo=6, titleName=½ÓÀå]
+[TRACE] [2020-02-15 17:57:32] test04UpdateTitle()
+[TRACE] [2020-02-15 17:57:32] Title [titleNo=6, titleName=½ÇÀå]
+[TRACE] [2020-02-15 17:57:32] test05DeleteTitle()
+[TRACE] [2020-02-15 17:57:32] Title [titleNo=6, titleName=null]
+[TRACE] [2020-02-15 17:57:32] tearDownAfterClass()
+[TRACE] [2020-02-15 17:57:32] setUpBeforeClass()
+[TRACE] [2020-02-15 17:57:32] setUp()
+[TRACE] [2020-02-15 17:57:32] testGetConnection()
+[TRACE] [2020-02-15 17:57:32] HikariProxyConnection@209357938 wrapping com.mysql.jdbc.JDBC4Connection@9fa3823
+[TRACE] [2020-02-15 17:57:32] tearDown()
+[TRACE] [2020-02-15 17:57:32] tearDownAfterClass()
+[TRACE] [2020-02-15 18:01:37] setUpBeforeClass()
+[TRACE] [2020-02-15 18:01:37] test01SelectEmployeeByENo()
+[TRACE] [2020-02-15 18:01:37] Employee [empNo=1003, empName=Á¶¹ÎÈñ, title=Title [titleNo=3, titleName=null], salary=3000000, gender=1, hiredate=2005-07-01 00:00:00.0, dno=Department [deptNo=3, deptName=null, floor=0]]
+[TRACE] [2020-02-15 18:01:37] 2005-07-01 - 00:00:00 2005³â 07¿ù 01ÀÏ 00½Ã 00ºÐ 00ÃÊ 
+[TRACE] [2020-02-15 18:01:37] 2005 ³â
+[TRACE] [2020-02-15 18:01:37] 7 ¿ù
+[TRACE] [2020-02-15 18:01:37] 1 ÀÏ
+[TRACE] [2020-02-15 18:01:37] 0½Ã 0ºÐ 0ÃÊ
+[TRACE] [2020-02-15 18:01:37] test02SelectEmployeeByAll()
+[TRACE] [2020-02-15 18:01:37] SQL ==> select empno, empname, title, salary, gender, hiredate, dno from employee
+[TRACE] [2020-02-15 18:01:37] Employee [empNo=1003, empName=Á¶¹ÎÈñ, title=Title [titleNo=3, titleName=null], salary=3000000, gender=1, hiredate=2005-07-01 00:00:00.0, dno=Department [deptNo=3, deptName=null, floor=0]]
+[TRACE] [2020-02-15 18:01:37] Employee [empNo=2106, empName=±èÃ¢¼·, title=Title [titleNo=4, titleName=null], salary=2500000, gender=0, hiredate=2010-12-01 00:00:00.0, dno=Department [deptNo=2, deptName=null, floor=0]]
+[TRACE] [2020-02-15 18:01:37] Employee [empNo=3011, empName=ÀÌ¼ö¹Î, title=Title [titleNo=2, titleName=null], salary=4000000, gender=1, hiredate=2007-07-01 00:00:00.0, dno=Department [deptNo=3, deptName=null, floor=0]]
+[TRACE] [2020-02-15 18:01:37] Employee [empNo=3426, empName=¹Ú¿µ±Ç, title=Title [titleNo=3, titleName=null], salary=3000000, gender=0, hiredate=2000-07-01 00:00:00.0, dno=Department [deptNo=1, deptName=null, floor=0]]
+[TRACE] [2020-02-15 18:01:37] Employee [empNo=3427, empName=ÃÖÁ¾Ã¶, title=Title [titleNo=5, titleName=null], salary=1500000, gender=0, hiredate=2010-12-01 00:00:00.0, dno=Department [deptNo=3, deptName=null, floor=0]]
+[TRACE] [2020-02-15 18:01:37] Employee [empNo=4377, empName=ÀÌ¼º·¡, title=Title [titleNo=1, titleName=null], salary=5000000, gender=0, hiredate=2000-03-01 00:00:00.0, dno=Department [deptNo=2, deptName=null, floor=0]]
+[TRACE] [2020-02-15 18:01:37] test03InsertEmployee()
+[TRACE] [2020-02-15 18:01:37] Employee [empNo=1004, empName=ÀÌÀ¯¿µ, title=Title [titleNo=2, titleName=null], salary=2000000, gender=1, hiredate=Sat Feb 15 18:01:37 KST 2020, dno=Department [deptNo=2, deptName=null, floor=0]]
+[TRACE] [2020-02-15 18:01:37] SQL ==> insert into employee values (1004, 'ÀÌÀ¯¿µ', 2, 2000000, 1, '2020-02-15 18:01:37.549' ,2)
+[TRACE] [2020-02-15 18:01:37] test04UpdateEmployee()
+[TRACE] [2020-02-15 18:01:37] SQL ==> update employee set empname = '¼öÁö', title=3 ,salary = 2500000, gender=0,hiredate ='2020-02-15 18:01:37.557',dno=3 where empno =1004
+[TRACE] [2020-02-15 18:01:37] 1
+[TRACE] [2020-02-15 18:01:37] test05DeleteEmployee()
+[TRACE] [2020-02-15 18:01:37] 0
+[TRACE] [2020-02-15 18:01:37] tearDownAfterClass()
+[TRACE] [2020-02-15 18:01:37] setUpBeforeClass()
+[TRACE] [2020-02-15 18:01:37] test01SelectDepartmentByDno()
+[TRACE] [2020-02-15 18:01:37] Department [deptNo=3, deptName=°³¹ß, floor=9]
+[TRACE] [2020-02-15 18:01:37] test02SelectDepartmentByAll()
+[TRACE] [2020-02-15 18:01:37] Department [deptNo=1, deptName=¿µ¾÷, floor=8]
+[TRACE] [2020-02-15 18:01:37] Department [deptNo=2, deptName=±âÈ¹, floor=10]
+[TRACE] [2020-02-15 18:01:37] Department [deptNo=3, deptName=°³¹ß, floor=9]
+[TRACE] [2020-02-15 18:01:37] Department [deptNo=4, deptName=ÃÑ¹«, floor=7]
+[TRACE] [2020-02-15 18:01:37] test03InsertDepartment()
+[TRACE] [2020-02-15 18:01:37] Department [deptNo=5, deptName=±èÀå, floor=6]
+[TRACE] [2020-02-15 18:01:37] test04UpdateDepartment()
+[TRACE] [2020-02-15 18:01:37] Department [deptNo=5, deptName=¹ý¹«, floor=7]
+[TRACE] [2020-02-15 18:01:37] test05DeleteDepartment()
+[TRACE] [2020-02-15 18:01:37] Department [deptNo=5, deptName=null, floor=0]
+[TRACE] [2020-02-15 18:01:37] tearDownAfterClass()
+[TRACE] [2020-02-15 18:01:37] setUpBeforeClass()
+[TRACE] [2020-02-15 18:01:37] test01SelectTitleByNo()
+[TRACE] [2020-02-15 18:01:37] SQL ==> select no, titlename from title where no=3
+[TRACE] [2020-02-15 18:01:37] Title [titleNo=3, titleName=°úÀå]
+[TRACE] [2020-02-15 18:01:37] test02SelectTitleByAll()
+[TRACE] [2020-02-15 18:01:37] Title [titleNo=1, titleName=»çÀå]
+[TRACE] [2020-02-15 18:01:37] Title [titleNo=2, titleName=ºÎÀå]
+[TRACE] [2020-02-15 18:01:37] Title [titleNo=3, titleName=°úÀå]
+[TRACE] [2020-02-15 18:01:37] Title [titleNo=4, titleName=´ë¸®]
+[TRACE] [2020-02-15 18:01:37] Title [titleNo=5, titleName=»ç¿ø]
+[TRACE] [2020-02-15 18:01:37] test03InsertTitle()
+[TRACE] [2020-02-15 18:01:37] Title [titleNo=6, titleName=½ÓÀå]
+[TRACE] [2020-02-15 18:01:37] test04UpdateTitle()
+[TRACE] [2020-02-15 18:01:37] Title [titleNo=6, titleName=½ÇÀå]
+[TRACE] [2020-02-15 18:01:37] test05DeleteTitle()
+[TRACE] [2020-02-15 18:01:37] Title [titleNo=6, titleName=null]
+[TRACE] [2020-02-15 18:01:37] tearDownAfterClass()
+[TRACE] [2020-02-15 18:01:37] setUpBeforeClass()
+[TRACE] [2020-02-15 18:01:37] setUp()
+[TRACE] [2020-02-15 18:01:37] testGetConnection()
+[TRACE] [2020-02-15 18:01:37] HikariProxyConnection@167393315 wrapping com.mysql.jdbc.JDBC4Connection@73552e39
+[TRACE] [2020-02-15 18:01:37] tearDown()
+[TRACE] [2020-02-15 18:01:37] tearDownAfterClass()
+[TRACE] [2020-02-15 18:01:53] setUpBeforeClass()
+[TRACE] [2020-02-15 18:01:53] test01SelectEmployeeByENo()
+[TRACE] [2020-02-15 18:01:54] Employee [empNo=1003, empName=Á¶¹ÎÈñ, title=Title [titleNo=3, titleName=null], salary=3000000, gender=1, hiredate=2005-07-01 00:00:00.0, dno=Department [deptNo=3, deptName=null, floor=0]]
+[TRACE] [2020-02-15 18:01:54] 2005-07-01 - 00:00:00 2005³â 07¿ù 01ÀÏ 00½Ã 00ºÐ 00ÃÊ 
+[TRACE] [2020-02-15 18:01:54] 2005 ³â
+[TRACE] [2020-02-15 18:01:54] 7 ¿ù
+[TRACE] [2020-02-15 18:01:54] 1 ÀÏ
+[TRACE] [2020-02-15 18:01:54] 0½Ã 0ºÐ 0ÃÊ
+[TRACE] [2020-02-15 18:01:54] test02SelectEmployeeByAll()
+[TRACE] [2020-02-15 18:01:54] SQL ==> select empno, empname, title, salary, gender, hiredate, dno from employee
+[TRACE] [2020-02-15 18:01:54] Employee [empNo=1003, empName=Á¶¹ÎÈñ, title=Title [titleNo=3, titleName=null], salary=3000000, gender=1, hiredate=2005-07-01 00:00:00.0, dno=Department [deptNo=3, deptName=null, floor=0]]
+[TRACE] [2020-02-15 18:01:54] Employee [empNo=1004, empName=¼öÁö, title=Title [titleNo=3, titleName=null], salary=2500000, gender=0, hiredate=2020-02-15 18:01:38.0, dno=Department [deptNo=3, deptName=null, floor=0]]
+[TRACE] [2020-02-15 18:01:54] Employee [empNo=2106, empName=±èÃ¢¼·, title=Title [titleNo=4, titleName=null], salary=2500000, gender=0, hiredate=2010-12-01 00:00:00.0, dno=Department [deptNo=2, deptName=null, floor=0]]
+[TRACE] [2020-02-15 18:01:54] Employee [empNo=3011, empName=ÀÌ¼ö¹Î, title=Title [titleNo=2, titleName=null], salary=4000000, gender=1, hiredate=2007-07-01 00:00:00.0, dno=Department [deptNo=3, deptName=null, floor=0]]
+[TRACE] [2020-02-15 18:01:54] Employee [empNo=3426, empName=¹Ú¿µ±Ç, title=Title [titleNo=3, titleName=null], salary=3000000, gender=0, hiredate=2000-07-01 00:00:00.0, dno=Department [deptNo=1, deptName=null, floor=0]]
+[TRACE] [2020-02-15 18:01:54] Employee [empNo=3427, empName=ÃÖÁ¾Ã¶, title=Title [titleNo=5, titleName=null], salary=1500000, gender=0, hiredate=2010-12-01 00:00:00.0, dno=Department [deptNo=3, deptName=null, floor=0]]
+[TRACE] [2020-02-15 18:01:54] Employee [empNo=4377, empName=ÀÌ¼º·¡, title=Title [titleNo=1, titleName=null], salary=5000000, gender=0, hiredate=2000-03-01 00:00:00.0, dno=Department [deptNo=2, deptName=null, floor=0]]
+[TRACE] [2020-02-15 18:01:54] test03InsertEmployee()
+[TRACE] [2020-02-15 18:01:54] Employee [empNo=1004, empName=ÀÌÀ¯¿µ, title=Title [titleNo=2, titleName=null], salary=2000000, gender=1, hiredate=Sat Feb 15 18:01:54 KST 2020, dno=Department [deptNo=2, deptName=null, floor=0]]
+[TRACE] [2020-02-15 18:01:54] SQL ==> insert into employee values (1004, 'ÀÌÀ¯¿µ', 2, 2000000, 1, '2020-02-15 18:01:54.02' ,2)
+[TRACE] [2020-02-15 18:01:54] test04UpdateEmployee()
+[TRACE] [2020-02-15 18:01:54] SQL ==> update employee set empname = '¼öÁö', title=3 ,salary = 2500000, gender=0,hiredate ='2020-02-15 18:01:54.04',dno=3 where empno =1004
+[TRACE] [2020-02-15 18:01:54] 1
+[TRACE] [2020-02-15 18:01:54] test05DeleteEmployee()
+[TRACE] [2020-02-15 18:01:54] SQL ==> delete from employee where empno = 1004
+[TRACE] [2020-02-15 18:01:54] 1
+[TRACE] [2020-02-15 18:01:54] tearDownAfterClass()
+[TRACE] [2020-02-15 18:01:54] setUpBeforeClass()
+[TRACE] [2020-02-15 18:01:54] test01SelectDepartmentByDno()
+[TRACE] [2020-02-15 18:01:54] Department [deptNo=3, deptName=°³¹ß, floor=9]
+[TRACE] [2020-02-15 18:01:54] test02SelectDepartmentByAll()
+[TRACE] [2020-02-15 18:01:54] Department [deptNo=1, deptName=¿µ¾÷, floor=8]
+[TRACE] [2020-02-15 18:01:54] Department [deptNo=2, deptName=±âÈ¹, floor=10]
+[TRACE] [2020-02-15 18:01:54] Department [deptNo=3, deptName=°³¹ß, floor=9]
+[TRACE] [2020-02-15 18:01:54] Department [deptNo=4, deptName=ÃÑ¹«, floor=7]
+[TRACE] [2020-02-15 18:01:54] test03InsertDepartment()
+[TRACE] [2020-02-15 18:01:54] Department [deptNo=5, deptName=±èÀå, floor=6]
+[TRACE] [2020-02-15 18:01:54] test04UpdateDepartment()
+[TRACE] [2020-02-15 18:01:54] Department [deptNo=5, deptName=¹ý¹«, floor=7]
+[TRACE] [2020-02-15 18:01:54] test05DeleteDepartment()
+[TRACE] [2020-02-15 18:01:54] Department [deptNo=5, deptName=null, floor=0]
+[TRACE] [2020-02-15 18:01:54] tearDownAfterClass()
+[TRACE] [2020-02-15 18:01:54] setUpBeforeClass()
+[TRACE] [2020-02-15 18:01:54] test01SelectTitleByNo()
+[TRACE] [2020-02-15 18:01:54] SQL ==> select no, titlename from title where no=3
+[TRACE] [2020-02-15 18:01:54] Title [titleNo=3, titleName=°úÀå]
+[TRACE] [2020-02-15 18:01:54] test02SelectTitleByAll()
+[TRACE] [2020-02-15 18:01:54] Title [titleNo=1, titleName=»çÀå]
+[TRACE] [2020-02-15 18:01:54] Title [titleNo=2, titleName=ºÎÀå]
+[TRACE] [2020-02-15 18:01:54] Title [titleNo=3, titleName=°úÀå]
+[TRACE] [2020-02-15 18:01:54] Title [titleNo=4, titleName=´ë¸®]
+[TRACE] [2020-02-15 18:01:54] Title [titleNo=5, titleName=»ç¿ø]
+[TRACE] [2020-02-15 18:01:54] test03InsertTitle()
+[TRACE] [2020-02-15 18:01:54] Title [titleNo=6, titleName=½ÓÀå]
+[TRACE] [2020-02-15 18:01:54] test04UpdateTitle()
+[TRACE] [2020-02-15 18:01:54] Title [titleNo=6, titleName=½ÇÀå]
+[TRACE] [2020-02-15 18:01:54] test05DeleteTitle()
+[TRACE] [2020-02-15 18:01:54] Title [titleNo=6, titleName=null]
+[TRACE] [2020-02-15 18:01:54] tearDownAfterClass()
+[TRACE] [2020-02-15 18:01:54] setUpBeforeClass()
+[TRACE] [2020-02-15 18:01:54] setUp()
+[TRACE] [2020-02-15 18:01:54] testGetConnection()
+[TRACE] [2020-02-15 18:01:54] HikariProxyConnection@1945966917 wrapping com.mysql.jdbc.JDBC4Connection@6839d54b
+[TRACE] [2020-02-15 18:01:54] tearDown()
+[TRACE] [2020-02-15 18:01:54] tearDownAfterClass()
+[TRACE] [2020-02-15 18:02:07] setUpBeforeClass()
+[TRACE] [2020-02-15 18:02:07] test01SelectEmployeeByENo()
+[TRACE] [2020-02-15 18:02:07] Employee [empNo=1003, empName=Á¶¹ÎÈñ, title=Title [titleNo=3, titleName=null], salary=3000000, gender=1, hiredate=2005-07-01 00:00:00.0, dno=Department [deptNo=3, deptName=null, floor=0]]
+[TRACE] [2020-02-15 18:02:07] 2005-07-01 - 00:00:00 2005³â 07¿ù 01ÀÏ 00½Ã 00ºÐ 00ÃÊ 
+[TRACE] [2020-02-15 18:02:07] 2005 ³â
+[TRACE] [2020-02-15 18:02:07] 7 ¿ù
+[TRACE] [2020-02-15 18:02:07] 1 ÀÏ
+[TRACE] [2020-02-15 18:02:07] 0½Ã 0ºÐ 0ÃÊ
+[TRACE] [2020-02-15 18:02:07] test02SelectEmployeeByAll()
+[TRACE] [2020-02-15 18:02:07] SQL ==> select empno, empname, title, salary, gender, hiredate, dno from employee
+[TRACE] [2020-02-15 18:02:07] Employee [empNo=1003, empName=Á¶¹ÎÈñ, title=Title [titleNo=3, titleName=null], salary=3000000, gender=1, hiredate=2005-07-01 00:00:00.0, dno=Department [deptNo=3, deptName=null, floor=0]]
+[TRACE] [2020-02-15 18:02:07] Employee [empNo=2106, empName=±èÃ¢¼·, title=Title [titleNo=4, titleName=null], salary=2500000, gender=0, hiredate=2010-12-01 00:00:00.0, dno=Department [deptNo=2, deptName=null, floor=0]]
+[TRACE] [2020-02-15 18:02:07] Employee [empNo=3011, empName=ÀÌ¼ö¹Î, title=Title [titleNo=2, titleName=null], salary=4000000, gender=1, hiredate=2007-07-01 00:00:00.0, dno=Department [deptNo=3, deptName=null, floor=0]]
+[TRACE] [2020-02-15 18:02:07] Employee [empNo=3426, empName=¹Ú¿µ±Ç, title=Title [titleNo=3, titleName=null], salary=3000000, gender=0, hiredate=2000-07-01 00:00:00.0, dno=Department [deptNo=1, deptName=null, floor=0]]
+[TRACE] [2020-02-15 18:02:07] Employee [empNo=3427, empName=ÃÖÁ¾Ã¶, title=Title [titleNo=5, titleName=null], salary=1500000, gender=0, hiredate=2010-12-01 00:00:00.0, dno=Department [deptNo=3, deptName=null, floor=0]]
+[TRACE] [2020-02-15 18:02:07] Employee [empNo=4377, empName=ÀÌ¼º·¡, title=Title [titleNo=1, titleName=null], salary=5000000, gender=0, hiredate=2000-03-01 00:00:00.0, dno=Department [deptNo=2, deptName=null, floor=0]]
+[TRACE] [2020-02-15 18:02:07] test03InsertEmployee()
+[TRACE] [2020-02-15 18:02:07] Employee [empNo=1004, empName=ÀÌÀ¯¿µ, title=Title [titleNo=2, titleName=null], salary=2000000, gender=1, hiredate=Sat Feb 15 18:02:07 KST 2020, dno=Department [deptNo=2, deptName=null, floor=0]]
+[TRACE] [2020-02-15 18:02:07] SQL ==> insert into employee values (1004, 'ÀÌÀ¯¿µ', 2, 2000000, 1, '2020-02-15 18:02:07.807' ,2)
+[TRACE] [2020-02-15 18:02:07] test04UpdateEmployee()
+[TRACE] [2020-02-15 18:02:07] SQL ==> update employee set empname = '¼öÁö', title=3 ,salary = 2500000, gender=0,hiredate ='2020-02-15 18:02:07.821',dno=3 where empno =1004
+[TRACE] [2020-02-15 18:02:07] 1
+[TRACE] [2020-02-15 18:02:07] test05DeleteEmployee()
+[TRACE] [2020-02-15 18:02:07] SQL ==> delete from employee where empno = 1004
+[TRACE] [2020-02-15 18:02:07] 1
+[TRACE] [2020-02-15 18:02:07] tearDownAfterClass()
+[TRACE] [2020-02-15 18:02:07] setUpBeforeClass()
+[TRACE] [2020-02-15 18:02:07] test01SelectDepartmentByDno()
+[TRACE] [2020-02-15 18:02:07] Department [deptNo=3, deptName=°³¹ß, floor=9]
+[TRACE] [2020-02-15 18:02:07] test02SelectDepartmentByAll()
+[TRACE] [2020-02-15 18:02:07] Department [deptNo=1, deptName=¿µ¾÷, floor=8]
+[TRACE] [2020-02-15 18:02:07] Department [deptNo=2, deptName=±âÈ¹, floor=10]
+[TRACE] [2020-02-15 18:02:07] Department [deptNo=3, deptName=°³¹ß, floor=9]
+[TRACE] [2020-02-15 18:02:07] Department [deptNo=4, deptName=ÃÑ¹«, floor=7]
+[TRACE] [2020-02-15 18:02:07] test03InsertDepartment()
+[TRACE] [2020-02-15 18:02:07] Department [deptNo=5, deptName=±èÀå, floor=6]
+[TRACE] [2020-02-15 18:02:07] test04UpdateDepartment()
+[TRACE] [2020-02-15 18:02:07] Department [deptNo=5, deptName=¹ý¹«, floor=7]
+[TRACE] [2020-02-15 18:02:07] test05DeleteDepartment()
+[TRACE] [2020-02-15 18:02:07] Department [deptNo=5, deptName=null, floor=0]
+[TRACE] [2020-02-15 18:02:07] tearDownAfterClass()
+[TRACE] [2020-02-15 18:02:07] setUpBeforeClass()
+[TRACE] [2020-02-15 18:02:07] test01SelectTitleByNo()
+[TRACE] [2020-02-15 18:02:07] SQL ==> select no, titlename from title where no=3
+[TRACE] [2020-02-15 18:02:07] Title [titleNo=3, titleName=°úÀå]
+[TRACE] [2020-02-15 18:02:07] test02SelectTitleByAll()
+[TRACE] [2020-02-15 18:02:07] Title [titleNo=1, titleName=»çÀå]
+[TRACE] [2020-02-15 18:02:07] Title [titleNo=2, titleName=ºÎÀå]
+[TRACE] [2020-02-15 18:02:07] Title [titleNo=3, titleName=°úÀå]
+[TRACE] [2020-02-15 18:02:07] Title [titleNo=4, titleName=´ë¸®]
+[TRACE] [2020-02-15 18:02:07] Title [titleNo=5, titleName=»ç¿ø]
+[TRACE] [2020-02-15 18:02:07] test03InsertTitle()
+[TRACE] [2020-02-15 18:02:07] Title [titleNo=6, titleName=½ÓÀå]
+[TRACE] [2020-02-15 18:02:07] test04UpdateTitle()
+[TRACE] [2020-02-15 18:02:07] Title [titleNo=6, titleName=½ÇÀå]
+[TRACE] [2020-02-15 18:02:07] test05DeleteTitle()
+[TRACE] [2020-02-15 18:02:07] Title [titleNo=6, titleName=null]
+[TRACE] [2020-02-15 18:02:07] tearDownAfterClass()
+[TRACE] [2020-02-15 18:02:07] setUpBeforeClass()
+[TRACE] [2020-02-15 18:02:07] setUp()
+[TRACE] [2020-02-15 18:02:07] testGetConnection()
+[TRACE] [2020-02-15 18:02:07] HikariProxyConnection@1779642120 wrapping com.mysql.jdbc.JDBC4Connection@1b24c483
+[TRACE] [2020-02-15 18:02:07] tearDown()
+[TRACE] [2020-02-15 18:02:07] tearDownAfterClass()
+[TRACE] [2020-02-15 18:18:11] setUpBeforeClass()
+[TRACE] [2020-02-15 18:18:11] test01SelectDepartmentByDno()
+[TRACE] [2020-02-15 18:18:11] Department [deptNo=3, deptName=°³¹ß, floor=9]
+[TRACE] [2020-02-15 18:18:11] test02SelectDepartmentByAll()
+[TRACE] [2020-02-15 18:18:11] Department [deptNo=1, deptName=¿µ¾÷, floor=8]
+[TRACE] [2020-02-15 18:18:11] Department [deptNo=2, deptName=±âÈ¹, floor=10]
+[TRACE] [2020-02-15 18:18:11] Department [deptNo=3, deptName=°³¹ß, floor=9]
+[TRACE] [2020-02-15 18:18:11] Department [deptNo=4, deptName=ÃÑ¹«, floor=7]
+[TRACE] [2020-02-15 18:18:11] test03InsertDepartment()
+[TRACE] [2020-02-15 18:18:11] Department [deptNo=5, deptName=±èÀå, floor=6]
+[TRACE] [2020-02-15 18:18:11] test04UpdateDepartment()
+[TRACE] [2020-02-15 18:18:11] Department [deptNo=5, deptName=¹ý¹«, floor=7]
+[TRACE] [2020-02-15 18:18:11] test05DeleteDepartment()
+[TRACE] [2020-02-15 18:18:11] Department [deptNo=5, deptName=null, floor=0]
+[TRACE] [2020-02-15 18:18:11] tearDownAfterClass()
+[TRACE] [2020-02-15 18:18:11] setUpBeforeClass()
+[TRACE] [2020-02-15 18:18:11] test01SelectEmployeeByENo()
+[TRACE] [2020-02-15 18:18:11] Employee [empNo=1003, empName=Á¶¹ÎÈñ, title=Title [titleNo=3, titleName=null], salary=3000000, gender=1, hiredate=2005-07-01 00:00:00.0, dno=Department [deptNo=3, deptName=null, floor=0]]
+[TRACE] [2020-02-15 18:18:11] 2005-07-01 - 00:00:00 2005³â 07¿ù 01ÀÏ 00½Ã 00ºÐ 00ÃÊ 
+[TRACE] [2020-02-15 18:18:11] 2005 ³â
+[TRACE] [2020-02-15 18:18:11] 7 ¿ù
+[TRACE] [2020-02-15 18:18:11] 1 ÀÏ
+[TRACE] [2020-02-15 18:18:11] 0½Ã 0ºÐ 0ÃÊ
+[TRACE] [2020-02-15 18:18:11] test02SelectEmployeeByAll()
+[TRACE] [2020-02-15 18:18:11] SQL ==> select empno, empname, title, salary, gender, hiredate, dno from employee
+[TRACE] [2020-02-15 18:18:11] Employee [empNo=1003, empName=Á¶¹ÎÈñ, title=Title [titleNo=3, titleName=null], salary=3000000, gender=1, hiredate=2005-07-01 00:00:00.0, dno=Department [deptNo=3, deptName=null, floor=0]]
+[TRACE] [2020-02-15 18:18:11] Employee [empNo=2106, empName=±èÃ¢¼·, title=Title [titleNo=4, titleName=null], salary=2500000, gender=0, hiredate=2010-12-01 00:00:00.0, dno=Department [deptNo=2, deptName=null, floor=0]]
+[TRACE] [2020-02-15 18:18:11] Employee [empNo=3011, empName=ÀÌ¼ö¹Î, title=Title [titleNo=2, titleName=null], salary=4000000, gender=1, hiredate=2007-07-01 00:00:00.0, dno=Department [deptNo=3, deptName=null, floor=0]]
+[TRACE] [2020-02-15 18:18:11] Employee [empNo=3426, empName=¹Ú¿µ±Ç, title=Title [titleNo=3, titleName=null], salary=3000000, gender=0, hiredate=2000-07-01 00:00:00.0, dno=Department [deptNo=1, deptName=null, floor=0]]
+[TRACE] [2020-02-15 18:18:11] Employee [empNo=3427, empName=ÃÖÁ¾Ã¶, title=Title [titleNo=5, titleName=null], salary=1500000, gender=0, hiredate=2010-12-01 00:00:00.0, dno=Department [deptNo=3, deptName=null, floor=0]]
+[TRACE] [2020-02-15 18:18:11] Employee [empNo=4377, empName=ÀÌ¼º·¡, title=Title [titleNo=1, titleName=null], salary=5000000, gender=0, hiredate=2000-03-01 00:00:00.0, dno=Department [deptNo=2, deptName=null, floor=0]]
+[TRACE] [2020-02-15 18:18:11] test03InsertEmployee()
+[TRACE] [2020-02-15 18:18:11] Employee [empNo=1004, empName=ÀÌÀ¯¿µ, title=Title [titleNo=2, titleName=null], salary=2000000, gender=1, hiredate=Sat Feb 15 18:18:11 KST 2020, dno=Department [deptNo=2, deptName=null, floor=0]]
+[TRACE] [2020-02-15 18:18:11] SQL ==> insert into employee values (1004, 'ÀÌÀ¯¿µ', 2, 2000000, 1, '2020-02-15 18:18:11.436' ,2)
+[TRACE] [2020-02-15 18:18:11] test04UpdateEmployee()
+[TRACE] [2020-02-15 18:18:11] SQL ==> update employee set empname = '¼öÁö', title=3 ,salary = 2500000, gender=0,hiredate ='2020-02-15 18:18:11.443',dno=3 where empno =1004
+[TRACE] [2020-02-15 18:18:11] 1
+[TRACE] [2020-02-15 18:18:11] test05DeleteEmployee()
+[TRACE] [2020-02-15 18:18:11] SQL ==> delete from employee where empno = 1004
+[TRACE] [2020-02-15 18:18:11] 1
+[TRACE] [2020-02-15 18:18:11] tearDownAfterClass()
+[TRACE] [2020-02-15 18:18:11] setUpBeforeClass()
+[TRACE] [2020-02-15 18:18:11] test01SelectTitleByNo()
+[TRACE] [2020-02-15 18:18:11] SQL ==> select no, titlename from title where no=3
+[TRACE] [2020-02-15 18:18:11] Title [titleNo=3, titleName=°úÀå]
+[TRACE] [2020-02-15 18:18:11] test02SelectTitleByAll()
+[TRACE] [2020-02-15 18:18:11] Title [titleNo=1, titleName=»çÀå]
+[TRACE] [2020-02-15 18:18:11] Title [titleNo=2, titleName=ºÎÀå]
+[TRACE] [2020-02-15 18:18:11] Title [titleNo=3, titleName=°úÀå]
+[TRACE] [2020-02-15 18:18:11] Title [titleNo=4, titleName=´ë¸®]
+[TRACE] [2020-02-15 18:18:11] Title [titleNo=5, titleName=»ç¿ø]
+[TRACE] [2020-02-15 18:18:11] test03InsertTitle()
+[TRACE] [2020-02-15 18:18:11] Title [titleNo=6, titleName=½ÓÀå]
+[TRACE] [2020-02-15 18:18:11] test04UpdateTitle()
+[TRACE] [2020-02-15 18:18:11] Title [titleNo=6, titleName=½ÇÀå]
+[TRACE] [2020-02-15 18:18:11] test05DeleteTitle()
+[TRACE] [2020-02-15 18:18:11] Title [titleNo=6, titleName=null]
+[TRACE] [2020-02-15 18:18:11] tearDownAfterClass()
+[TRACE] [2020-02-15 18:18:11] setUpBeforeClass()
+[TRACE] [2020-02-15 18:18:11] setUp()
+[TRACE] [2020-02-15 18:18:11] testGetConnection()
+[TRACE] [2020-02-15 18:18:11] HikariProxyConnection@209357938 wrapping com.mysql.jdbc.JDBC4Connection@9fa3823
+[TRACE] [2020-02-15 18:18:11] tearDown()
+[TRACE] [2020-02-15 18:18:11] tearDownAfterClass()
+[TRACE] [2020-02-15 19:00:07] setUpBeforeClass()
+[TRACE] [2020-02-15 19:00:07] test01SelectDepartmentByDno()
+[TRACE] [2020-02-15 19:00:07] Department [deptNo=3, deptName=°³¹ß, floor=9]
+[TRACE] [2020-02-15 19:00:07] test02SelectDepartmentByAll()
+[TRACE] [2020-02-15 19:00:07] Department [deptNo=1, deptName=¿µ¾÷, floor=8]
+[TRACE] [2020-02-15 19:00:07] Department [deptNo=2, deptName=±âÈ¹, floor=10]
+[TRACE] [2020-02-15 19:00:07] Department [deptNo=3, deptName=°³¹ß, floor=9]
+[TRACE] [2020-02-15 19:00:07] Department [deptNo=4, deptName=ÃÑ¹«, floor=7]
+[TRACE] [2020-02-15 19:00:07] test03InsertDepartment()
+[TRACE] [2020-02-15 19:00:07] Department [deptNo=5, deptName=±èÀå, floor=6]
+[TRACE] [2020-02-15 19:00:07] test04UpdateDepartment()
+[TRACE] [2020-02-15 19:00:07] Department [deptNo=5, deptName=¹ý¹«, floor=7]
+[TRACE] [2020-02-15 19:00:07] test05DeleteDepartment()
+[TRACE] [2020-02-15 19:00:07] Department [deptNo=5, deptName=null, floor=0]
+[TRACE] [2020-02-15 19:00:07] tearDownAfterClass()
+[TRACE] [2020-02-15 19:00:07] setUpBeforeClass()
+[TRACE] [2020-02-15 19:00:07] test01SelectEmployeeByENo()
+[TRACE] [2020-02-15 19:00:07] Employee [empNo=1003, empName=Á¶¹ÎÈñ, title=Title [titleNo=3, titleName=null], salary=3000000, gender=1, hiredate=2005-07-01 00:00:00.0, dno=Department [deptNo=3, deptName=null, floor=0]]
+[TRACE] [2020-02-15 19:00:07] 2005-07-01 - 00:00:00 2005³â 07¿ù 01ÀÏ 00½Ã 00ºÐ 00ÃÊ 
+[TRACE] [2020-02-15 19:00:07] 2005 ³â
+[TRACE] [2020-02-15 19:00:07] 7 ¿ù
+[TRACE] [2020-02-15 19:00:07] 1 ÀÏ
+[TRACE] [2020-02-15 19:00:07] 0½Ã 0ºÐ 0ÃÊ
+[TRACE] [2020-02-15 19:00:07] test02SelectEmployeeByAll()
+[TRACE] [2020-02-15 19:00:07] SQL ==> select empno, empname, title, salary, gender, hiredate, dno from employee
+[TRACE] [2020-02-15 19:00:07] Employee [empNo=1003, empName=Á¶¹ÎÈñ, title=Title [titleNo=3, titleName=null], salary=3000000, gender=1, hiredate=2005-07-01 00:00:00.0, dno=Department [deptNo=3, deptName=null, floor=0]]
+[TRACE] [2020-02-15 19:00:07] Employee [empNo=2106, empName=±èÃ¢¼·, title=Title [titleNo=4, titleName=null], salary=2500000, gender=0, hiredate=2010-12-01 00:00:00.0, dno=Department [deptNo=2, deptName=null, floor=0]]
+[TRACE] [2020-02-15 19:00:07] Employee [empNo=3011, empName=ÀÌ¼ö¹Î, title=Title [titleNo=2, titleName=null], salary=4000000, gender=1, hiredate=2007-07-01 00:00:00.0, dno=Department [deptNo=3, deptName=null, floor=0]]
+[TRACE] [2020-02-15 19:00:07] Employee [empNo=3426, empName=¹Ú¿µ±Ç, title=Title [titleNo=3, titleName=null], salary=3000000, gender=0, hiredate=2000-07-01 00:00:00.0, dno=Department [deptNo=1, deptName=null, floor=0]]
+[TRACE] [2020-02-15 19:00:07] Employee [empNo=3427, empName=ÃÖÁ¾Ã¶, title=Title [titleNo=5, titleName=null], salary=1500000, gender=0, hiredate=2010-12-01 00:00:00.0, dno=Department [deptNo=3, deptName=null, floor=0]]
+[TRACE] [2020-02-15 19:00:07] Employee [empNo=4377, empName=ÀÌ¼º·¡, title=Title [titleNo=1, titleName=null], salary=5000000, gender=0, hiredate=2000-03-01 00:00:00.0, dno=Department [deptNo=2, deptName=null, floor=0]]
+[TRACE] [2020-02-15 19:00:07] test03InsertEmployee()
+[TRACE] [2020-02-15 19:00:07] Employee [empNo=1004, empName=ÀÌÀ¯¿µ, title=Title [titleNo=2, titleName=null], salary=2000000, gender=1, hiredate=Sat Feb 15 19:00:07 KST 2020, dno=Department [deptNo=2, deptName=null, floor=0]]
+[TRACE] [2020-02-15 19:00:07] SQL ==> insert into employee values (1004, 'ÀÌÀ¯¿µ', 2, 2000000, 1, '2020-02-15 19:00:07.325' ,2)
+[TRACE] [2020-02-15 19:00:07] test04UpdateEmployee()
+[TRACE] [2020-02-15 19:00:07] SQL ==> update employee set empname = '¼öÁö', title=3 ,salary = 2500000, gender=0,hiredate ='2020-02-15 19:00:07.332',dno=3 where empno =1004
+[TRACE] [2020-02-15 19:00:07] 1
+[TRACE] [2020-02-15 19:00:07] test05DeleteEmployee()
+[TRACE] [2020-02-15 19:00:07] SQL ==> delete from employee where empno = 1004
+[TRACE] [2020-02-15 19:00:07] 1
+[TRACE] [2020-02-15 19:00:07] tearDownAfterClass()
+[TRACE] [2020-02-15 19:00:07] setUpBeforeClass()
+[TRACE] [2020-02-15 19:00:07] test01SelectTitleByNo()
+[TRACE] [2020-02-15 19:00:07] SQL ==> select no, titlename from title where no=3
+[TRACE] [2020-02-15 19:00:07] Title [titleNo=3, titleName=°úÀå]
+[TRACE] [2020-02-15 19:00:07] test02SelectTitleByAll()
+[TRACE] [2020-02-15 19:00:07] Title [titleNo=1, titleName=»çÀå]
+[TRACE] [2020-02-15 19:00:07] Title [titleNo=2, titleName=ºÎÀå]
+[TRACE] [2020-02-15 19:00:07] Title [titleNo=3, titleName=°úÀå]
+[TRACE] [2020-02-15 19:00:07] Title [titleNo=4, titleName=´ë¸®]
+[TRACE] [2020-02-15 19:00:07] Title [titleNo=5, titleName=»ç¿ø]
+[TRACE] [2020-02-15 19:00:07] test03InsertTitle()
+[TRACE] [2020-02-15 19:00:07] Title [titleNo=6, titleName=½ÓÀå]
+[TRACE] [2020-02-15 19:00:07] test04UpdateTitle()
+[TRACE] [2020-02-15 19:00:07] Title [titleNo=6, titleName=½ÇÀå]
+[TRACE] [2020-02-15 19:00:07] test05DeleteTitle()
+[TRACE] [2020-02-15 19:00:07] Title [titleNo=6, titleName=null]
+[TRACE] [2020-02-15 19:00:07] tearDownAfterClass()
+[TRACE] [2020-02-15 19:00:07] setUpBeforeClass()
+[TRACE] [2020-02-15 19:00:07] setUp()
+[TRACE] [2020-02-15 19:00:07] testGetConnection()
+[TRACE] [2020-02-15 19:00:07] HikariProxyConnection@209357938 wrapping com.mysql.jdbc.JDBC4Connection@9fa3823
+[TRACE] [2020-02-15 19:00:07] tearDown()
+[TRACE] [2020-02-15 19:00:07] tearDownAfterClass()
+[TRACE] [2020-02-16 18:32:57] SQL ==> select empno, empname, title, salary, gender, hiredate, dno from employee
+[TRACE] [2020-02-16 18:32:57] Employee [empNo=1003, empName=ì¡°ë¯¼í¬, title=Title [titleNo=3, titleName=null], salary=3000000, gender=1, hiredate=2005-07-01 00:00:00.0, dno=Department [3, deptName=null, floor=0]]
+[TRACE] [2020-02-16 18:32:57] Employee [empNo=2106, empName=ê¹€ì°½ì„­, title=Title [titleNo=4, titleName=null], salary=2500000, gender=0, hiredate=2010-12-01 00:00:00.0, dno=Department [2, deptName=null, floor=0]]
+[TRACE] [2020-02-16 18:32:57] Employee [empNo=3011, empName=ì´ìˆ˜ë¯¼, title=Title [titleNo=2, titleName=null], salary=4000000, gender=1, hiredate=2007-07-01 00:00:00.0, dno=Department [3, deptName=null, floor=0]]
+[TRACE] [2020-02-16 18:32:57] Employee [empNo=3426, empName=ë°•ì˜ê¶Œ, title=Title [titleNo=3, titleName=null], salary=3000000, gender=0, hiredate=2000-07-01 00:00:00.0, dno=Department [1, deptName=null, floor=0]]
+[TRACE] [2020-02-16 18:32:57] Employee [empNo=3427, empName=ìµœì¢…ì² , title=Title [titleNo=5, titleName=null], salary=1500000, gender=0, hiredate=2010-12-01 00:00:00.0, dno=Department [3, deptName=null, floor=0]]
+[TRACE] [2020-02-16 18:32:57] Employee [empNo=4377, empName=ì´ì„±ëž˜, title=Title [titleNo=1, titleName=null], salary=5000000, gender=0, hiredate=2000-03-01 00:00:00.0, dno=Department [2, deptName=null, floor=0]]
+[TRACE] [2020-02-16 18:33:37] SQL ==> select empno, empname, title, salary, gender, hiredate, dno from employee
+[TRACE] [2020-02-16 18:33:37] Employee [empNo=1003, empName=ì¡°ë¯¼í¬, title=Title [titleNo=3, titleName=null], salary=3000000, gender=1, hiredate=2005-07-01 00:00:00.0, dno=Department [3, deptName=null, floor=0]]
+[TRACE] [2020-02-16 18:33:38] Employee [empNo=2106, empName=ê¹€ì°½ì„­, title=Title [titleNo=4, titleName=null], salary=2500000, gender=0, hiredate=2010-12-01 00:00:00.0, dno=Department [2, deptName=null, floor=0]]
+[TRACE] [2020-02-16 18:33:38] Employee [empNo=3011, empName=ì´ìˆ˜ë¯¼, title=Title [titleNo=2, titleName=null], salary=4000000, gender=1, hiredate=2007-07-01 00:00:00.0, dno=Department [3, deptName=null, floor=0]]
+[TRACE] [2020-02-16 18:33:38] Employee [empNo=3426, empName=ë°•ì˜ê¶Œ, title=Title [titleNo=3, titleName=null], salary=3000000, gender=0, hiredate=2000-07-01 00:00:00.0, dno=Department [1, deptName=null, floor=0]]
+[TRACE] [2020-02-16 18:33:38] Employee [empNo=3427, empName=ìµœì¢…ì² , title=Title [titleNo=5, titleName=null], salary=1500000, gender=0, hiredate=2010-12-01 00:00:00.0, dno=Department [3, deptName=null, floor=0]]
+[TRACE] [2020-02-16 18:33:38] Employee [empNo=4377, empName=ì´ì„±ëž˜, title=Title [titleNo=1, titleName=null], salary=5000000, gender=0, hiredate=2000-03-01 00:00:00.0, dno=Department [2, deptName=null, floor=0]]
+[TRACE] [2020-02-16 18:36:33] SQL ==> select empno, empname, title, salary, gender, hiredate, dno from employee
+[TRACE] [2020-02-16 18:36:33] Employee [empNo=1003, empName=ì¡°ë¯¼í¬, title=Title [titleNo=3, titleName=null], salary=3000000, gender=1, hiredate=2005-07-01 00:00:00.0, dno=Department [3, deptName=null, floor=0]]
+[TRACE] [2020-02-16 18:36:33] Employee [empNo=2106, empName=ê¹€ì°½ì„­, title=Title [titleNo=4, titleName=null], salary=2500000, gender=0, hiredate=2010-12-01 00:00:00.0, dno=Department [2, deptName=null, floor=0]]
+[TRACE] [2020-02-16 18:36:33] Employee [empNo=3011, empName=ì´ìˆ˜ë¯¼, title=Title [titleNo=2, titleName=null], salary=4000000, gender=1, hiredate=2007-07-01 00:00:00.0, dno=Department [3, deptName=null, floor=0]]
+[TRACE] [2020-02-16 18:36:33] Employee [empNo=3426, empName=ë°•ì˜ê¶Œ, title=Title [titleNo=3, titleName=null], salary=3000000, gender=0, hiredate=2000-07-01 00:00:00.0, dno=Department [1, deptName=null, floor=0]]
+[TRACE] [2020-02-16 18:36:33] Employee [empNo=3427, empName=ìµœì¢…ì² , title=Title [titleNo=5, titleName=null], salary=1500000, gender=0, hiredate=2010-12-01 00:00:00.0, dno=Department [3, deptName=null, floor=0]]
+[TRACE] [2020-02-16 18:36:33] Employee [empNo=4377, empName=ì´ì„±ëž˜, title=Title [titleNo=1, titleName=null], salary=5000000, gender=0, hiredate=2000-03-01 00:00:00.0, dno=Department [2, deptName=null, floor=0]]
+[TRACE] [2020-02-16 18:44:27] SQL ==> select empno, empname, title, salary, gender, hiredate, dno from employee
+[TRACE] [2020-02-16 18:44:27] Employee [empNo=1003, empName=ì¡°ë¯¼í¬, title=Title [titleNo=3, titleName=null], salary=3000000, gender=1, hiredate=2005-07-01 00:00:00.0, dno=Department [3, deptName=null, floor=0]]
+[TRACE] [2020-02-16 18:44:27] Employee [empNo=2106, empName=ê¹€ì°½ì„­, title=Title [titleNo=4, titleName=null], salary=2500000, gender=0, hiredate=2010-12-01 00:00:00.0, dno=Department [2, deptName=null, floor=0]]
+[TRACE] [2020-02-16 18:44:27] Employee [empNo=3011, empName=ì´ìˆ˜ë¯¼, title=Title [titleNo=2, titleName=null], salary=4000000, gender=1, hiredate=2007-07-01 00:00:00.0, dno=Department [3, deptName=null, floor=0]]
+[TRACE] [2020-02-16 18:44:27] Employee [empNo=3426, empName=ë°•ì˜ê¶Œ, title=Title [titleNo=3, titleName=null], salary=3000000, gender=0, hiredate=2000-07-01 00:00:00.0, dno=Department [1, deptName=null, floor=0]]
+[TRACE] [2020-02-16 18:44:27] Employee [empNo=3427, empName=ìµœì¢…ì² , title=Title [titleNo=5, titleName=null], salary=1500000, gender=0, hiredate=2010-12-01 00:00:00.0, dno=Department [3, deptName=null, floor=0]]
+[TRACE] [2020-02-16 18:44:27] Employee [empNo=4377, empName=ì´ì„±ëž˜, title=Title [titleNo=1, titleName=null], salary=5000000, gender=0, hiredate=2000-03-01 00:00:00.0, dno=Department [2, deptName=null, floor=0]]
+[TRACE] [2020-02-16 19:36:20] SQL ==> select empno, empname, title, salary, gender, hiredate, dno from employee
+[TRACE] [2020-02-16 19:36:20] Employee [empNo=1003, empName=ì¡°ë¯¼í¬, title=Title [titleNo=3, titleName=null], salary=3000000, gender=1, hiredate=2005-07-01 00:00:00.0, dno=Department [3, deptName=null, floor=0]]
+[TRACE] [2020-02-16 19:36:20] Employee [empNo=2106, empName=ê¹€ì°½ì„­, title=Title [titleNo=4, titleName=null], salary=2500000, gender=0, hiredate=2010-12-01 00:00:00.0, dno=Department [2, deptName=null, floor=0]]
+[TRACE] [2020-02-16 19:36:20] Employee [empNo=3011, empName=ì´ìˆ˜ë¯¼, title=Title [titleNo=2, titleName=null], salary=4000000, gender=1, hiredate=2007-07-01 00:00:00.0, dno=Department [3, deptName=null, floor=0]]
+[TRACE] [2020-02-16 19:36:20] Employee [empNo=3426, empName=ë°•ì˜ê¶Œ, title=Title [titleNo=3, titleName=null], salary=3000000, gender=0, hiredate=2000-07-01 00:00:00.0, dno=Department [1, deptName=null, floor=0]]
+[TRACE] [2020-02-16 19:36:20] Employee [empNo=3427, empName=ìµœì¢…ì² , title=Title [titleNo=5, titleName=null], salary=1500000, gender=0, hiredate=2010-12-01 00:00:00.0, dno=Department [3, deptName=null, floor=0]]
+[TRACE] [2020-02-16 19:36:20] Employee [empNo=4377, empName=ì´ì„±ëž˜, title=Title [titleNo=1, titleName=null], salary=5000000, gender=0, hiredate=2000-03-01 00:00:00.0, dno=Department [2, deptName=null, floor=0]]
+[TRACE] [2020-02-16 19:47:44] SQL ==> select empno, empname, title, salary, gender, hiredate, dno from employee
+[TRACE] [2020-02-16 19:47:44] Employee [empNo=1003, empName=ì¡°ë¯¼í¬, title=Title [titleNo=3, titleName=null], salary=3000000, gender=1, hiredate=2005-07-01 00:00:00.0, dno=Department [3, deptName=null, floor=0]]
+[TRACE] [2020-02-16 19:47:44] Employee [empNo=2106, empName=ê¹€ì°½ì„­, title=Title [titleNo=4, titleName=null], salary=2500000, gender=0, hiredate=2010-12-01 00:00:00.0, dno=Department [2, deptName=null, floor=0]]
+[TRACE] [2020-02-16 19:47:44] Employee [empNo=3011, empName=ì´ìˆ˜ë¯¼, title=Title [titleNo=2, titleName=null], salary=4000000, gender=1, hiredate=2007-07-01 00:00:00.0, dno=Department [3, deptName=null, floor=0]]
+[TRACE] [2020-02-16 19:47:44] Employee [empNo=3426, empName=ë°•ì˜ê¶Œ, title=Title [titleNo=3, titleName=null], salary=3000000, gender=0, hiredate=2000-07-01 00:00:00.0, dno=Department [1, deptName=null, floor=0]]
+[TRACE] [2020-02-16 19:47:44] Employee [empNo=3427, empName=ìµœì¢…ì² , title=Title [titleNo=5, titleName=null], salary=1500000, gender=0, hiredate=2010-12-01 00:00:00.0, dno=Department [3, deptName=null, floor=0]]
+[TRACE] [2020-02-16 19:47:44] Employee [empNo=4377, empName=ì´ì„±ëž˜, title=Title [titleNo=1, titleName=null], salary=5000000, gender=0, hiredate=2000-03-01 00:00:00.0, dno=Department [2, deptName=null, floor=0]]
+[TRACE] [2020-02-16 19:54:28] SQL ==> select empno, empname, title, salary, gender, hiredate, dno from employee
+[TRACE] [2020-02-16 19:54:28] Employee [empNo=1003, empName=ì¡°ë¯¼í¬, title=Title [titleNo=3, titleName=null], salary=3000000, gender=1, hiredate=2005-07-01 00:00:00.0, dno=Department [3, deptName=null, floor=0]]
+[TRACE] [2020-02-16 19:54:28] Employee [empNo=2106, empName=ê¹€ì°½ì„­, title=Title [titleNo=4, titleName=null], salary=2500000, gender=0, hiredate=2010-12-01 00:00:00.0, dno=Department [2, deptName=null, floor=0]]
+[TRACE] [2020-02-16 19:54:28] Employee [empNo=3011, empName=ì´ìˆ˜ë¯¼, title=Title [titleNo=2, titleName=null], salary=4000000, gender=1, hiredate=2007-07-01 00:00:00.0, dno=Department [3, deptName=null, floor=0]]
+[TRACE] [2020-02-16 19:54:28] Employee [empNo=3426, empName=ë°•ì˜ê¶Œ, title=Title [titleNo=3, titleName=null], salary=3000000, gender=0, hiredate=2000-07-01 00:00:00.0, dno=Department [1, deptName=null, floor=0]]
+[TRACE] [2020-02-16 19:54:28] Employee [empNo=3427, empName=ìµœì¢…ì² , title=Title [titleNo=5, titleName=null], salary=1500000, gender=0, hiredate=2010-12-01 00:00:00.0, dno=Department [3, deptName=null, floor=0]]
+[TRACE] [2020-02-16 19:54:28] Employee [empNo=4377, empName=ì´ì„±ëž˜, title=Title [titleNo=1, titleName=null], salary=5000000, gender=0, hiredate=2000-03-01 00:00:00.0, dno=Department [2, deptName=null, floor=0]]
+[TRACE] [2020-02-16 20:02:16] SQL ==> select no from title order by no desc limit 1
+[TRACE] [2020-02-16 20:02:22] SQL ==> select no from title order by no desc limit 1
+[TRACE] [2020-02-16 20:04:47] SQL ==> select no from title order by no desc limit 1
+[TRACE] [2020-02-16 20:13:37] SQL ==> select no from title order by no desc limit 1
+[TRACE] [2020-02-16 20:13:45] SQL ==> select no from title order by no desc limit 1
+[TRACE] [2020-02-16 20:14:11] SQL ==> select no from title order by no desc limit 1
+[TRACE] [2020-02-16 20:15:22] SQL ==> select no from title order by no desc limit 1
+[TRACE] [2020-02-16 20:20:04] SQL ==> select no from title order by no desc limit 1
+[TRACE] [2020-02-16 20:22:56] SQL ==> select no from title order by no desc limit 1
+[TRACE] [2020-02-16 20:23:17] SQL ==> select no from title order by no desc limit 1
+[TRACE] [2020-02-16 20:23:23] SQL ==> select no from title order by no desc limit 1
+[TRACE] [2020-02-16 20:23:27] SQL ==> select no from title order by no desc limit 1
+[TRACE] [2020-02-16 20:23:56] SQL ==> select no from title order by no desc limit 1
+[TRACE] [2020-02-16 20:28:05] SQL ==> select empno, empname, title, salary, gender, hiredate, dno from employee
+[TRACE] [2020-02-16 20:28:05] Employee [empNo=1003, empName=ì¡°ë¯¼í¬, title=Title [titleNo=3, titleName=null], salary=3000000, gender=1, hiredate=2005-07-01 00:00:00.0, dno=Department [3, deptName=null, floor=0]]
+[TRACE] [2020-02-16 20:28:05] Employee [empNo=2106, empName=ê¹€ì°½ì„­, title=Title [titleNo=4, titleName=null], salary=2500000, gender=0, hiredate=2010-12-01 00:00:00.0, dno=Department [2, deptName=null, floor=0]]
+[TRACE] [2020-02-16 20:28:05] Employee [empNo=3011, empName=ì´ìˆ˜ë¯¼, title=Title [titleNo=2, titleName=null], salary=4000000, gender=1, hiredate=2007-07-01 00:00:00.0, dno=Department [3, deptName=null, floor=0]]
+[TRACE] [2020-02-16 20:28:05] Employee [empNo=3426, empName=ë°•ì˜ê¶Œ, title=Title [titleNo=3, titleName=null], salary=3000000, gender=0, hiredate=2000-07-01 00:00:00.0, dno=Department [1, deptName=null, floor=0]]
+[TRACE] [2020-02-16 20:28:05] Employee [empNo=3427, empName=ìµœì¢…ì² , title=Title [titleNo=5, titleName=null], salary=1500000, gender=0, hiredate=2010-12-01 00:00:00.0, dno=Department [3, deptName=null, floor=0]]
+[TRACE] [2020-02-16 20:28:05] Employee [empNo=4377, empName=ì´ì„±ëž˜, title=Title [titleNo=1, titleName=null], salary=5000000, gender=0, hiredate=2000-03-01 00:00:00.0, dno=Department [2, deptName=null, floor=0]]
+[TRACE] [2020-02-16 20:34:28] SQL ==> select no from title order by no desc limit 1
+[TRACE] [2020-02-16 20:34:42] SQL ==> select no from title order by no desc limit 1
+[TRACE] [2020-02-16 20:34:53] SQL ==> select no from title order by no desc limit 1
+[TRACE] [2020-02-16 20:35:37] SQL ==> select no from title order by no desc limit 1
+[TRACE] [2020-02-16 20:35:54] SQL ==> select no from title order by no desc limit 1
+[TRACE] [2020-02-16 20:40:58] SQL ==> select no from title order by no desc limit 1
+[TRACE] [2020-02-16 20:41:21] SQL ==> select no from title order by no desc limit 1
+[TRACE] [2020-02-16 20:41:26] SQL ==> select no from title order by no desc limit 1
+[TRACE] [2020-02-16 20:41:59] SQL ==> select no from title order by no desc limit 1
+[TRACE] [2020-02-16 20:45:38] SQL ==> select no from title order by no desc limit 1
+[TRACE] [2020-02-16 20:57:11] SQL ==> select empno, empname, title, salary, gender, hiredate, dno from employee
+[TRACE] [2020-02-16 20:57:11] Employee [empNo=1003, empName=ì¡°ë¯¼í¬, title=Title [titleNo=3, titleName=null], salary=3000000, gender=1, hiredate=2005-07-01 00:00:00.0, dno=null(0)]
+[TRACE] [2020-02-16 20:57:11] Employee [empNo=2106, empName=ê¹€ì°½ì„­, title=Title [titleNo=4, titleName=null], salary=2500000, gender=0, hiredate=2010-12-01 00:00:00.0, dno=null(0)]
+[TRACE] [2020-02-16 20:57:11] Employee [empNo=3011, empName=ì´ìˆ˜ë¯¼, title=Title [titleNo=2, titleName=null], salary=4000000, gender=1, hiredate=2007-07-01 00:00:00.0, dno=null(0)]
+[TRACE] [2020-02-16 20:57:11] Employee [empNo=3426, empName=ë°•ì˜ê¶Œ, title=Title [titleNo=3, titleName=null], salary=3000000, gender=0, hiredate=2000-07-01 00:00:00.0, dno=null(0)]
+[TRACE] [2020-02-16 20:57:11] Employee [empNo=3427, empName=ìµœì¢…ì² , title=Title [titleNo=5, titleName=null], salary=1500000, gender=0, hiredate=2010-12-01 00:00:00.0, dno=null(0)]
+[TRACE] [2020-02-16 20:57:11] Employee [empNo=4377, empName=ì´ì„±ëž˜, title=Title [titleNo=1, titleName=null], salary=5000000, gender=0, hiredate=2000-03-01 00:00:00.0, dno=null(0)]
+[TRACE] [2020-02-16 21:03:45] SQL ==> select empno, empname, title, salary, gender, hiredate, dno from employee
+[TRACE] [2020-02-16 21:03:45] Employee [empNo=1003, empName=ì¡°ë¯¼í¬, title=Title [titleNo=3, titleName=null], salary=3000000, gender=1, hiredate=2005-07-01 00:00:00.0, dno=null(0)]
+[TRACE] [2020-02-16 21:03:45] Employee [empNo=2106, empName=ê¹€ì°½ì„­, title=Title [titleNo=4, titleName=null], salary=2500000, gender=0, hiredate=2010-12-01 00:00:00.0, dno=null(0)]
+[TRACE] [2020-02-16 21:03:45] Employee [empNo=3011, empName=ì´ìˆ˜ë¯¼, title=Title [titleNo=2, titleName=null], salary=4000000, gender=1, hiredate=2007-07-01 00:00:00.0, dno=null(0)]
+[TRACE] [2020-02-16 21:03:45] Employee [empNo=3426, empName=ë°•ì˜ê¶Œ, title=Title [titleNo=3, titleName=null], salary=3000000, gender=0, hiredate=2000-07-01 00:00:00.0, dno=null(0)]
+[TRACE] [2020-02-16 21:03:45] Employee [empNo=3427, empName=ìµœì¢…ì² , title=Title [titleNo=5, titleName=null], salary=1500000, gender=0, hiredate=2010-12-01 00:00:00.0, dno=null(0)]
+[TRACE] [2020-02-16 21:03:45] Employee [empNo=4377, empName=ì´ì„±ëž˜, title=Title [titleNo=1, titleName=null], salary=5000000, gender=0, hiredate=2000-03-01 00:00:00.0, dno=null(0)]
+[TRACE] [2020-02-16 21:03:59] SQL ==> select empno, empname, title, salary, gender, hiredate, dno from employee
+[TRACE] [2020-02-16 21:03:59] Employee [empNo=1003, empName=ì¡°ë¯¼í¬, title=Title [titleNo=3, titleName=null], salary=3000000, gender=1, hiredate=2005-07-01 00:00:00.0, dno=null(0)]
+[TRACE] [2020-02-16 21:03:59] Employee [empNo=2106, empName=ê¹€ì°½ì„­, title=Title [titleNo=4, titleName=null], salary=2500000, gender=0, hiredate=2010-12-01 00:00:00.0, dno=null(0)]
+[TRACE] [2020-02-16 21:03:59] Employee [empNo=3011, empName=ì´ìˆ˜ë¯¼, title=Title [titleNo=2, titleName=null], salary=4000000, gender=1, hiredate=2007-07-01 00:00:00.0, dno=null(0)]
+[TRACE] [2020-02-16 21:03:59] Employee [empNo=3426, empName=ë°•ì˜ê¶Œ, title=Title [titleNo=3, titleName=null], salary=3000000, gender=0, hiredate=2000-07-01 00:00:00.0, dno=null(0)]
+[TRACE] [2020-02-16 21:03:59] Employee [empNo=3427, empName=ìµœì¢…ì² , title=Title [titleNo=5, titleName=null], salary=1500000, gender=0, hiredate=2010-12-01 00:00:00.0, dno=null(0)]
+[TRACE] [2020-02-16 21:03:59] Employee [empNo=4377, empName=ì´ì„±ëž˜, title=Title [titleNo=1, titleName=null], salary=5000000, gender=0, hiredate=2000-03-01 00:00:00.0, dno=null(0)]
+[TRACE] [2020-02-16 21:05:25] SQL ==> select empno, empname, title, salary, gender, hiredate, dno from employee
+[TRACE] [2020-02-16 21:05:25] Employee [empNo=1003, empName=ì¡°ë¯¼í¬, title=Title [titleNo=3, titleName=null], salary=3000000, gender=1, hiredate=2005-07-01 00:00:00.0, dno=null(0)]
+[TRACE] [2020-02-16 21:05:25] Employee [empNo=2106, empName=ê¹€ì°½ì„­, title=Title [titleNo=4, titleName=null], salary=2500000, gender=0, hiredate=2010-12-01 00:00:00.0, dno=null(0)]
+[TRACE] [2020-02-16 21:05:25] Employee [empNo=3011, empName=ì´ìˆ˜ë¯¼, title=Title [titleNo=2, titleName=null], salary=4000000, gender=1, hiredate=2007-07-01 00:00:00.0, dno=null(0)]
+[TRACE] [2020-02-16 21:05:25] Employee [empNo=3426, empName=ë°•ì˜ê¶Œ, title=Title [titleNo=3, titleName=null], salary=3000000, gender=0, hiredate=2000-07-01 00:00:00.0, dno=null(0)]
+[TRACE] [2020-02-16 21:05:25] Employee [empNo=3427, empName=ìµœì¢…ì² , title=Title [titleNo=5, titleName=null], salary=1500000, gender=0, hiredate=2010-12-01 00:00:00.0, dno=null(0)]
+[TRACE] [2020-02-16 21:05:25] Employee [empNo=4377, empName=ì´ì„±ëž˜, title=Title [titleNo=1, titleName=null], salary=5000000, gender=0, hiredate=2000-03-01 00:00:00.0, dno=null(0)]
+[TRACE] [2020-02-16 21:06:59] SQL ==> select empno, empname, title, salary, gender, hiredate, dno from employee
+[TRACE] [2020-02-16 21:06:59] Employee [empNo=1003, empName=ì¡°ë¯¼í¬, title=Title [titleNo=3, titleName=null], salary=3000000, gender=1, hiredate=2005-07-01 00:00:00.0, dno=null(0)]
+[TRACE] [2020-02-16 21:06:59] Employee [empNo=2106, empName=ê¹€ì°½ì„­, title=Title [titleNo=4, titleName=null], salary=2500000, gender=0, hiredate=2010-12-01 00:00:00.0, dno=null(0)]
+[TRACE] [2020-02-16 21:06:59] Employee [empNo=3011, empName=ì´ìˆ˜ë¯¼, title=Title [titleNo=2, titleName=null], salary=4000000, gender=1, hiredate=2007-07-01 00:00:00.0, dno=null(0)]
+[TRACE] [2020-02-16 21:06:59] Employee [empNo=3426, empName=ë°•ì˜ê¶Œ, title=Title [titleNo=3, titleName=null], salary=3000000, gender=0, hiredate=2000-07-01 00:00:00.0, dno=null(0)]
+[TRACE] [2020-02-16 21:06:59] Employee [empNo=3427, empName=ìµœì¢…ì² , title=Title [titleNo=5, titleName=null], salary=1500000, gender=0, hiredate=2010-12-01 00:00:00.0, dno=null(0)]
+[TRACE] [2020-02-16 21:06:59] Employee [empNo=4377, empName=ì´ì„±ëž˜, title=Title [titleNo=1, titleName=null], salary=5000000, gender=0, hiredate=2000-03-01 00:00:00.0, dno=null(0)]
+[TRACE] [2020-02-16 21:09:10] SQL ==> select empno, empname, title, salary, gender, hiredate, dno from employee
+[TRACE] [2020-02-16 21:09:10] Employee [empNo=1, empName=ì´ì„±ëž˜, title=Title [titleNo=1, titleName=null], salary=5000000, gender=0, hiredate=2000-03-01 00:00:00.0, dno=null(0)]
+[TRACE] [2020-02-16 21:09:10] Employee [empNo=2, empName=ë°•ì˜ê¶Œ, title=Title [titleNo=3, titleName=null], salary=3000000, gender=0, hiredate=2000-07-01 00:00:00.0, dno=null(0)]
+[TRACE] [2020-02-16 21:09:10] Employee [empNo=3, empName=ì¡°ë¯¼í¬, title=Title [titleNo=3, titleName=null], salary=3000000, gender=1, hiredate=2005-07-01 00:00:00.0, dno=null(0)]
+[TRACE] [2020-02-16 21:09:10] Employee [empNo=4, empName=ì´ìˆ˜ë¯¼, title=Title [titleNo=2, titleName=null], salary=4000000, gender=1, hiredate=2007-07-01 00:00:00.0, dno=null(0)]
+[TRACE] [2020-02-16 21:09:10] Employee [empNo=5, empName=ê¹€ì°½ì„­, title=Title [titleNo=4, titleName=null], salary=2500000, gender=0, hiredate=2010-12-01 00:00:00.0, dno=null(0)]
+[TRACE] [2020-02-16 21:09:10] Employee [empNo=6, empName=ìµœì¢…ì² , title=Title [titleNo=5, titleName=null], salary=1500000, gender=0, hiredate=2010-12-01 00:00:00.0, dno=null(0)]
+[TRACE] [2020-02-16 21:14:24] SQL ==> select empno, empname, title, salary, gender, hiredate, dno from employee
+[TRACE] [2020-02-16 21:14:24] Employee [empNo=1, empName=ì´ì„±ëž˜, title=Title [titleNo=1, titleName=null], salary=5000000, gender=0, hiredate=2000-03-01 00:00:00.0, dno=null(0)]
+[TRACE] [2020-02-16 21:14:24] Employee [empNo=2, empName=ë°•ì˜ê¶Œ, title=Title [titleNo=3, titleName=null], salary=3000000, gender=0, hiredate=2000-07-01 00:00:00.0, dno=null(0)]
+[TRACE] [2020-02-16 21:14:24] Employee [empNo=3, empName=ì¡°ë¯¼í¬, title=Title [titleNo=3, titleName=null], salary=3000000, gender=1, hiredate=2005-07-01 00:00:00.0, dno=null(0)]
+[TRACE] [2020-02-16 21:14:24] Employee [empNo=4, empName=ì´ìˆ˜ë¯¼, title=Title [titleNo=2, titleName=null], salary=4000000, gender=1, hiredate=2007-07-01 00:00:00.0, dno=null(0)]
+[TRACE] [2020-02-16 21:14:24] Employee [empNo=5, empName=ê¹€ì°½ì„­, title=Title [titleNo=4, titleName=null], salary=2500000, gender=0, hiredate=2010-12-01 00:00:00.0, dno=null(0)]
+[TRACE] [2020-02-16 21:14:24] Employee [empNo=6, empName=ìµœì¢…ì² , title=Title [titleNo=5, titleName=null], salary=1500000, gender=0, hiredate=2010-12-01 00:00:00.0, dno=null(0)]
+[TRACE] [2020-02-16 21:17:45] SQL ==> select empno, empname, title, salary, gender, hiredate, dno from employee
+[TRACE] [2020-02-16 21:17:45] Employee [empNo=1, empName=ì´ì„±ëž˜, title=Title [titleNo=1, titleName=null], salary=5000000, gender=0, hiredate=2000-03-01 00:00:00.0, dno=null(0)]
+[TRACE] [2020-02-16 21:17:45] Employee [empNo=2, empName=ë°•ì˜ê¶Œ, title=Title [titleNo=3, titleName=null], salary=3000000, gender=0, hiredate=2000-07-01 00:00:00.0, dno=null(0)]
+[TRACE] [2020-02-16 21:17:45] Employee [empNo=3, empName=ì¡°ë¯¼í¬, title=Title [titleNo=3, titleName=null], salary=3000000, gender=1, hiredate=2005-07-01 00:00:00.0, dno=null(0)]
+[TRACE] [2020-02-16 21:17:45] Employee [empNo=4, empName=ì´ìˆ˜ë¯¼, title=Title [titleNo=2, titleName=null], salary=4000000, gender=1, hiredate=2007-07-01 00:00:00.0, dno=null(0)]
+[TRACE] [2020-02-16 21:17:45] Employee [empNo=5, empName=ê¹€ì°½ì„­, title=Title [titleNo=4, titleName=null], salary=2500000, gender=0, hiredate=2010-12-01 00:00:00.0, dno=null(0)]
+[TRACE] [2020-02-16 21:17:45] Employee [empNo=6, empName=ìµœì¢…ì² , title=Title [titleNo=5, titleName=null], salary=1500000, gender=0, hiredate=2010-12-01 00:00:00.0, dno=null(0)]
+[TRACE] [2020-02-16 21:19:31] SQL ==> select empno, empname, title, salary, gender, hiredate, dno from employee
+[TRACE] [2020-02-16 21:19:31] Employee [empNo=1, empName=ì´ì„±ëž˜, title=Title [titleNo=1, titleName=null], salary=5000000, gender=0, hiredate=2000-03-01 00:00:00.0, dno=null(0)]
+[TRACE] [2020-02-16 21:19:31] Employee [empNo=2, empName=ë°•ì˜ê¶Œ, title=Title [titleNo=3, titleName=null], salary=3000000, gender=0, hiredate=2000-07-01 00:00:00.0, dno=null(0)]
+[TRACE] [2020-02-16 21:19:31] Employee [empNo=3, empName=ì¡°ë¯¼í¬, title=Title [titleNo=3, titleName=null], salary=3000000, gender=1, hiredate=2005-07-01 00:00:00.0, dno=null(0)]
+[TRACE] [2020-02-16 21:19:31] Employee [empNo=4, empName=ì´ìˆ˜ë¯¼, title=Title [titleNo=2, titleName=null], salary=4000000, gender=1, hiredate=2007-07-01 00:00:00.0, dno=null(0)]
+[TRACE] [2020-02-16 21:19:31] Employee [empNo=5, empName=ê¹€ì°½ì„­, title=Title [titleNo=4, titleName=null], salary=2500000, gender=0, hiredate=2010-12-01 00:00:00.0, dno=null(0)]
+[TRACE] [2020-02-16 21:19:31] Employee [empNo=6, empName=ìµœì¢…ì² , title=Title [titleNo=5, titleName=null], salary=1500000, gender=0, hiredate=2010-12-01 00:00:00.0, dno=null(0)]
+[TRACE] [2020-02-16 21:21:00] SQL ==> select empno, empname, title, salary, gender, hiredate, dno from employee
+[TRACE] [2020-02-16 21:21:00] Employee [empNo=1, empName=ì´ì„±ëž˜, title=Title [titleNo=1, titleName=null], salary=5000000, gender=0, hiredate=2000-03-01 00:00:00.0, dno=null(0)]
+[TRACE] [2020-02-16 21:21:00] Employee [empNo=2, empName=ë°•ì˜ê¶Œ, title=Title [titleNo=3, titleName=null], salary=3000000, gender=0, hiredate=2000-07-01 00:00:00.0, dno=null(0)]
+[TRACE] [2020-02-16 21:21:00] Employee [empNo=3, empName=ì¡°ë¯¼í¬, title=Title [titleNo=3, titleName=null], salary=3000000, gender=1, hiredate=2005-07-01 00:00:00.0, dno=null(0)]
+[TRACE] [2020-02-16 21:21:00] Employee [empNo=4, empName=ì´ìˆ˜ë¯¼, title=Title [titleNo=2, titleName=null], salary=4000000, gender=1, hiredate=2007-07-01 00:00:00.0, dno=null(0)]
+[TRACE] [2020-02-16 21:21:00] Employee [empNo=5, empName=ê¹€ì°½ì„­, title=Title [titleNo=4, titleName=null], salary=2500000, gender=0, hiredate=2010-12-01 00:00:00.0, dno=null(0)]
+[TRACE] [2020-02-16 21:21:00] Employee [empNo=6, empName=ìµœì¢…ì² , title=Title [titleNo=5, titleName=null], salary=1500000, gender=0, hiredate=2010-12-01 00:00:00.0, dno=null(0)]
+[TRACE] [2020-02-16 21:21:04] SQL ==> delete from employee where empno = 6
+[TRACE] [2020-02-16 21:31:43] SQL ==> select empno, empname, title, salary, gender, hiredate, dno from employee
+[TRACE] [2020-02-16 21:31:43] Employee [empNo=1, empName=ì´ì„±ëž˜, title=Title [titleNo=1, titleName=null], salary=5000000, gender=0, hiredate=2000-03-01 00:00:00.0, dno=null(0)]
+[TRACE] [2020-02-16 21:31:43] Employee [empNo=2, empName=ë°•ì˜ê¶Œ, title=Title [titleNo=3, titleName=null], salary=3000000, gender=0, hiredate=2000-07-01 00:00:00.0, dno=null(0)]
+[TRACE] [2020-02-16 21:31:43] Employee [empNo=3, empName=ì¡°ë¯¼í¬, title=Title [titleNo=3, titleName=null], salary=3000000, gender=1, hiredate=2005-07-01 00:00:00.0, dno=null(0)]
+[TRACE] [2020-02-16 21:31:43] Employee [empNo=4, empName=ì´ìˆ˜ë¯¼, title=Title [titleNo=2, titleName=null], salary=4000000, gender=1, hiredate=2007-07-01 00:00:00.0, dno=null(0)]
+[TRACE] [2020-02-16 21:31:43] Employee [empNo=5, empName=ê¹€ì°½ì„­, title=Title [titleNo=4, titleName=null], salary=2500000, gender=0, hiredate=2010-12-01 00:00:00.0, dno=null(0)]
+[TRACE] [2020-02-16 21:41:05] SQL ==> select empno, empname, title, salary, gender, hiredate, dno from employee
+[TRACE] [2020-02-16 21:41:05] Employee [empNo=1, empName=ì´ì„±ëž˜, title=Title [titleNo=1, titleName=null], salary=5000000, gender=0, hiredate=2000-03-01 00:00:00.0, dno=null(0)]
+[TRACE] [2020-02-16 21:41:05] Employee [empNo=2, empName=ë°•ì˜ê¶Œ, title=Title [titleNo=3, titleName=null], salary=3000000, gender=0, hiredate=2000-07-01 00:00:00.0, dno=null(0)]
+[TRACE] [2020-02-16 21:41:05] Employee [empNo=3, empName=ì¡°ë¯¼í¬, title=Title [titleNo=3, titleName=null], salary=3000000, gender=1, hiredate=2005-07-01 00:00:00.0, dno=null(0)]
+[TRACE] [2020-02-16 21:41:05] Employee [empNo=4, empName=ì´ìˆ˜ë¯¼, title=Title [titleNo=2, titleName=null], salary=4000000, gender=1, hiredate=2007-07-01 00:00:00.0, dno=null(0)]
+[TRACE] [2020-02-16 21:41:05] Employee [empNo=5, empName=ê¹€ì°½ì„­, title=Title [titleNo=4, titleName=null], salary=2500000, gender=0, hiredate=2010-12-01 00:00:00.0, dno=null(0)]
+[TRACE] [2020-02-16 21:48:37] SQL ==> select empno, empname, title, salary, gender, hiredate, dno from employee
+[TRACE] [2020-02-16 21:48:37] empName=1, title=ì´ì„±ëž˜, salary=1(null), gender=5000000, hiredate=0, dno=2000-03-01 00:00:00.0]
+[TRACE] [2020-02-16 21:48:37] empName=2, title=ë°•ì˜ê¶Œ, salary=3(null), gender=3000000, hiredate=0, dno=2000-07-01 00:00:00.0]
+[TRACE] [2020-02-16 21:48:37] empName=3, title=ì¡°ë¯¼í¬, salary=3(null), gender=3000000, hiredate=1, dno=2005-07-01 00:00:00.0]
+[TRACE] [2020-02-16 21:48:37] empName=4, title=ì´ìˆ˜ë¯¼, salary=2(null), gender=4000000, hiredate=1, dno=2007-07-01 00:00:00.0]
+[TRACE] [2020-02-16 21:48:37] empName=5, title=ê¹€ì°½ì„­, salary=4(null), gender=2500000, hiredate=0, dno=2010-12-01 00:00:00.0]
+[TRACE] [2020-02-16 21:48:46] SQL ==> select empno, empname, title, salary, gender, hiredate, dno from employee
+[TRACE] [2020-02-16 21:48:46] empName=1, title=ì´ì„±ëž˜, salary=1(null), gender=5000000, hiredate=0, dno=2000-03-01 00:00:00.0]
+[TRACE] [2020-02-16 21:48:46] empName=2, title=ë°•ì˜ê¶Œ, salary=3(null), gender=3000000, hiredate=0, dno=2000-07-01 00:00:00.0]
+[TRACE] [2020-02-16 21:48:46] empName=3, title=ì¡°ë¯¼í¬, salary=3(null), gender=3000000, hiredate=1, dno=2005-07-01 00:00:00.0]
+[TRACE] [2020-02-16 21:48:46] empName=4, title=ì´ìˆ˜ë¯¼, salary=2(null), gender=4000000, hiredate=1, dno=2007-07-01 00:00:00.0]
+[TRACE] [2020-02-16 21:48:46] empName=5, title=ê¹€ì°½ì„­, salary=4(null), gender=2500000, hiredate=0, dno=2010-12-01 00:00:00.0]
+[TRACE] [2020-02-16 22:11:25] SQL ==> select e.empno, e.empname, t.no, t.titlename, e.salary, e.gender, d.deptno, d.deptname, d.floor, e.hiredate from employee e left join title t on e.title = t.no left join department d on e.dno = d.deptno
+[TRACE] [2020-02-16 22:12:36] SQL ==> select e.empno, e.empname, t.no, t.titlename, e.salary, e.gender, d.deptno, d.deptname, d.floor, e.hiredate from employee e left join title t on e.title = t.no left join department d on e.dno = d.deptno
+[TRACE] [2020-02-16 22:22:00] SQL ==> select e.empno, e.empname, t.no, t.titlename, e.salary, e.gender, d.deptno, d.deptname, d.floor, e.hiredate from employee e left join title t on e.title = t.no left join department d on e.dno = d.deptno
+[TRACE] [2020-02-16 22:23:44] SQL ==> select e.empno, e.empname, t.no, t.titlename, e.salary, e.gender, d.deptno, d.deptname, d.floor, e.hiredate from employee e left join title t on e.title = t.no left join department d on e.dno = d.deptno
+[TRACE] [2020-02-16 22:23:54] SQL ==> select e.empno, e.empname, t.no, t.titlename, e.salary, e.gender, d.deptno, d.deptname, d.floor, e.hiredate from employee e left join title t on e.title = t.no left join department d on e.dno = d.deptno
+[TRACE] [2020-02-16 22:25:32] SQL ==> select e.empno, e.empname, t.no, t.titlename, e.salary, e.gender, d.deptno, d.deptname, d.floor, e.hiredate from employee e left join title t on e.title = t.no left join department d on e.dno = d.deptno
+[TRACE] [2020-02-16 22:26:13] SQL ==> select e.empno, e.empname, t.no, t.titlename, e.salary, e.gender, d.deptno, d.deptname, d.floor, e.hiredate from employee e left join title t on e.title = t.no left join department d on e.dno = d.deptno
+[TRACE] [2020-02-16 22:30:23] SQL ==> select empno from employee order by empno desc limit 1
+[TRACE] [2020-02-16 22:30:49] SQL ==> select empno from employee order by empno desc limit 1
+[TRACE] [2020-02-16 22:32:29] SQL ==> select empno from employee order by empno desc limit 1
+[TRACE] [2020-02-16 22:32:29] SQL ==> select e.empno, e.empname, t.no, t.titlename, e.salary, e.gender, d.deptno, d.deptname, d.floor, e.hiredate from employee e left join title t on e.title = t.no left join department d on e.dno = d.deptno
+[TRACE] [2020-02-16 22:34:36] SQL ==> select empno from employee order by empno desc limit 1
+[TRACE] [2020-02-16 22:36:50] SQL ==> select empno from employee order by empno desc limit 1
+[TRACE] [2020-02-16 22:39:50] SQL ==> select no from title order by no desc limit 1
+[TRACE] [2020-02-16 22:39:56] SQL ==> select empno from employee order by empno desc limit 1
+[TRACE] [2020-02-16 22:40:26] SQL ==> select e.empno, e.empname, t.no, t.titlename, e.salary, e.gender, d.deptno, d.deptname, d.floor, e.hiredate from employee e left join title t on e.title = t.no left join department d on e.dno = d.deptno
+[TRACE] [2020-02-16 22:41:06] SQL ==> select empno from employee order by empno desc limit 1
+[TRACE] [2020-02-16 22:43:09] SQL ==> select empno from employee order by empno desc limit 1
+[TRACE] [2020-02-16 22:43:13] SQL ==> select empno from employee order by empno desc limit 1
+[TRACE] [2020-02-16 22:46:01] SQL ==> select empno,hiredate from employee order by empno desc limit 1
+[TRACE] [2020-02-16 22:46:01] SQL ==> select e.empno, e.empname, t.no, t.titlename, e.salary, e.gender, d.deptno, d.deptname, d.floor, e.hiredate from employee e left join title t on e.title = t.no left join department d on e.dno = d.deptno
+[TRACE] [2020-02-16 22:47:35] SQL ==> select empno,hiredate from employee order by empno desc limit 1
+[TRACE] [2020-02-16 22:47:35] SQL ==> select e.empno, e.empname, t.no, t.titlename, e.salary, e.gender, d.deptno, d.deptname, d.floor, e.hiredate from employee e left join title t on e.title = t.no left join department d on e.dno = d.deptno
+[TRACE] [2020-02-16 22:48:07] SQL ==> delete from employee where empno = 4
+[TRACE] [2020-02-16 22:56:26] SQL ==> select empno,hiredate from employee order by empno desc limit 1
+[TRACE] [2020-02-16 22:56:26] SQL ==> select e.empno, e.empname, t.no, t.titlename, e.salary, e.gender, d.deptno, d.deptname, d.floor, e.hiredate from employee e left join title t on e.title = t.no left join department d on e.dno = d.deptno
+[TRACE] [2020-02-16 22:56:32] SQL ==> update employee setempname='ì¡°ë¯¼', title=3, salary=3000000, gender=0, dno=3, hiredate='2005-07-01 00:00:00' where empno=3
+[TRACE] [2020-02-16 22:56:32] SQL ==> select empno,hiredate from employee order by empno desc limit 1
+[TRACE] [2020-02-16 22:58:20] SQL ==> select empno,hiredate from employee order by empno desc limit 1
+[TRACE] [2020-02-16 22:58:20] SQL ==> select e.empno, e.empname, t.no, t.titlename, e.salary, e.gender, d.deptno, d.deptname, d.floor, e.hiredate from employee e left join title t on e.title = t.no left join department d on e.dno = d.deptno
+[TRACE] [2020-02-16 22:58:26] SQL ==> update employee set empname='ì¡°ë¯¼', title=3, salary=3000000, gender=0, dno=3, hiredate='2005-07-01 00:00:00' where empno=3
+[TRACE] [2020-02-16 22:58:26] SQL ==> select empno,hiredate from employee order by empno desc limit 1
+[TRACE] [2020-02-16 22:58:43] SQL ==> insert into employee values (6, 'í…ŒìŠ¤íŠ¸', 7, 1500000, 0, '2020-02-16 22:58:26.186' ,3)
+[TRACE] [2020-02-16 22:58:43] SQL ==> select empno,hiredate from employee order by empno desc limit 1
+[TRACE] [2020-02-16 22:58:56] SQL ==> delete from employee where empno = 3
+[TRACE] [2020-02-16 22:58:59] SQL ==> delete from employee where empno = 3
+[TRACE] [2020-02-17 12:26:54] SQL ==> select empno,hiredate from employee order by empno desc limit 1
+[TRACE] [2020-02-17 12:26:54] SQL ==> select e.empno, e.empname, t.no, t.titlename, e.salary, e.gender, d.deptno, d.deptname, d.floor, e.hiredate from employee e left join title t on e.title = t.no left join department d on e.dno = d.deptno
+[TRACE] [2020-02-17 12:26:58] SQL ==> select no from title order by no desc limit 1
+[TRACE] [2020-02-17 12:27:11] SQL ==> select no from title order by no desc limit 1
+[TRACE] [2020-02-17 12:27:22] SQL ==> select no from title order by no desc limit 1
+[TRACE] [2020-02-17 12:27:31] SQL ==> select no from title order by no desc limit 1
+[TRACE] [2020-02-17 12:27:41] SQL ==> select no from title order by no desc limit 1
+[TRACE] [2020-02-17 12:27:48] SQL ==> select no from title order by no desc limit 1
+[TRACE] [2020-02-17 12:28:00] SQL ==> select no from title order by no desc limit 1
+[TRACE] [2020-02-17 12:28:08] SQL ==> select no from title order by no desc limit 1
+[TRACE] [2020-02-17 12:28:10] SQL ==> select no from title order by no desc limit 1
+[TRACE] [2020-02-17 12:28:13] SQL ==> select no from title order by no desc limit 1
+[TRACE] [2020-02-17 12:28:29] SQL ==> select no from title order by no desc limit 1
+[TRACE] [2020-02-17 12:28:52] SQL ==> select no from title order by no desc limit 1
+[TRACE] [2020-02-17 12:29:12] SQL ==> select no from title order by no desc limit 1
+[TRACE] [2020-02-17 12:29:24] SQL ==> select no from title order by no desc limit 1
+[TRACE] [2020-02-17 12:29:31] SQL ==> select empno,hiredate from employee order by empno desc limit 1
+[TRACE] [2020-02-17 12:29:31] SQL ==> select e.empno, e.empname, t.no, t.titlename, e.salary, e.gender, d.deptno, d.deptname, d.floor, e.hiredate from employee e left join title t on e.title = t.no left join department d on e.dno = d.deptno
+[TRACE] [2020-02-17 12:30:00] SQL ==> update employee set empname='ê¹€ì°½ì„­', title=4, salary=2500000, gender=0, dno=1, hiredate='2010-12-01 00:00:00' where empno=5
+[TRACE] [2020-02-17 12:30:00] SQL ==> select empno,hiredate from employee order by empno desc limit 1
+[TRACE] [2020-02-17 12:30:05] SQL ==> delete from employee where empno = 2
+[TRACE] [2020-02-17 12:30:14] SQL ==> update employee set empname='ê¹€ì°½ì„­', title=4, salary=2500000, gender=0, dno=3, hiredate='2010-12-01 00:00:00' where empno=5
+[TRACE] [2020-02-17 12:30:14] SQL ==> select empno,hiredate from employee order by empno desc limit 1
+[TRACE] [2020-02-17 12:30:22] SQL ==> delete from employee where empno = 5
+[TRACE] [2020-02-17 12:30:31] SQL ==> update employee set empname='ë°•ì˜ê¶Œ', title=1, salary=3000000, gender=0, dno=2, hiredate='2000-07-01 00:00:00' where empno=2
+[TRACE] [2020-02-17 12:30:31] SQL ==> select empno,hiredate from employee order by empno desc limit 1
+[TRACE] [2020-02-17 12:38:19] SQL ==> select deptno from department order by deptno desc limit 1
+[TRACE] [2020-02-17 14:07:00] SQL ==> select empno,hiredate from employee order by empno desc limit 1
+[TRACE] [2020-02-17 14:07:00] SQL ==> select e.empno, e.empname, t.no, t.titlename, e.salary, e.gender, d.deptno, d.deptname, d.floor, e.hiredate from employee e left join title t on e.title = t.no left join department d on e.dno = d.deptno
+[TRACE] [2020-02-17 14:13:39] SQL ==> select empno,hiredate from employee order by empno desc limit 1
+[TRACE] [2020-02-17 14:13:39] SQL ==> select e.empno, e.empname, t.no, t.titlename, e.salary, e.gender, d.deptno, d.deptname, d.floor, e.hiredate from employee e left join title t on e.title = t.no left join department d on e.dno = d.deptno
+[TRACE] [2020-02-17 14:16:06] SQL ==> select empno,hiredate from employee order by empno desc limit 1
+[TRACE] [2020-02-17 14:16:06] SQL ==> select e.empno, e.empname, t.no, t.titlename, e.salary, e.gender, d.deptno, d.deptname, d.floor, e.hiredate from employee e left join title t on e.title = t.no left join department d on e.dno = d.deptno
